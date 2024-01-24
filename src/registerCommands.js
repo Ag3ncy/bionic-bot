@@ -1,14 +1,16 @@
-
 const { REST } = require('@discordjs/rest');
 const { Routes } = require('discord-api-types/v9');
-const commands = require('./commands');
+const { commands } = require('./handlers/commandHandler');
 require('dotenv').config();
 
-const clientId = '1199329452304371803';
-const guildId = '1151885478472208576';
+const clientId = process.env.CLIENT_ID;
+const guildId = process.env.BIONIC_GUILD_ID;
 const token = process.env.DISCORD_BOT_TOKEN;
 
+
 const rest = new REST({ version: '9' }).setToken(token);
+
+const commandsData = Array.from(commands.values()).map(cmd => cmd.data);
 
 (async () => {
     try {
@@ -16,7 +18,7 @@ const rest = new REST({ version: '9' }).setToken(token);
 
         await rest.put(
             Routes.applicationGuildCommands(clientId, guildId),
-            { body: commands },
+            { body: commandsData },
         );
 
         console.log('Successfully reloaded application (/) commands.');
