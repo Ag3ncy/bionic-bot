@@ -9,7 +9,7 @@ module.exports = {
             return message.reply("You do not have the required permissions to use this command.");
         }
 
-        const channelId = '1208364017362538536';
+        const channelId = '1208364017362538536'; // Replace with your target channel ID
         const channel = message.guild.channels.cache.get(channelId);
 
         if (!channel) return console.error("Channel not found.");
