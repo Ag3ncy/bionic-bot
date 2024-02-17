@@ -2,7 +2,10 @@ require('dotenv').config();
 const { Client, Events, GatewayIntentBits } = require('discord.js');
 const { executeCommand } = require('./handlers/commandHandler');
 const analyticsService = require('./services/analyticsService');
+const { registerCommands } = require('./registerCommands');
 
+
+// Initialize Discord client
 const client = new Client({
     intents: [
         GatewayIntentBits.Guilds,
@@ -13,8 +16,10 @@ const client = new Client({
     ],
 });
 
-client.once(Events.ClientReady, readyClient => {
-	console.log(`Ready! Logged in as ${readyClient.user.tag}`);
+// Discord bot event listeners and login
+client.once(Events.ClientReady, async readyClient => {
+    console.log(`Ready! Logged in as ${readyClient.user.tag}`);
+    await registerCommands();
 });
 
 // Listen for interactions and execute commands

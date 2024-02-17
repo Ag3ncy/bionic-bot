@@ -5,24 +5,35 @@ require('dotenv').config();
 
 const clientId = process.env.CLIENT_ID;
 const guildId = process.env.BIONIC_GUILD_ID;
-const token = process.env.DISCORD_BOT_TOKEN;
+const botToken = process.env.DISCORD_BOT_TOKEN; // Ensure this is your bot token
+const adminRole = process.env.ADMIN_ROLE_ID; // The role ID for admins
 
+async function registerCommands() {
+    const rest = new REST({ version: '9' }).setToken(`Bot ${botToken}`);
 
-const rest = new REST({ version: '9' }).setToken(token);
-
-const commandsData = Array.from(commands.values()).map(cmd => cmd.data);
-
-(async () => {
     try {
         console.log('Started refreshing application (/) commands.');
 
+        const commandsData = Array.from(commands.values()).map(cmd => cmd.data.toJSON());
+
+        // Register commands
         await rest.put(
             Routes.applicationGuildCommands(clientId, guildId),
             { body: commandsData },
         );
 
         console.log('Successfully reloaded application (/) commands.');
-    } catch (error) {
-        console.error(error);
-    }
-})();
+
+        // Optionally, fetch the full list of commands registered in the guild to get their IDs
+        // This step is necessary if you need command IDs for setting permissions
+        const registeredCommands = await rest.get(
+            Routes.applicationGuildCommands(clientId, guildId),
+        );
+        
+        } catch (error) {
+                console.error('Failed to register commands or set permissions:', error);
+         }
+            
+}   
+
+module.exports = { registerCommands };
