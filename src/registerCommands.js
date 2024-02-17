@@ -5,16 +5,16 @@ require('dotenv').config();
 
 const clientId = process.env.CLIENT_ID;
 const guildId = process.env.BIONIC_GUILD_ID;
-const token = process.env.DISCORD_BOT_TOKEN;
-const adminRole = process.env.ADMIN_ROLE_ID;
-
-const rest = new REST({ version: '9' }).setToken(token);
+const botToken = process.env.DISCORD_BOT_TOKEN; // Ensure this is your bot token
+const adminRole = process.env.ADMIN_ROLE_ID; // The role ID for admins
 
 async function registerCommands() {
+    const rest = new REST({ version: '9' }).setToken(`Bot ${botToken}`);
+
     try {
         console.log('Started refreshing application (/) commands.');
 
-        const commandsData = Array.from(commands.values()).map(cmd => cmd.data);
+        const commandsData = Array.from(commands.values()).map(cmd => cmd.data.toJSON());
 
         // Register commands
         await rest.put(
@@ -24,38 +24,31 @@ async function registerCommands() {
 
         console.log('Successfully reloaded application (/) commands.');
 
-        // Fetch the full list of commands registered in the guild
+        // Optionally, fetch the full list of commands registered in the guild to get their IDs
+        // This step is necessary if you need command IDs for setting permissions
         const registeredCommands = await rest.get(
             Routes.applicationGuildCommands(clientId, guildId),
         );
 
-        // Assuming admin commands are tagged with isAdmin: true
-        const adminCommands = registeredCommands.filter(cmd => commands.get(cmd.name).isAdmin);
-
-        // Set permissions for admin commands
-        for (const cmd of adminCommands) {
+        // Set permissions for each command to make them admin-viewable only
+        for (const command of registeredCommands) {
             const permissions = [
                 {
-                    id: guildId,
-                    type: 1, // Use 1 for ROLE
-                    permission: false,
-                },
-                {
                     id: adminRole,
-                    type: 1, // Use 1 for ROLE
-                    permission: true,
+                    type: 1, // Type 1 indicates a role
+                    permission: true, // True allows the role to use the command
                 },
             ];
-        
+
             await rest.put(
-                Routes.applicationCommandPermissions(clientId, guildId, cmd.id),
+                Routes.applicationCommandPermissions(clientId, guildId, command.id),
                 { body: { permissions } },
             );
         }
 
         console.log('Permissions set for admin commands.');
     } catch (error) {
-        console.error(error);
+        console.error('Failed to register commands or set permissions:', error);
     }
 }
 

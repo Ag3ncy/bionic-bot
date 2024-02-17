@@ -1,0 +1,3 @@
+ag3ncy.tools {
+	reverse_proxy localhost:3000
+}
