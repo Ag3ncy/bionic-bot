@@ -2,7 +2,6 @@ require('dotenv').config();
 const { Client, Events, GatewayIntentBits } = require('discord.js');
 const { executeCommand } = require('./handlers/commandHandler');
 const analyticsService = require('./services/analyticsService');
-const { registerCommands } = require('./registerCommands'); // Import the function
 
 const client = new Client({
     intents: [
@@ -14,9 +13,8 @@ const client = new Client({
     ],
 });
 
-client.once(Events.ClientReady, async readyClient => {
-    console.log(`Ready! Logged in as ${readyClient.user.tag}`);
-    await registerCommands(); // Call the function to register commands
+client.once(Events.ClientReady, readyClient => {
+	console.log(`Ready! Logged in as ${readyClient.user.tag}`);
 });
 
 // Listen for interactions and execute commands
