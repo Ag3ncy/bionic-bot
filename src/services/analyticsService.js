@@ -1,3 +1,5 @@
+const unicode = require("emoji-unicode-map");
+
 const analyticsService = {
     logMessage: (message) => {
         // Basic Message Details
@@ -34,7 +36,7 @@ const analyticsService = {
 
     logReaction: (reaction, user) => {
         const message = reaction.message;
-        console.log(`Reaction: ${reaction.emoji.name} by ${user.tag} (User ID: ${user.id}) on message ID: ${message.id}`);
+        console.log(`Reaction: ${unicode.get(reaction.emoji.name)} by ${user.tag} (User ID: ${user.id}) on message ID: ${message.id}`);
         console.log(`Message Content: ${message.content}`);
         console.log(`In Channel: ${message.channel.name} (ID: ${message.channel.id})`);
         if (message.guild) {

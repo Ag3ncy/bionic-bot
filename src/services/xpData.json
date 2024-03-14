@@ -1,0 +1,6634 @@
+{
+  "174163262596710400": {
+    "nickname": "Izaak",
+    "identifier": "_planets#0",
+    "id": "174163262596710400",
+    "xp": 2560,
+    "lastUpdate": 1710356903787,
+    "xpGainInWindow": 20
+  },
+  "": {
+    "nickname": "",
+    "identifier": "",
+    "id": "",
+    "xp": 1,
+    "lastUpdate": 1709304800552,
+    "xpGainInWindow": 1
+  },
+  "1107614994582999080": {
+    "nickname": "Izaak",
+    "identifier": "izaak._#0",
+    "id": "1107614994582999080",
+    "xp": 80,
+    "lastUpdate": 1709714323094,
+    "xpGainInWindow": 40
+  },
+  "344103318970302465": {
+    "nickname": "0xsimmo",
+    "identifier": "0xsimmo#0",
+    "id": "344103318970302465",
+    "xp": 1175,
+    "lastUpdate": 1710355498787,
+    "xpGainInWindow": 30
+  },
+  "892839486130622525": {
+    "nickname": "Alex",
+    "identifier": "al3x_hugh3z#0",
+    "id": "892839486130622525",
+    "xp": 1520,
+    "lastUpdate": 1710357335768,
+    "xpGainInWindow": 5
+  },
+  "1072144822288265348": {
+    "nickname": "Kim",
+    "identifier": "kim.9042#0",
+    "id": "1072144822288265348",
+    "xp": 80,
+    "lastUpdate": 1709820507644,
+    "xpGainInWindow": 20
+  },
+  "533023164025012254": {
+    "nickname": "Josel OC",
+    "identifier": "jlochop#0",
+    "id": "533023164025012254",
+    "xp": 200,
+    "lastUpdate": 1709935121280,
+    "xpGainInWindow": 5
+  },
+  "829662753110753290": {
+    "nickname": "arkit3kt.eth",
+    "identifier": "arkit3kt.eth#0",
+    "id": "829662753110753290",
+    "xp": 1540,
+    "lastUpdate": 1710360787914,
+    "xpGainInWindow": 10
+  },
+  "1107614880091095091": {
+    "nickname": "Vickylawrence",
+    "identifier": "vickylawrence#0",
+    "id": "1107614880091095091",
+    "xp": 15,
+    "lastUpdate": 1709641128222,
+    "xpGainInWindow": 15
+  },
+  "1214546866709073972": {
+    "nickname": "VickyJaz🕷",
+    "identifier": "vickyjaz_75534#0",
+    "id": "1214546866709073972",
+    "xp": 10,
+    "lastUpdate": 1709651034794,
+    "xpGainInWindow": 10
+  },
+  "1064497461651046411": {
+    "nickname": "Ag3ncy",
+    "identifier": ".ag3ncy#0",
+    "id": "1064497461651046411",
+    "xp": 320,
+    "lastUpdate": 1710239899355,
+    "xpGainInWindow": 85
+  },
+  "784519217817845791": {
+    "nickname": "Florin Neagoe | Kleine Walachei",
+    "identifier": "kleinewalachei#0",
+    "id": "784519217817845791",
+    "xp": 30,
+    "lastUpdate": 1709729731172,
+    "xpGainInWindow": 5
+  },
+  "1008859318877163660": {
+    "nickname": "Antonin0206",
+    "identifier": "antonin0206#0",
+    "id": "1008859318877163660",
+    "xp": 85,
+    "lastUpdate": 1709854550192,
+    "xpGainInWindow": 55
+  },
+  "555766976929333258": {
+    "nickname": "AbbasOP",
+    "identifier": "abbasop#0",
+    "id": "555766976929333258",
+    "xp": 80,
+    "lastUpdate": 1710152518850,
+    "xpGainInWindow": 5
+  },
+  "673943903212142633": {
+    "nickname": "Rekt0saurus",
+    "identifier": "rekt0saurus#0",
+    "id": "673943903212142633",
+    "xp": 25,
+    "lastUpdate": 1709719478176,
+    "xpGainInWindow": 25
+  },
+  "755769067083661443": {
+    "nickname": "TcMbOsS93",
+    "identifier": "tcmboss93#0",
+    "id": "755769067083661443",
+    "xp": 40,
+    "lastUpdate": 1709734933298,
+    "xpGainInWindow": 10
+  },
+  "892261932827033670": {
+    "nickname": "SplinTeron",
+    "identifier": "splinteron#0",
+    "id": "892261932827033670",
+    "xp": 30,
+    "lastUpdate": 1709742362925,
+    "xpGainInWindow": 5
+  },
+  "680880340130070539": {
+    "nickname": "kaisehr84",
+    "identifier": "kaisehr84#0",
+    "id": "680880340130070539",
+    "xp": 20,
+    "lastUpdate": 1709719835164,
+    "xpGainInWindow": 20
+  },
+  "839934917142904863": {
+    "nickname": "luciano",
+    "identifier": "luciano.colombo#0",
+    "id": "839934917142904863",
+    "xp": 20,
+    "lastUpdate": 1709719837182,
+    "xpGainInWindow": 20
+  },
+  "442035011378479105": {
+    "nickname": "Ozgur",
+    "identifier": "ozgryilmz#0",
+    "id": "442035011378479105",
+    "xp": 35,
+    "lastUpdate": 1709723839126,
+    "xpGainInWindow": 5
+  },
+  "711916238133002342": {
+    "nickname": "TJBLFG",
+    "identifier": "tjblfg#0",
+    "id": "711916238133002342",
+    "xp": 275,
+    "lastUpdate": 1710334308523,
+    "xpGainInWindow": 25
+  },
+  "854819248463675393": {
+    "nickname": "ntb1414",
+    "identifier": "ntb14#0",
+    "id": "854819248463675393",
+    "xp": 10,
+    "lastUpdate": 1709719980631,
+    "xpGainInWindow": 10
+  },
+  "351578836720287746": {
+    "nickname": "rRogick",
+    "identifier": "rrogick#0",
+    "id": "351578836720287746",
+    "xp": 180,
+    "lastUpdate": 1710170421277,
+    "xpGainInWindow": 10
+  },
+  "1185317977764135113": {
+    "nickname": "Cryptomademe",
+    "identifier": "cryptomademe#0",
+    "id": "1185317977764135113",
+    "xp": 10,
+    "lastUpdate": 1709720055237,
+    "xpGainInWindow": 10
+  },
+  "830919681359216660": {
+    "nickname": "MrHDDreamzz",
+    "identifier": "mrhddreamzz#0",
+    "id": "830919681359216660",
+    "xp": 300,
+    "lastUpdate": 1710352011968,
+    "xpGainInWindow": 5
+  },
+  "399354348636733440": {
+    "nickname": "Igo ♦🔥",
+    "identifier": "igorodrigues#0",
+    "id": "399354348636733440",
+    "xp": 365,
+    "lastUpdate": 1710248122000,
+    "xpGainInWindow": 5
+  },
+  "882153141053829142": {
+    "nickname": "shaw5343",
+    "identifier": "shaw5343#0",
+    "id": "882153141053829142",
+    "xp": 20,
+    "lastUpdate": 1709720177760,
+    "xpGainInWindow": 20
+  },
+  "741346055383416952": {
+    "nickname": "wi_f_i",
+    "identifier": "wi_f_i#0",
+    "id": "741346055383416952",
+    "xp": 30,
+    "lastUpdate": 1709720561690,
+    "xpGainInWindow": 10
+  },
+  "1018511492636758066": {
+    "nickname": "常温咖啡",
+    "identifier": "gmatics#0",
+    "id": "1018511492636758066",
+    "xp": 20,
+    "lastUpdate": 1709720268975,
+    "xpGainInWindow": 20
+  },
+  "679619888037625890": {
+    "nickname": "OREO•spermapapah",
+    "identifier": "bahi290300#0",
+    "id": "679619888037625890",
+    "xp": 20,
+    "lastUpdate": 1709720974251,
+    "xpGainInWindow": 10
+  },
+  "774696082705088512": {
+    "nickname": "jacob_ab",
+    "identifier": "jacob_ab#0",
+    "id": "774696082705088512",
+    "xp": 30,
+    "lastUpdate": 1709720553697,
+    "xpGainInWindow": 30
+  },
+  "374660668038578177": {
+    "nickname": "BrandowTAG | BOGG",
+    "identifier": "brandowtag#0",
+    "id": "374660668038578177",
+    "xp": 15,
+    "lastUpdate": 1709822712776,
+    "xpGainInWindow": 5
+  },
+  "452825928096153610": {
+    "nickname": "JustPassingBy",
+    "identifier": "just_passingby#0",
+    "id": "452825928096153610",
+    "xp": 30,
+    "lastUpdate": 1709720591858,
+    "xpGainInWindow": 30
+  },
+  "941991909885362176": {
+    "nickname": "malik⚡",
+    "identifier": "resmaliks#0",
+    "id": "941991909885362176",
+    "xp": 20,
+    "lastUpdate": 1709720626235,
+    "xpGainInWindow": 20
+  },
+  "971015039735713860": {
+    "nickname": "Bryan Kim",
+    "identifier": "bryankim3598#0",
+    "id": "971015039735713860",
+    "xp": 10,
+    "lastUpdate": 1709720643895,
+    "xpGainInWindow": 10
+  },
+  "852913524883062785": {
+    "nickname": "SECSOV2",
+    "identifier": "secsov2#0",
+    "id": "852913524883062785",
+    "xp": 20,
+    "lastUpdate": 1709913216937,
+    "xpGainInWindow": 5
+  },
+  "1212887618396754001": {
+    "nickname": "noangelss",
+    "identifier": "noangelss_68100#0",
+    "id": "1212887618396754001",
+    "xp": 10,
+    "lastUpdate": 1709720746684,
+    "xpGainInWindow": 10
+  },
+  "819564286661099544": {
+    "nickname": "arikk1975",
+    "identifier": "arikk1975#0",
+    "id": "819564286661099544",
+    "xp": 20,
+    "lastUpdate": 1709720761228,
+    "xpGainInWindow": 20
+  },
+  "407476441610059776": {
+    "nickname": "J4ro",
+    "identifier": "j4ro#0",
+    "id": "407476441610059776",
+    "xp": 20,
+    "lastUpdate": 1709720779472,
+    "xpGainInWindow": 20
+  },
+  "1039529458228547625": {
+    "nickname": "slantedenchanted",
+    "identifier": "slantedenchanted#0",
+    "id": "1039529458228547625",
+    "xp": 10,
+    "lastUpdate": 1709720840108,
+    "xpGainInWindow": 10
+  },
+  "893744374784077824": {
+    "nickname": "COMBINEHARVESTER",
+    "identifier": "combineharvester1#0",
+    "id": "893744374784077824",
+    "xp": 130,
+    "lastUpdate": 1709745899594,
+    "xpGainInWindow": 30
+  },
+  "803671831450091523": {
+    "nickname": "Thommyturtle",
+    "identifier": "thommyturtle#0",
+    "id": "803671831450091523",
+    "xp": 490,
+    "lastUpdate": 1710344162115,
+    "xpGainInWindow": 10
+  },
+  "402164166296600576": {
+    "nickname": "hieuja20🪷",
+    "identifier": "hja20#0",
+    "id": "402164166296600576",
+    "xp": 30,
+    "lastUpdate": 1709836219071,
+    "xpGainInWindow": 20
+  },
+  "969526856317554688": {
+    "nickname": "1khalifa.eth",
+    "identifier": "1khalifa.eth#0",
+    "id": "969526856317554688",
+    "xp": 10,
+    "lastUpdate": 1709721278873,
+    "xpGainInWindow": 10
+  },
+  "902525416839987201": {
+    "nickname": "stepp | ❌ tripsters| the Artisan",
+    "identifier": "stepptripsterstheartisan#0",
+    "id": "902525416839987201",
+    "xp": 930,
+    "lastUpdate": 1710363011469,
+    "xpGainInWindow": 5
+  },
+  "893710632510169149": {
+    "nickname": "CoDE",
+    "identifier": "0x_code_#0",
+    "id": "893710632510169149",
+    "xp": 20,
+    "lastUpdate": 1709723738409,
+    "xpGainInWindow": 10
+  },
+  "883766757729394739": {
+    "nickname": "MCarlos",
+    "identifier": "mcarlos#0",
+    "id": "883766757729394739",
+    "xp": 10,
+    "lastUpdate": 1709721466161,
+    "xpGainInWindow": 10
+  },
+  "1185062822162485252": {
+    "nickname": "🕵illustrious_phantom_799🥷",
+    "identifier": "illustrious_phantom_799_58807#0",
+    "id": "1185062822162485252",
+    "xp": 85,
+    "lastUpdate": 1710318112100,
+    "xpGainInWindow": 5
+  },
+  "378225524151025664": {
+    "nickname": "topa",
+    "identifier": "toripapa.#0",
+    "id": "378225524151025664",
+    "xp": 35,
+    "lastUpdate": 1709855274902,
+    "xpGainInWindow": 10
+  },
+  "850149677604798475": {
+    "nickname": "willbamo",
+    "identifier": "willbamo#0",
+    "id": "850149677604798475",
+    "xp": 130,
+    "lastUpdate": 1710246763166,
+    "xpGainInWindow": 20
+  },
+  "737294018249097337": {
+    "nickname": "Pouladzade",
+    "identifier": "pouladzade#0",
+    "id": "737294018249097337",
+    "xp": 10,
+    "lastUpdate": 1709721739686,
+    "xpGainInWindow": 10
+  },
+  "1033862350912098346": {
+    "nickname": "ISA🦋",
+    "identifier": "isa1889#0",
+    "id": "1033862350912098346",
+    "xp": 10,
+    "lastUpdate": 1709722141515,
+    "xpGainInWindow": 10
+  },
+  "1058326821030084668": {
+    "nickname": "CS",
+    "identifier": "cryptostream.#0",
+    "id": "1058326821030084668",
+    "xp": 20,
+    "lastUpdate": 1709722150534,
+    "xpGainInWindow": 20
+  },
+  "531169904565420034": {
+    "nickname": "Alex",
+    "identifier": "roguejuan.#0",
+    "id": "531169904565420034",
+    "xp": 10,
+    "lastUpdate": 1709722209406,
+    "xpGainInWindow": 10
+  },
+  "657605057776189452": {
+    "nickname": "oxywild",
+    "identifier": "oxywild#0",
+    "id": "657605057776189452",
+    "xp": 10,
+    "lastUpdate": 1709722257768,
+    "xpGainInWindow": 10
+  },
+  "913500887526305892": {
+    "nickname": "MadDogZeus1",
+    "identifier": "maddogzeus#0",
+    "id": "913500887526305892",
+    "xp": 25,
+    "lastUpdate": 1709723472672,
+    "xpGainInWindow": 5
+  },
+  "839523711739625472": {
+    "nickname": "badalister",
+    "identifier": "badalister#0",
+    "id": "839523711739625472",
+    "xp": 25,
+    "lastUpdate": 1709722471796,
+    "xpGainInWindow": 25
+  },
+  "1214868682464043049": {
+    "nickname": "EdgarsValters",
+    "identifier": "edgarsvalters#0",
+    "id": "1214868682464043049",
+    "xp": 15,
+    "lastUpdate": 1709723975718,
+    "xpGainInWindow": 5
+  },
+  "963937156991184957": {
+    "nickname": "Sterling",
+    "identifier": "sterling4259#0",
+    "id": "963937156991184957",
+    "xp": 10,
+    "lastUpdate": 1709722601128,
+    "xpGainInWindow": 10
+  },
+  "838245805772767242": {
+    "nickname": "TKS",
+    "identifier": "tks010#0",
+    "id": "838245805772767242",
+    "xp": 300,
+    "lastUpdate": 1710169930046,
+    "xpGainInWindow": 10
+  },
+  "404340566437003264": {
+    "nickname": "abdelmalek",
+    "identifier": "abdelmalek1#0",
+    "id": "404340566437003264",
+    "xp": 10,
+    "lastUpdate": 1709722709860,
+    "xpGainInWindow": 10
+  },
+  "906900934020444211": {
+    "nickname": "Mateusz",
+    "identifier": "badschemata#0",
+    "id": "906900934020444211",
+    "xp": 30,
+    "lastUpdate": 1709826099982,
+    "xpGainInWindow": 10
+  },
+  "210312990904418305": {
+    "nickname": "Daytona",
+    "identifier": "daytonagotshot#0",
+    "id": "210312990904418305",
+    "xp": 10,
+    "lastUpdate": 1709722756157,
+    "xpGainInWindow": 10
+  },
+  "407548046809890816": {
+    "nickname": "Hexa7",
+    "identifier": "hexa7_#0",
+    "id": "407548046809890816",
+    "xp": 10,
+    "lastUpdate": 1709722783141,
+    "xpGainInWindow": 10
+  },
+  "952576140579578006": {
+    "nickname": "𐌃𐌀ᕓ𐌉𐌃𐌌𐌀𐌓𐌕𐌉𐌍",
+    "identifier": "davidmartin2#0",
+    "id": "952576140579578006",
+    "xp": 10,
+    "lastUpdate": 1709722831653,
+    "xpGainInWindow": 10
+  },
+  "992777409919189014": {
+    "nickname": "atifch1",
+    "identifier": "atif9796#0",
+    "id": "992777409919189014",
+    "xp": 10,
+    "lastUpdate": 1709722887549,
+    "xpGainInWindow": 10
+  },
+  "1199022518166630544": {
+    "nickname": "BigS_G💰",
+    "identifier": "bigs_g#0",
+    "id": "1199022518166630544",
+    "xp": 10,
+    "lastUpdate": 1709722899261,
+    "xpGainInWindow": 10
+  },
+  "944386526865948714": {
+    "nickname": "Ari62729401#3383 | $FON",
+    "identifier": "ari62729401#0",
+    "id": "944386526865948714",
+    "xp": 20,
+    "lastUpdate": 1709722952172,
+    "xpGainInWindow": 20
+  },
+  "954098310896058418": {
+    "nickname": "Nemium",
+    "identifier": "nemium.#0",
+    "id": "954098310896058418",
+    "xp": 45,
+    "lastUpdate": 1709925576788,
+    "xpGainInWindow": 5
+  },
+  "796445481022128139": {
+    "nickname": "laserguy | ElonDao",
+    "identifier": "laserguy43#0",
+    "id": "796445481022128139",
+    "xp": 40,
+    "lastUpdate": 1709724892577,
+    "xpGainInWindow": 5
+  },
+  "229568832476282880": {
+    "nickname": "GaspodeWD",
+    "identifier": "gaspodewd#0",
+    "id": "229568832476282880",
+    "xp": 10,
+    "lastUpdate": 1709723153743,
+    "xpGainInWindow": 10
+  },
+  "648259362053292042": {
+    "nickname": "Sweeney Todd",
+    "identifier": "sweeneytodd9656#0",
+    "id": "648259362053292042",
+    "xp": 15,
+    "lastUpdate": 1709723344484,
+    "xpGainInWindow": 15
+  },
+  "927148068720218192": {
+    "nickname": "ak wallia",
+    "identifier": "akwallia#0",
+    "id": "927148068720218192",
+    "xp": 20,
+    "lastUpdate": 1709723427160,
+    "xpGainInWindow": 20
+  },
+  "506110200734941184": {
+    "nickname": "Jang Hyeok",
+    "identifier": "janghyeok2536#0",
+    "id": "506110200734941184",
+    "xp": 20,
+    "lastUpdate": 1709724597404,
+    "xpGainInWindow": 10
+  },
+  "310425396011073558": {
+    "nickname": "slowbro",
+    "identifier": "slowbro.den#0",
+    "id": "310425396011073558",
+    "xp": 15,
+    "lastUpdate": 1709723463897,
+    "xpGainInWindow": 15
+  },
+  "202967732046659586": {
+    "nickname": "iamgaurangdesai",
+    "identifier": "iamgaurangdesai#0",
+    "id": "202967732046659586",
+    "xp": 45,
+    "lastUpdate": 1709738600650,
+    "xpGainInWindow": 10
+  },
+  "920721058145906720": {
+    "nickname": "cryptopsychee",
+    "identifier": "cryptopsychee#0",
+    "id": "920721058145906720",
+    "xp": 25,
+    "lastUpdate": 1709723659095,
+    "xpGainInWindow": 25
+  },
+  "463579340567740417": {
+    "nickname": "crewmate",
+    "identifier": "crewmate#0",
+    "id": "463579340567740417",
+    "xp": 660,
+    "lastUpdate": 1710327515190,
+    "xpGainInWindow": 20
+  },
+  "949136096128827413": {
+    "nickname": "UchihaMadara",
+    "identifier": "thealilism#0",
+    "id": "949136096128827413",
+    "xp": 225,
+    "lastUpdate": 1710362548733,
+    "xpGainInWindow": 5
+  },
+  "782302447594766346": {
+    "nickname": "Ned2S",
+    "identifier": "ned2s#0",
+    "id": "782302447594766346",
+    "xp": 125,
+    "lastUpdate": 1709994770493,
+    "xpGainInWindow": 10
+  },
+  "858315364350165022": {
+    "nickname": "Flame67|Ledgity|STAX|Arthera",
+    "identifier": "flame67#0",
+    "id": "858315364350165022",
+    "xp": 20,
+    "lastUpdate": 1709724023276,
+    "xpGainInWindow": 20
+  },
+  "802536559240806421": {
+    "nickname": "A𝕏ΞLIS™",
+    "identifier": "axel_yoh#0",
+    "id": "802536559240806421",
+    "xp": 10,
+    "lastUpdate": 1709724191238,
+    "xpGainInWindow": 10
+  },
+  "825651995011842049": {
+    "nickname": "byrami.eth | XBORG",
+    "identifier": "byrami.eth#0",
+    "id": "825651995011842049",
+    "xp": 10,
+    "lastUpdate": 1709724273703,
+    "xpGainInWindow": 10
+  },
+  "973088867815137321": {
+    "nickname": "Haider Ali",
+    "identifier": "haideralijaffery#0",
+    "id": "973088867815137321",
+    "xp": 15,
+    "lastUpdate": 1709729746619,
+    "xpGainInWindow": 5
+  },
+  "817985877564850186": {
+    "nickname": "plank",
+    "identifier": "itsplank#0",
+    "id": "817985877564850186",
+    "xp": 175,
+    "lastUpdate": 1710232368672,
+    "xpGainInWindow": 10
+  },
+  "1016291371054813214": {
+    "nickname": "art007",
+    "identifier": "art0071548#0",
+    "id": "1016291371054813214",
+    "xp": 20,
+    "lastUpdate": 1709724597790,
+    "xpGainInWindow": 20
+  },
+  "1214898120488517685": {
+    "nickname": "0xGamer",
+    "identifier": "0xgamer_#0",
+    "id": "1214898120488517685",
+    "xp": 255,
+    "lastUpdate": 1709913002530,
+    "xpGainInWindow": 25
+  },
+  "994203370468421642": {
+    "nickname": "Shabbir A",
+    "identifier": "shabbira_0#0",
+    "id": "994203370468421642",
+    "xp": 100,
+    "lastUpdate": 1710327737433,
+    "xpGainInWindow": 10
+  },
+  "1174325256589148194": {
+    "nickname": "Sam Wise",
+    "identifier": "sam_wis3_gamgee#0",
+    "id": "1174325256589148194",
+    "xp": 1340,
+    "lastUpdate": 1710320681609,
+    "xpGainInWindow": 30
+  },
+  "907288739104047176": {
+    "nickname": "Noble King 👑",
+    "identifier": "nobleking1#0",
+    "id": "907288739104047176",
+    "xp": 1330,
+    "lastUpdate": 1710148198675,
+    "xpGainInWindow": 30
+  },
+  "930095687322992690": {
+    "nickname": "louis",
+    "identifier": "louislee88888#0",
+    "id": "930095687322992690",
+    "xp": 10,
+    "lastUpdate": 1709724962345,
+    "xpGainInWindow": 10
+  },
+  "928263299362091048": {
+    "nickname": "akk012.",
+    "identifier": "akk012.#0",
+    "id": "928263299362091048",
+    "xp": 30,
+    "lastUpdate": 1709725726749,
+    "xpGainInWindow": 20
+  },
+  "921978768543862836": {
+    "nickname": "MikeOne",
+    "identifier": "mikeone2k#0",
+    "id": "921978768543862836",
+    "xp": 60,
+    "lastUpdate": 1709860835790,
+    "xpGainInWindow": 20
+  },
+  "1182987742586622074": {
+    "nickname": "Joker",
+    "identifier": "x0jok9r#0",
+    "id": "1182987742586622074",
+    "xp": 55,
+    "lastUpdate": 1709833873139,
+    "xpGainInWindow": 5
+  },
+  "1132496805138018336": {
+    "nickname": "Mbkunknown",
+    "identifier": "mbkunknown#0",
+    "id": "1132496805138018336",
+    "xp": 70,
+    "lastUpdate": 1709836340191,
+    "xpGainInWindow": 40
+  },
+  "874636873576873985": {
+    "nickname": "Maximum_Drawdown",
+    "identifier": "maximum_drawdown#0",
+    "id": "874636873576873985",
+    "xp": 20,
+    "lastUpdate": 1710238647754,
+    "xpGainInWindow": 10
+  },
+  "780156807788101632": {
+    "nickname": "Blash23",
+    "identifier": "blash23#0",
+    "id": "780156807788101632",
+    "xp": 20,
+    "lastUpdate": 1709725605157,
+    "xpGainInWindow": 20
+  },
+  "843885298832375809": {
+    "nickname": "amitsing3959",
+    "identifier": "amitsing3959#0",
+    "id": "843885298832375809",
+    "xp": 10,
+    "lastUpdate": 1709725619983,
+    "xpGainInWindow": 10
+  },
+  "890117596119187456": {
+    "nickname": "hydrocaburn",
+    "identifier": "hydrocaburn#0",
+    "id": "890117596119187456",
+    "xp": 20,
+    "lastUpdate": 1709726302431,
+    "xpGainInWindow": 10
+  },
+  "443035399795900416": {
+    "nickname": "charismatico",
+    "identifier": "charismatico#0",
+    "id": "443035399795900416",
+    "xp": 10,
+    "lastUpdate": 1709725657889,
+    "xpGainInWindow": 10
+  },
+  "715599378609602651": {
+    "nickname": "thetruthseekah",
+    "identifier": "thetruthseekah#0",
+    "id": "715599378609602651",
+    "xp": 10,
+    "lastUpdate": 1709725780291,
+    "xpGainInWindow": 10
+  },
+  "1023604295481954469": {
+    "nickname": "wizzwas | XBorg",
+    "identifier": "wizzwas#0",
+    "id": "1023604295481954469",
+    "xp": 35,
+    "lastUpdate": 1709913203502,
+    "xpGainInWindow": 10
+  },
+  "892946249400057897": {
+    "nickname": "hyunjin",
+    "identifier": "hyunjinbr#0",
+    "id": "892946249400057897",
+    "xp": 150,
+    "lastUpdate": 1710232409157,
+    "xpGainInWindow": 10
+  },
+  "1188306736151543939": {
+    "nickname": "阿鹏",
+    "identifier": "vollar_#0",
+    "id": "1188306736151543939",
+    "xp": 20,
+    "lastUpdate": 1709726609827,
+    "xpGainInWindow": 20
+  },
+  "690694837120532542": {
+    "nickname": "WolfX",
+    "identifier": "1337wolf#0",
+    "id": "690694837120532542",
+    "xp": 25,
+    "lastUpdate": 1709728044120,
+    "xpGainInWindow": 5
+  },
+  "766365974097952798": {
+    "nickname": "Tales",
+    "identifier": "tales.nft#0",
+    "id": "766365974097952798",
+    "xp": 1230,
+    "lastUpdate": 1710347101899,
+    "xpGainInWindow": 10
+  },
+  "821340449935327263": {
+    "nickname": "Serhio420",
+    "identifier": "serhio420#0",
+    "id": "821340449935327263",
+    "xp": 65,
+    "lastUpdate": 1710245823718,
+    "xpGainInWindow": 40
+  },
+  "1129474518801469460": {
+    "nickname": "MD2024",
+    "identifier": "md20244444#0",
+    "id": "1129474518801469460",
+    "xp": 10,
+    "lastUpdate": 1709727424356,
+    "xpGainInWindow": 10
+  },
+  "889613446658801726": {
+    "nickname": "florimsejfullahi",
+    "identifier": "florimsejfullahi#0",
+    "id": "889613446658801726",
+    "xp": 25,
+    "lastUpdate": 1709987258823,
+    "xpGainInWindow": 5
+  },
+  "760338653607886918": {
+    "nickname": "abu_youcef",
+    "identifier": "abu_youcef#0",
+    "id": "760338653607886918",
+    "xp": 10,
+    "lastUpdate": 1709727584089,
+    "xpGainInWindow": 10
+  },
+  "399765871783968768": {
+    "nickname": "browntechguy",
+    "identifier": "browntechguy#0",
+    "id": "399765871783968768",
+    "xp": 10,
+    "lastUpdate": 1709727762051,
+    "xpGainInWindow": 10
+  },
+  "386325355390304266": {
+    "nickname": "CryptoGoddess",
+    "identifier": "cryptogoddess#0",
+    "id": "386325355390304266",
+    "xp": 1635,
+    "lastUpdate": 1710352678847,
+    "xpGainInWindow": 40
+  },
+  "1038006695995125810": {
+    "nickname": "Billy",
+    "identifier": "billyh4027#0",
+    "id": "1038006695995125810",
+    "xp": 30,
+    "lastUpdate": 1709728074629,
+    "xpGainInWindow": 30
+  },
+  "519516421147983879": {
+    "nickname": "Jean-Marc",
+    "identifier": "trinijmg#0",
+    "id": "519516421147983879",
+    "xp": 450,
+    "lastUpdate": 1710358290045,
+    "xpGainInWindow": 5
+  },
+  "285308264067891210": {
+    "nickname": "don.digital",
+    "identifier": "don.digital#0",
+    "id": "285308264067891210",
+    "xp": 600,
+    "lastUpdate": 1710344037299,
+    "xpGainInWindow": 5
+  },
+  "645632735955648523": {
+    "nickname": "Jorah",
+    "identifier": "jorah5436#0",
+    "id": "645632735955648523",
+    "xp": 30,
+    "lastUpdate": 1709748057937,
+    "xpGainInWindow": 10
+  },
+  "392652299060903957": {
+    "nickname": "jay",
+    "identifier": "jay7172#0",
+    "id": "392652299060903957",
+    "xp": 10,
+    "lastUpdate": 1709729314825,
+    "xpGainInWindow": 10
+  },
+  "501434818303754260": {
+    "nickname": "harrymercedes",
+    "identifier": "harrymercedes#0",
+    "id": "501434818303754260",
+    "xp": 135,
+    "lastUpdate": 1710363008928,
+    "xpGainInWindow": 10
+  },
+  "403923445647147010": {
+    "nickname": "Rare_Luca",
+    "identifier": "rare_luca#0",
+    "id": "403923445647147010",
+    "xp": 10,
+    "lastUpdate": 1709729376097,
+    "xpGainInWindow": 10
+  },
+  "950387402810212452": {
+    "nickname": "Nic0xLa",
+    "identifier": "nic0xla#0",
+    "id": "950387402810212452",
+    "xp": 10,
+    "lastUpdate": 1709730181584,
+    "xpGainInWindow": 10
+  },
+  "597092631532666911": {
+    "nickname": "Teemo",
+    "identifier": "teemo1156#0",
+    "id": "597092631532666911",
+    "xp": 30,
+    "lastUpdate": 1709730854929,
+    "xpGainInWindow": 30
+  },
+  "879116977103323227": {
+    "nickname": "Awizzz",
+    "identifier": "awizzz#0",
+    "id": "879116977103323227",
+    "xp": 25,
+    "lastUpdate": 1709731008435,
+    "xpGainInWindow": 25
+  },
+  "638106636178948096": {
+    "nickname": "$ER Remedy",
+    "identifier": "eth4ever.eth#0",
+    "id": "638106636178948096",
+    "xp": 50,
+    "lastUpdate": 1709894412127,
+    "xpGainInWindow": 10
+  },
+  "703046419023659129": {
+    "nickname": "elrealturdo",
+    "identifier": "elrealturdo#0",
+    "id": "703046419023659129",
+    "xp": 10,
+    "lastUpdate": 1709731302770,
+    "xpGainInWindow": 10
+  },
+  "703532515624747092": {
+    "nickname": "Mathieu Alba - Big Buddy",
+    "identifier": "mathieualba#0",
+    "id": "703532515624747092",
+    "xp": 25,
+    "lastUpdate": 1709732931428,
+    "xpGainInWindow": 5
+  },
+  "1103600963312418887": {
+    "nickname": "D.J.",
+    "identifier": "d.j.64#0",
+    "id": "1103600963312418887",
+    "xp": 10,
+    "lastUpdate": 1709731377100,
+    "xpGainInWindow": 10
+  },
+  "1010888798843981914": {
+    "nickname": "Chili",
+    "identifier": "chiliconcord#0",
+    "id": "1010888798843981914",
+    "xp": 10,
+    "lastUpdate": 1709731383056,
+    "xpGainInWindow": 10
+  },
+  "874330317681475584": {
+    "nickname": "etarzi01",
+    "identifier": "etarzi01#0",
+    "id": "874330317681475584",
+    "xp": 65,
+    "lastUpdate": 1710361843019,
+    "xpGainInWindow": 5
+  },
+  "819551665795104829": {
+    "nickname": "ChrisduRhone",
+    "identifier": "chrisdu69sillonr#0",
+    "id": "819551665795104829",
+    "xp": 10,
+    "lastUpdate": 1709731469462,
+    "xpGainInWindow": 10
+  },
+  "803615040031686657": {
+    "nickname": "BigBahn",
+    "identifier": "bigbahn#0",
+    "id": "803615040031686657",
+    "xp": 95,
+    "lastUpdate": 1709912864162,
+    "xpGainInWindow": 5
+  },
+  "1196296498221162586": {
+    "nickname": "Anjello",
+    "identifier": "anjello0366#0",
+    "id": "1196296498221162586",
+    "xp": 10,
+    "lastUpdate": 1709731711348,
+    "xpGainInWindow": 10
+  },
+  "1077315974124032040": {
+    "nickname": "jack3rror",
+    "identifier": "jack3rror#0",
+    "id": "1077315974124032040",
+    "xp": 10,
+    "lastUpdate": 1709731777595,
+    "xpGainInWindow": 10
+  },
+  "1052901686382952520": {
+    "nickname": "Brice92",
+    "identifier": "brice9243#0",
+    "id": "1052901686382952520",
+    "xp": 10,
+    "lastUpdate": 1709731847099,
+    "xpGainInWindow": 10
+  },
+  "992832461639786546": {
+    "nickname": "takfarinas_",
+    "identifier": "takfarinas_#0",
+    "id": "992832461639786546",
+    "xp": 20,
+    "lastUpdate": 1710371814614,
+    "xpGainInWindow": 5
+  },
+  "672800098396405771": {
+    "nickname": "bebigoal",
+    "identifier": "bebigoal#0",
+    "id": "672800098396405771",
+    "xp": 10,
+    "lastUpdate": 1709732145957,
+    "xpGainInWindow": 10
+  },
+  "903881011467804705": {
+    "nickname": "kareemxhughes",
+    "identifier": "kareemxhughes#0",
+    "id": "903881011467804705",
+    "xp": 10,
+    "lastUpdate": 1709732231190,
+    "xpGainInWindow": 10
+  },
+  "530880728444174347": {
+    "nickname": "Z",
+    "identifier": "ottomo1#0",
+    "id": "530880728444174347",
+    "xp": 10,
+    "lastUpdate": 1709732516468,
+    "xpGainInWindow": 10
+  },
+  "1084287084023517285": {
+    "nickname": "DMT",
+    "identifier": "dmt444#0",
+    "id": "1084287084023517285",
+    "xp": 10,
+    "lastUpdate": 1709732682742,
+    "xpGainInWindow": 10
+  },
+  "584600376284545034": {
+    "nickname": "dollasign$$$",
+    "identifier": "dollasign#0",
+    "id": "584600376284545034",
+    "xp": 10,
+    "lastUpdate": 1709732836946,
+    "xpGainInWindow": 10
+  },
+  "1203969616318169088": {
+    "nickname": "Somto 😌",
+    "identifier": "noel_ginger199#0",
+    "id": "1203969616318169088",
+    "xp": 10,
+    "lastUpdate": 1709732854866,
+    "xpGainInWindow": 10
+  },
+  "967939009437384704": {
+    "nickname": "Wes_TCR🎙",
+    "identifier": "crypto_mcguyver#0",
+    "id": "967939009437384704",
+    "xp": 65,
+    "lastUpdate": 1710192678509,
+    "xpGainInWindow": 25
+  },
+  "411856565407318037": {
+    "nickname": "pablo_g",
+    "identifier": "pablo_g_#0",
+    "id": "411856565407318037",
+    "xp": 30,
+    "lastUpdate": 1709889795260,
+    "xpGainInWindow": 20
+  },
+  "609181836207194112": {
+    "nickname": "MzeeRatili.eth ⚖👴🏿",
+    "identifier": "mzeeratili.eth#0",
+    "id": "609181836207194112",
+    "xp": 15,
+    "lastUpdate": 1709733236746,
+    "xpGainInWindow": 15
+  },
+  "400434824642428939": {
+    "nickname": "Zenith",
+    "identifier": "53nith#0",
+    "id": "400434824642428939",
+    "xp": 10,
+    "lastUpdate": 1709733286176,
+    "xpGainInWindow": 10
+  },
+  "573868767025692697": {
+    "nickname": "omen",
+    "identifier": "0xmen#0",
+    "id": "573868767025692697",
+    "xp": 50,
+    "lastUpdate": 1709738458826,
+    "xpGainInWindow": 40
+  },
+  "305007655360135168": {
+    "nickname": "Bambo",
+    "identifier": "bigchujec#0",
+    "id": "305007655360135168",
+    "xp": 35,
+    "lastUpdate": 1709740865869,
+    "xpGainInWindow": 10
+  },
+  "488015447417946151": {
+    "nickname": "Dtrix",
+    "identifier": "dtrix381#0",
+    "id": "488015447417946151",
+    "xp": 20,
+    "lastUpdate": 1709733933862,
+    "xpGainInWindow": 20
+  },
+  "711545805508444172": {
+    "nickname": "LC",
+    "identifier": "lemmecook_#0",
+    "id": "711545805508444172",
+    "xp": 20,
+    "lastUpdate": 1709734036899,
+    "xpGainInWindow": 20
+  },
+  "1048223821624266812": {
+    "nickname": "GemsScope",
+    "identifier": "gemsscopee#0",
+    "id": "1048223821624266812",
+    "xp": 10,
+    "lastUpdate": 1709734070011,
+    "xpGainInWindow": 10
+  },
+  "498175941944672257": {
+    "nickname": "filippo_berio",
+    "identifier": "filippo_berio#0",
+    "id": "498175941944672257",
+    "xp": 10,
+    "lastUpdate": 1709734107256,
+    "xpGainInWindow": 10
+  },
+  "1090343983185661992": {
+    "nickname": "Mr midas",
+    "identifier": "mrmidas.#0",
+    "id": "1090343983185661992",
+    "xp": 10,
+    "lastUpdate": 1709734206605,
+    "xpGainInWindow": 10
+  },
+  "410913333986852865": {
+    "nickname": "GS",
+    "identifier": "gs_011#0",
+    "id": "410913333986852865",
+    "xp": 10,
+    "lastUpdate": 1709734248862,
+    "xpGainInWindow": 10
+  },
+  "1097982289343942718": {
+    "nickname": "chromosome12345",
+    "identifier": "chromosome12345#0",
+    "id": "1097982289343942718",
+    "xp": 20,
+    "lastUpdate": 1709734295978,
+    "xpGainInWindow": 20
+  },
+  "741044304738385940": {
+    "nickname": "babouba04",
+    "identifier": "baboubaboobs#0",
+    "id": "741044304738385940",
+    "xp": 30,
+    "lastUpdate": 1709836209216,
+    "xpGainInWindow": 10
+  },
+  "911661763890647112": {
+    "nickname": "Crypto_Adrian",
+    "identifier": "crypto_adrian#0",
+    "id": "911661763890647112",
+    "xp": 10,
+    "lastUpdate": 1709734556907,
+    "xpGainInWindow": 10
+  },
+  "1199086669966614669": {
+    "nickname": "taro47",
+    "identifier": "ntarozzi#0",
+    "id": "1199086669966614669",
+    "xp": 10,
+    "lastUpdate": 1709734588545,
+    "xpGainInWindow": 10
+  },
+  "819546927426830337": {
+    "nickname": "crysonic",
+    "identifier": "crysonic#0",
+    "id": "819546927426830337",
+    "xp": 40,
+    "lastUpdate": 1709740983011,
+    "xpGainInWindow": 15
+  },
+  "221191093562245120": {
+    "nickname": "ClaWs",
+    "identifier": "claws5036#0",
+    "id": "221191093562245120",
+    "xp": 30,
+    "lastUpdate": 1709734974650,
+    "xpGainInWindow": 30
+  },
+  "499253294661632010": {
+    "nickname": "coptersapples",
+    "identifier": "coptersapples#0",
+    "id": "499253294661632010",
+    "xp": 20,
+    "lastUpdate": 1709750492259,
+    "xpGainInWindow": 10
+  },
+  "178699760155361282": {
+    "nickname": "buthooole",
+    "identifier": "noxiousfish#0",
+    "id": "178699760155361282",
+    "xp": 70,
+    "lastUpdate": 1709743311780,
+    "xpGainInWindow": 10
+  },
+  "258643642225393675": {
+    "nickname": "CryptohoarderT",
+    "identifier": "cryptohoardert#0",
+    "id": "258643642225393675",
+    "xp": 10,
+    "lastUpdate": 1709735781431,
+    "xpGainInWindow": 10
+  },
+  "768514240603488267": {
+    "nickname": "beeznees.",
+    "identifier": "beeznees.#0",
+    "id": "768514240603488267",
+    "xp": 10,
+    "lastUpdate": 1709735826375,
+    "xpGainInWindow": 10
+  },
+  "203382273221853184": {
+    "nickname": "Xari",
+    "identifier": "._xari_.#0",
+    "id": "203382273221853184",
+    "xp": 100,
+    "lastUpdate": 1710004984678,
+    "xpGainInWindow": 5
+  },
+  "765381797830983690": {
+    "nickname": "Sly. Sylvestre",
+    "identifier": "sly.sylvestre#0",
+    "id": "765381797830983690",
+    "xp": 10,
+    "lastUpdate": 1709736189382,
+    "xpGainInWindow": 10
+  },
+  "690951483616657469": {
+    "nickname": "Walter",
+    "identifier": "walter128#0",
+    "id": "690951483616657469",
+    "xp": 15,
+    "lastUpdate": 1709922848621,
+    "xpGainInWindow": 5
+  },
+  "871076512919601242": {
+    "nickname": "humblejay96",
+    "identifier": "humblejay96#0",
+    "id": "871076512919601242",
+    "xp": 30,
+    "lastUpdate": 1709736302099,
+    "xpGainInWindow": 30
+  },
+  "940996435548201011": {
+    "nickname": "Sanchello",
+    "identifier": "stuffbull#0",
+    "id": "940996435548201011",
+    "xp": 10,
+    "lastUpdate": 1709736566267,
+    "xpGainInWindow": 10
+  },
+  "810444662351331328": {
+    "nickname": "gmur93",
+    "identifier": "gmur93#0",
+    "id": "810444662351331328",
+    "xp": 10,
+    "lastUpdate": 1709736633432,
+    "xpGainInWindow": 10
+  },
+  "1064852063495925812": {
+    "nickname": "Altaf A",
+    "identifier": "alyali.444#0",
+    "id": "1064852063495925812",
+    "xp": 10,
+    "lastUpdate": 1709736639806,
+    "xpGainInWindow": 10
+  },
+  "809186517150859324": {
+    "nickname": "Cbullcrypto22",
+    "identifier": "cbullcrypto22#0",
+    "id": "809186517150859324",
+    "xp": 10,
+    "lastUpdate": 1709736643840,
+    "xpGainInWindow": 10
+  },
+  "545407297074102272": {
+    "nickname": "mathrick1626",
+    "identifier": "mathrick1626#0",
+    "id": "545407297074102272",
+    "xp": 10,
+    "lastUpdate": 1709736659253,
+    "xpGainInWindow": 10
+  },
+  "905203997571436545": {
+    "nickname": "kacperqb",
+    "identifier": "kacperqb#0",
+    "id": "905203997571436545",
+    "xp": 10,
+    "lastUpdate": 1709736663485,
+    "xpGainInWindow": 10
+  },
+  "381635986440060931": {
+    "nickname": "DeanVest",
+    "identifier": "deanvest_28#0",
+    "id": "381635986440060931",
+    "xp": 20,
+    "lastUpdate": 1709736759291,
+    "xpGainInWindow": 20
+  },
+  "879761644400554014": {
+    "nickname": "jpegroove",
+    "identifier": "jpegroove#0",
+    "id": "879761644400554014",
+    "xp": 185,
+    "lastUpdate": 1710144472408,
+    "xpGainInWindow": 30
+  },
+  "982591652076060722": {
+    "nickname": "robbotec",
+    "identifier": "robbotec#0",
+    "id": "982591652076060722",
+    "xp": 10,
+    "lastUpdate": 1709736889988,
+    "xpGainInWindow": 10
+  },
+  "1169161169383211105": {
+    "nickname": "Khurram",
+    "identifier": "khurram_12#0",
+    "id": "1169161169383211105",
+    "xp": 10,
+    "lastUpdate": 1709736901967,
+    "xpGainInWindow": 10
+  },
+  "885824573872939058": {
+    "nickname": "allin",
+    "identifier": "allinkrypto#0",
+    "id": "885824573872939058",
+    "xp": 80,
+    "lastUpdate": 1709740526987,
+    "xpGainInWindow": 60
+  },
+  "408674440709406731": {
+    "nickname": "Faroe Islander",
+    "identifier": "faroeislander.#0",
+    "id": "408674440709406731",
+    "xp": 10,
+    "lastUpdate": 1709736935413,
+    "xpGainInWindow": 10
+  },
+  "800058328730304563": {
+    "nickname": "lng4415",
+    "identifier": "lng4415#0",
+    "id": "800058328730304563",
+    "xp": 10,
+    "lastUpdate": 1709736940731,
+    "xpGainInWindow": 10
+  },
+  "882018932607836281": {
+    "nickname": "lil capital",
+    "identifier": "lilcapitalx#0",
+    "id": "882018932607836281",
+    "xp": 10,
+    "lastUpdate": 1709736980346,
+    "xpGainInWindow": 10
+  },
+  "813272998780993547": {
+    "nickname": "rvl3350",
+    "identifier": "rvl3350#0",
+    "id": "813272998780993547",
+    "xp": 10,
+    "lastUpdate": 1709736980588,
+    "xpGainInWindow": 10
+  },
+  "483072351693570049": {
+    "nickname": "rcorn97",
+    "identifier": "rcorn97#0",
+    "id": "483072351693570049",
+    "xp": 10,
+    "lastUpdate": 1709736996958,
+    "xpGainInWindow": 10
+  },
+  "1186649905318600785": {
+    "nickname": "Z",
+    "identifier": "z0340#0",
+    "id": "1186649905318600785",
+    "xp": 20,
+    "lastUpdate": 1709836184628,
+    "xpGainInWindow": 5
+  },
+  "883774274844897361": {
+    "nickname": "andy89899",
+    "identifier": "andy89899#0",
+    "id": "883774274844897361",
+    "xp": 10,
+    "lastUpdate": 1709737011224,
+    "xpGainInWindow": 10
+  },
+  "893149778031050802": {
+    "nickname": "magicgoup",
+    "identifier": "magicgoup#0",
+    "id": "893149778031050802",
+    "xp": 15,
+    "lastUpdate": 1709737029804,
+    "xpGainInWindow": 15
+  },
+  "692447608970674298": {
+    "nickname": "bootyjungle",
+    "identifier": "bootyjungle#0",
+    "id": "692447608970674298",
+    "xp": 10,
+    "lastUpdate": 1709737033067,
+    "xpGainInWindow": 10
+  },
+  "1199947594026188821": {
+    "nickname": "gordon",
+    "identifier": "gordon_42676#0",
+    "id": "1199947594026188821",
+    "xp": 60,
+    "lastUpdate": 1709738538163,
+    "xpGainInWindow": 10
+  },
+  "874741335721119764": {
+    "nickname": "ChainKid",
+    "identifier": "pulsechainkid#0",
+    "id": "874741335721119764",
+    "xp": 10,
+    "lastUpdate": 1709737071700,
+    "xpGainInWindow": 10
+  },
+  "959475905347059772": {
+    "nickname": "manzoor6483",
+    "identifier": "manzoor6483#0",
+    "id": "959475905347059772",
+    "xp": 10,
+    "lastUpdate": 1709737088082,
+    "xpGainInWindow": 10
+  },
+  "1214949174995451934": {
+    "nickname": "KennyDal",
+    "identifier": "kennydal.#0",
+    "id": "1214949174995451934",
+    "xp": 10,
+    "lastUpdate": 1709737125607,
+    "xpGainInWindow": 10
+  },
+  "516353514457399309": {
+    "nickname": "eles500",
+    "identifier": "eles500#0",
+    "id": "516353514457399309",
+    "xp": 10,
+    "lastUpdate": 1709737217671,
+    "xpGainInWindow": 10
+  },
+  "951066958567186502": {
+    "nickname": "phubg66@",
+    "identifier": "phu3695#0",
+    "id": "951066958567186502",
+    "xp": 10,
+    "lastUpdate": 1709737300499,
+    "xpGainInWindow": 10
+  },
+  "1185096944947834911": {
+    "nickname": "Hybrid Girl",
+    "identifier": "hybridgirl._58823#0",
+    "id": "1185096944947834911",
+    "xp": 20,
+    "lastUpdate": 1709741022978,
+    "xpGainInWindow": 10
+  },
+  "1212763221878902844": {
+    "nickname": "Busted Flush",
+    "identifier": "bustedflush_62710#0",
+    "id": "1212763221878902844",
+    "xp": 10,
+    "lastUpdate": 1709737344222,
+    "xpGainInWindow": 10
+  },
+  "1172217063549435995": {
+    "nickname": "313455",
+    "identifier": "christos_tsik#0",
+    "id": "1172217063549435995",
+    "xp": 10,
+    "lastUpdate": 1709737360183,
+    "xpGainInWindow": 10
+  },
+  "340159603759251457": {
+    "nickname": "DavidA",
+    "identifier": ".cryptodroid#0",
+    "id": "340159603759251457",
+    "xp": 20,
+    "lastUpdate": 1709737367327,
+    "xpGainInWindow": 20
+  },
+  "1115911706628079636": {
+    "nickname": "827272838",
+    "identifier": "zaid836282#0",
+    "id": "1115911706628079636",
+    "xp": 10,
+    "lastUpdate": 1709737412441,
+    "xpGainInWindow": 10
+  },
+  "543135232522715147": {
+    "nickname": "NeuroPete",
+    "identifier": "neuropete#0",
+    "id": "543135232522715147",
+    "xp": 20,
+    "lastUpdate": 1709738635854,
+    "xpGainInWindow": 10
+  },
+  "1122999229187620885": {
+    "nickname": "lance01258",
+    "identifier": "lance01258#0",
+    "id": "1122999229187620885",
+    "xp": 10,
+    "lastUpdate": 1709737514576,
+    "xpGainInWindow": 10
+  },
+  "261257350323634179": {
+    "nickname": "civilianair.",
+    "identifier": "civilianair.#0",
+    "id": "261257350323634179",
+    "xp": 10,
+    "lastUpdate": 1709737558547,
+    "xpGainInWindow": 10
+  },
+  "549984985646497814": {
+    "nickname": "Mousstapha",
+    "identifier": "moustapha2420#0",
+    "id": "549984985646497814",
+    "xp": 20,
+    "lastUpdate": 1709737612042,
+    "xpGainInWindow": 20
+  },
+  "934353596257026059": {
+    "nickname": "The Heaven's Guard",
+    "identifier": "theheavensguard#0",
+    "id": "934353596257026059",
+    "xp": 40,
+    "lastUpdate": 1709744833306,
+    "xpGainInWindow": 10
+  },
+  "520559488114229249": {
+    "nickname": "DigitalHack",
+    "identifier": "digitalhack#0",
+    "id": "520559488114229249",
+    "xp": 175,
+    "lastUpdate": 1710359228838,
+    "xpGainInWindow": 5
+  },
+  "303261778039668737": {
+    "nickname": "JosephDhm",
+    "identifier": "joseph1122#0",
+    "id": "303261778039668737",
+    "xp": 10,
+    "lastUpdate": 1709738058879,
+    "xpGainInWindow": 10
+  },
+  "803824199016906753": {
+    "nickname": "DanVibes ⚡🛰",
+    "identifier": "swayze2382#0",
+    "id": "803824199016906753",
+    "xp": 10,
+    "lastUpdate": 1709738250448,
+    "xpGainInWindow": 10
+  },
+  "241573351208910849": {
+    "nickname": "BP",
+    "identifier": "bpower.#0",
+    "id": "241573351208910849",
+    "xp": 10,
+    "lastUpdate": 1709738261565,
+    "xpGainInWindow": 10
+  },
+  "800335189875621898": {
+    "nickname": "thegarty",
+    "identifier": "thegarty.#0",
+    "id": "800335189875621898",
+    "xp": 10,
+    "lastUpdate": 1709738345783,
+    "xpGainInWindow": 10
+  },
+  "234451554566930435": {
+    "nickname": "Wit",
+    "identifier": "wit2524#0",
+    "id": "234451554566930435",
+    "xp": 20,
+    "lastUpdate": 1709738415539,
+    "xpGainInWindow": 20
+  },
+  "901758879497596948": {
+    "nickname": "ReB.earth",
+    "identifier": "reb.earth#0",
+    "id": "901758879497596948",
+    "xp": 345,
+    "lastUpdate": 1710368550568,
+    "xpGainInWindow": 10
+  },
+  "639780235495079937": {
+    "nickname": "gmagic81",
+    "identifier": "gmagic81#0",
+    "id": "639780235495079937",
+    "xp": 10,
+    "lastUpdate": 1709738427224,
+    "xpGainInWindow": 10
+  },
+  "836345156789731348": {
+    "nickname": "jorio",
+    "identifier": "jorio_o#0",
+    "id": "836345156789731348",
+    "xp": 10,
+    "lastUpdate": 1709738503044,
+    "xpGainInWindow": 10
+  },
+  "881066987860664331": {
+    "nickname": "cryptozeinab",
+    "identifier": "cryptozeinab#0",
+    "id": "881066987860664331",
+    "xp": 10,
+    "lastUpdate": 1709738511596,
+    "xpGainInWindow": 10
+  },
+  "426785894146637827": {
+    "nickname": "DocM",
+    "identifier": "docm69#0",
+    "id": "426785894146637827",
+    "xp": 15,
+    "lastUpdate": 1709832933972,
+    "xpGainInWindow": 5
+  },
+  "913412753262276618": {
+    "nickname": "Shirox",
+    "identifier": "shirox89#0",
+    "id": "913412753262276618",
+    "xp": 15,
+    "lastUpdate": 1709913182632,
+    "xpGainInWindow": 5
+  },
+  "893979508695252993": {
+    "nickname": "jon.c",
+    "identifier": "fade2black37#0",
+    "id": "893979508695252993",
+    "xp": 10,
+    "lastUpdate": 1709738727685,
+    "xpGainInWindow": 10
+  },
+  "1181853525446250498": {
+    "nickname": "Kalyan",
+    "identifier": "kalyan0097#0",
+    "id": "1181853525446250498",
+    "xp": 10,
+    "lastUpdate": 1709738753877,
+    "xpGainInWindow": 10
+  },
+  "433617571254894593": {
+    "nickname": "Property Nr.1",
+    "identifier": "propertynr.1#0",
+    "id": "433617571254894593",
+    "xp": 35,
+    "lastUpdate": 1709741339620,
+    "xpGainInWindow": 5
+  },
+  "442338023720353805": {
+    "nickname": "m",
+    "identifier": "megnam01#0",
+    "id": "442338023720353805",
+    "xp": 10,
+    "lastUpdate": 1709738807647,
+    "xpGainInWindow": 10
+  },
+  "348832107247697922": {
+    "nickname": "𝓢𝓱𝓪𝓭𝓸𝔀",
+    "identifier": "shadow3675#0",
+    "id": "348832107247697922",
+    "xp": 60,
+    "lastUpdate": 1709913038321,
+    "xpGainInWindow": 35
+  },
+  "720810208690962464": {
+    "nickname": "Tablet",
+    "identifier": "tablet6323#0",
+    "id": "720810208690962464",
+    "xp": 10,
+    "lastUpdate": 1709738848423,
+    "xpGainInWindow": 10
+  },
+  "802867267330375720": {
+    "nickname": "Galactic - MASQbrowser.com",
+    "identifier": "galactic2377733#0",
+    "id": "802867267330375720",
+    "xp": 10,
+    "lastUpdate": 1709738982011,
+    "xpGainInWindow": 10
+  },
+  "947582655078232194": {
+    "nickname": "twist3d",
+    "identifier": ".twist3d.#0",
+    "id": "947582655078232194",
+    "xp": 35,
+    "lastUpdate": 1709739885981,
+    "xpGainInWindow": 25
+  },
+  "920389762488090644": {
+    "nickname": "madskills",
+    "identifier": ".madskills.#0",
+    "id": "920389762488090644",
+    "xp": 15,
+    "lastUpdate": 1709740082610,
+    "xpGainInWindow": 5
+  },
+  "974227281625112586": {
+    "nickname": "rob1nsaeee",
+    "identifier": "rob1nsaeee#3894",
+    "id": "974227281625112586",
+    "xp": 10,
+    "lastUpdate": 1709739254114,
+    "xpGainInWindow": 10
+  },
+  "948558085897736223": {
+    "nickname": "superfusion",
+    "identifier": "superfusion.#0",
+    "id": "948558085897736223",
+    "xp": 25,
+    "lastUpdate": 1709740127141,
+    "xpGainInWindow": 15
+  },
+  "955844562591559692": {
+    "nickname": "AMCrypto",
+    "identifier": "amcrypto_alex#0",
+    "id": "955844562591559692",
+    "xp": 10,
+    "lastUpdate": 1709739616796,
+    "xpGainInWindow": 10
+  },
+  "871823545972424786": {
+    "nickname": "salam1875",
+    "identifier": "salam128#0",
+    "id": "871823545972424786",
+    "xp": 20,
+    "lastUpdate": 1709739894022,
+    "xpGainInWindow": 20
+  },
+  "1208377764529573918": {
+    "nickname": "Merlin23",
+    "identifier": "merlin230406#0",
+    "id": "1208377764529573918",
+    "xp": 10,
+    "lastUpdate": 1709740053056,
+    "xpGainInWindow": 10
+  },
+  "710991532492193923": {
+    "nickname": "2Moulin",
+    "identifier": "2moulin.sol#0",
+    "id": "710991532492193923",
+    "xp": 10,
+    "lastUpdate": 1709740519051,
+    "xpGainInWindow": 10
+  },
+  "978767455151358072": {
+    "nickname": "theanonymousone",
+    "identifier": ".theanonymousone#0",
+    "id": "978767455151358072",
+    "xp": 10,
+    "lastUpdate": 1709740590867,
+    "xpGainInWindow": 10
+  },
+  "566358385893703681": {
+    "nickname": "ProVcenz",
+    "identifier": "provcenz#0",
+    "id": "566358385893703681",
+    "xp": 45,
+    "lastUpdate": 1709938496498,
+    "xpGainInWindow": 5
+  },
+  "928033424139235339": {
+    "nickname": "TATurtle",
+    "identifier": "taturtle#0",
+    "id": "928033424139235339",
+    "xp": 20,
+    "lastUpdate": 1710063614615,
+    "xpGainInWindow": 5
+  },
+  "1214968898181398612": {
+    "nickname": "cryptoboy",
+    "identifier": "cryptoboy_89765#0",
+    "id": "1214968898181398612",
+    "xp": 10,
+    "lastUpdate": 1709741588316,
+    "xpGainInWindow": 10
+  },
+  "401347847246577664": {
+    "nickname": "opq27",
+    "identifier": "opq27#0",
+    "id": "401347847246577664",
+    "xp": 10,
+    "lastUpdate": 1709742236350,
+    "xpGainInWindow": 10
+  },
+  "1046086507779326012": {
+    "nickname": "bestxml",
+    "identifier": "bestxml#0",
+    "id": "1046086507779326012",
+    "xp": 985,
+    "lastUpdate": 1710169981835,
+    "xpGainInWindow": 40
+  },
+  "184029459593166849": {
+    "nickname": "KeNroM",
+    "identifier": "kenrom#0",
+    "id": "184029459593166849",
+    "xp": 40,
+    "lastUpdate": 1709836631290,
+    "xpGainInWindow": 5
+  },
+  "494388136042823681": {
+    "nickname": "Viacheslav",
+    "identifier": "viacheslav6158#0",
+    "id": "494388136042823681",
+    "xp": 15,
+    "lastUpdate": 1709743139089,
+    "xpGainInWindow": 15
+  },
+  "757942209466335243": {
+    "nickname": "southsidecrypto",
+    "identifier": "southsidecrypto#0",
+    "id": "757942209466335243",
+    "xp": 10,
+    "lastUpdate": 1709743528297,
+    "xpGainInWindow": 10
+  },
+  "958424104325763103": {
+    "nickname": "halimOrwell",
+    "identifier": "halimorwell#0",
+    "id": "958424104325763103",
+    "xp": 10,
+    "lastUpdate": 1709743968365,
+    "xpGainInWindow": 10
+  },
+  "707396282620182560": {
+    "nickname": "Sandman69",
+    "identifier": "sandman690000#0",
+    "id": "707396282620182560",
+    "xp": 10,
+    "lastUpdate": 1709744391071,
+    "xpGainInWindow": 10
+  },
+  "812148584190967859": {
+    "nickname": "CreeksidePatriot",
+    "identifier": "creeksidepatriot#0",
+    "id": "812148584190967859",
+    "xp": 15,
+    "lastUpdate": 1709837347533,
+    "xpGainInWindow": 5
+  },
+  "905643460986556417": {
+    "nickname": "maui",
+    "identifier": "mauitheshiba#0",
+    "id": "905643460986556417",
+    "xp": 10,
+    "lastUpdate": 1709744617676,
+    "xpGainInWindow": 10
+  },
+  "506554124985171970": {
+    "nickname": "Copenomics",
+    "identifier": "_copenomics_#0",
+    "id": "506554124985171970",
+    "xp": 260,
+    "lastUpdate": 1710357019510,
+    "xpGainInWindow": 25
+  },
+  "805781995107909642": {
+    "nickname": "GiPe",
+    "identifier": ".gipe#0",
+    "id": "805781995107909642",
+    "xp": 30,
+    "lastUpdate": 1709809426399,
+    "xpGainInWindow": 20
+  },
+  "335976048648781825": {
+    "nickname": "Rigby",
+    "identifier": "rigiththebee#0",
+    "id": "335976048648781825",
+    "xp": 20,
+    "lastUpdate": 1709843754178,
+    "xpGainInWindow": 10
+  },
+  "317549711630532608": {
+    "nickname": "Cwalka",
+    "identifier": "_cwalka#0",
+    "id": "317549711630532608",
+    "xp": 20,
+    "lastUpdate": 1709942846811,
+    "xpGainInWindow": 5
+  },
+  "846033624661753856": {
+    "nickname": "C_Marius_C",
+    "identifier": "c_marius_c#0",
+    "id": "846033624661753856",
+    "xp": 15,
+    "lastUpdate": 1709744909486,
+    "xpGainInWindow": 15
+  },
+  "423735588865441793": {
+    "nickname": "drdent18",
+    "identifier": "drdent18#0",
+    "id": "423735588865441793",
+    "xp": 15,
+    "lastUpdate": 1709836197270,
+    "xpGainInWindow": 5
+  },
+  "270729449165684758": {
+    "nickname": "DeviantDan",
+    "identifier": "deviantdan#0",
+    "id": "270729449165684758",
+    "xp": 10,
+    "lastUpdate": 1709746001330,
+    "xpGainInWindow": 10
+  },
+  "610730134680371201": {
+    "nickname": "bob allan",
+    "identifier": "boballan.#0",
+    "id": "610730134680371201",
+    "xp": 10,
+    "lastUpdate": 1709746151260,
+    "xpGainInWindow": 10
+  },
+  "332917318659211276": {
+    "nickname": "Coinquistador",
+    "identifier": "coinquistador#0",
+    "id": "332917318659211276",
+    "xp": 15,
+    "lastUpdate": 1709842233093,
+    "xpGainInWindow": 5
+  },
+  "981528414672535603": {
+    "nickname": "Lukas Weidener",
+    "identifier": "lukasweidener#0",
+    "id": "981528414672535603",
+    "xp": 1185,
+    "lastUpdate": 1710361997851,
+    "xpGainInWindow": 15
+  },
+  "535189791315329034": {
+    "nickname": "Mazo",
+    "identifier": "yomazo#0",
+    "id": "535189791315329034",
+    "xp": 10,
+    "lastUpdate": 1709746764189,
+    "xpGainInWindow": 10
+  },
+  "1056668127917789284": {
+    "nickname": "Thilo",
+    "identifier": "Thilo#0143",
+    "id": "1056668127917789284",
+    "xp": 10,
+    "lastUpdate": 1709746847304,
+    "xpGainInWindow": 10
+  },
+  "999436316771106908": {
+    "nickname": "capo",
+    "identifier": "capo#6596",
+    "id": "999436316771106908",
+    "xp": 50,
+    "lastUpdate": 1709746897637,
+    "xpGainInWindow": 50
+  },
+  "705912362854514748": {
+    "nickname": "ghinny35016",
+    "identifier": "ghinny35016#0",
+    "id": "705912362854514748",
+    "xp": 10,
+    "lastUpdate": 1709747088556,
+    "xpGainInWindow": 10
+  },
+  "404185070090321920": {
+    "nickname": "Rudy",
+    "identifier": "rudy3459#0",
+    "id": "404185070090321920",
+    "xp": 10,
+    "lastUpdate": 1709747218762,
+    "xpGainInWindow": 10
+  },
+  "759936042894622780": {
+    "nickname": "preacher6275",
+    "identifier": "preacher6275#0",
+    "id": "759936042894622780",
+    "xp": 25,
+    "lastUpdate": 1709813140697,
+    "xpGainInWindow": 10
+  },
+  "825999408608051250": {
+    "nickname": "hed1957",
+    "identifier": "hed1957#0",
+    "id": "825999408608051250",
+    "xp": 10,
+    "lastUpdate": 1709747499478,
+    "xpGainInWindow": 10
+  },
+  "751732978853478422": {
+    "nickname": "s",
+    "identifier": "lister2879#0",
+    "id": "751732978853478422",
+    "xp": 10,
+    "lastUpdate": 1709747609975,
+    "xpGainInWindow": 10
+  },
+  "1193095971257733120": {
+    "nickname": "KungRobin",
+    "identifier": "ampirexxx#0",
+    "id": "1193095971257733120",
+    "xp": 10,
+    "lastUpdate": 1709747881255,
+    "xpGainInWindow": 10
+  },
+  "768319699049775134": {
+    "nickname": "Chelsea",
+    "identifier": "chelseacut3#0",
+    "id": "768319699049775134",
+    "xp": 10,
+    "lastUpdate": 1709749065270,
+    "xpGainInWindow": 10
+  },
+  "915372889300172830": {
+    "nickname": "Achiweuba",
+    "identifier": "achiweuba#0",
+    "id": "915372889300172830",
+    "xp": 35,
+    "lastUpdate": 1709836251424,
+    "xpGainInWindow": 5
+  },
+  "767742196471431198": {
+    "nickname": "Magic_turtle0221",
+    "identifier": "magicturtle0221#0",
+    "id": "767742196471431198",
+    "xp": 10,
+    "lastUpdate": 1709749303493,
+    "xpGainInWindow": 10
+  },
+  "685436499403341834": {
+    "nickname": "Addamski",
+    "identifier": "addamski#0",
+    "id": "685436499403341834",
+    "xp": 10,
+    "lastUpdate": 1709749308700,
+    "xpGainInWindow": 10
+  },
+  "885477958708510760": {
+    "nickname": "Elton",
+    "identifier": "iardine#0",
+    "id": "885477958708510760",
+    "xp": 10,
+    "lastUpdate": 1709749335985,
+    "xpGainInWindow": 10
+  },
+  "1211173667267153923": {
+    "nickname": "john199019",
+    "identifier": "john199019#0",
+    "id": "1211173667267153923",
+    "xp": 10,
+    "lastUpdate": 1709749380924,
+    "xpGainInWindow": 10
+  },
+  "771833288494546985": {
+    "nickname": "aaaaaaaa",
+    "identifier": "__aaaaaaaa__#0",
+    "id": "771833288494546985",
+    "xp": 10,
+    "lastUpdate": 1709749392301,
+    "xpGainInWindow": 10
+  },
+  "898625978354503760": {
+    "nickname": "Ashi❤❤❤",
+    "identifier": "ashi7192#0",
+    "id": "898625978354503760",
+    "xp": 20,
+    "lastUpdate": 1710174827354,
+    "xpGainInWindow": 10
+  },
+  "1210242291407527989": {
+    "nickname": "con la k1",
+    "identifier": "conlak.#0",
+    "id": "1210242291407527989",
+    "xp": 10,
+    "lastUpdate": 1709749441868,
+    "xpGainInWindow": 10
+  },
+  "780464445376823346": {
+    "nickname": "ok good fgnnnmm",
+    "identifier": "ok good fgnnnmm#7332",
+    "id": "780464445376823346",
+    "xp": 10,
+    "lastUpdate": 1709749611753,
+    "xpGainInWindow": 10
+  },
+  "921107650295496714": {
+    "nickname": "Mystics",
+    "identifier": "mystics0957#0",
+    "id": "921107650295496714",
+    "xp": 10,
+    "lastUpdate": 1709749634312,
+    "xpGainInWindow": 10
+  },
+  "1215002583685668957": {
+    "nickname": "Edouard Crypt",
+    "identifier": "edouardcrypt#0",
+    "id": "1215002583685668957",
+    "xp": 10,
+    "lastUpdate": 1709749738804,
+    "xpGainInWindow": 10
+  },
+  "1190109528616874186": {
+    "nickname": "RBroskie",
+    "identifier": "rbroskie#0",
+    "id": "1190109528616874186",
+    "xp": 10,
+    "lastUpdate": 1709749807098,
+    "xpGainInWindow": 10
+  },
+  "1100853467024740374": {
+    "nickname": "John06",
+    "identifier": "john_006#0",
+    "id": "1100853467024740374",
+    "xp": 25,
+    "lastUpdate": 1709836225655,
+    "xpGainInWindow": 10
+  },
+  "835495024489398342": {
+    "nickname": "jeremiahjcproperty",
+    "identifier": "jeremiahjcproperty#0",
+    "id": "835495024489398342",
+    "xp": 10,
+    "lastUpdate": 1709749893503,
+    "xpGainInWindow": 10
+  },
+  "795729395410665533": {
+    "nickname": "walkingconsul",
+    "identifier": "walkingconsul#0",
+    "id": "795729395410665533",
+    "xp": 15,
+    "lastUpdate": 1709751730781,
+    "xpGainInWindow": 5
+  },
+  "135754025093169152": {
+    "nickname": "Famikaze",
+    "identifier": "famikaze#0",
+    "id": "135754025093169152",
+    "xp": 10,
+    "lastUpdate": 1709749930439,
+    "xpGainInWindow": 10
+  },
+  "1215003704047181855": {
+    "nickname": "Samex37",
+    "identifier": "samex37#0",
+    "id": "1215003704047181855",
+    "xp": 10,
+    "lastUpdate": 1709749985819,
+    "xpGainInWindow": 10
+  },
+  "706207327002296472": {
+    "nickname": "Elsoft",
+    "identifier": "elsoft#0",
+    "id": "706207327002296472",
+    "xp": 10,
+    "lastUpdate": 1709750002179,
+    "xpGainInWindow": 10
+  },
+  "334285490389778433": {
+    "nickname": "sagori42",
+    "identifier": "sagori42#0",
+    "id": "334285490389778433",
+    "xp": 25,
+    "lastUpdate": 1709750341500,
+    "xpGainInWindow": 25
+  },
+  "522535257107595274": {
+    "nickname": "Mattington | Suiswap",
+    "identifier": "mattingtonsuiswap#0",
+    "id": "522535257107595274",
+    "xp": 60,
+    "lastUpdate": 1709836535004,
+    "xpGainInWindow": 50
+  },
+  "925462198137012285": {
+    "nickname": "sacit6224",
+    "identifier": "sacit6224#0",
+    "id": "925462198137012285",
+    "xp": 10,
+    "lastUpdate": 1709750395582,
+    "xpGainInWindow": 10
+  },
+  "392339060586446848": {
+    "nickname": "BlindSquirrel",
+    "identifier": "blindsquirrel#0",
+    "id": "392339060586446848",
+    "xp": 30,
+    "lastUpdate": 1709836291895,
+    "xpGainInWindow": 10
+  },
+  "451828632244191233": {
+    "nickname": "solace",
+    "identifier": "hasse6836#0",
+    "id": "451828632244191233",
+    "xp": 30,
+    "lastUpdate": 1709754493381,
+    "xpGainInWindow": 20
+  },
+  "472017248698105857": {
+    "nickname": "Bixpag",
+    "identifier": "bixpag#0",
+    "id": "472017248698105857",
+    "xp": 10,
+    "lastUpdate": 1709750838499,
+    "xpGainInWindow": 10
+  },
+  "1063906562910986250": {
+    "nickname": "abcvisuals",
+    "identifier": "abcvisuals#0",
+    "id": "1063906562910986250",
+    "xp": 10,
+    "lastUpdate": 1709750926920,
+    "xpGainInWindow": 10
+  },
+  "1095673036251865158": {
+    "nickname": "IBIBIB",
+    "identifier": "isma2502#0",
+    "id": "1095673036251865158",
+    "xp": 10,
+    "lastUpdate": 1709751161143,
+    "xpGainInWindow": 10
+  },
+  "376766376078999556": {
+    "nickname": "Jakk",
+    "identifier": "jakkripper#0",
+    "id": "376766376078999556",
+    "xp": 40,
+    "lastUpdate": 1709751287648,
+    "xpGainInWindow": 40
+  },
+  "516705259901419520": {
+    "nickname": "realschism | XBorg",
+    "identifier": "realschism#0",
+    "id": "516705259901419520",
+    "xp": 10,
+    "lastUpdate": 1709751607230,
+    "xpGainInWindow": 10
+  },
+  "1215011179882086541": {
+    "nickname": "ibib",
+    "identifier": "ibib_18467#0",
+    "id": "1215011179882086541",
+    "xp": 10,
+    "lastUpdate": 1709751676320,
+    "xpGainInWindow": 10
+  },
+  "856473427199131670": {
+    "nickname": "eRzet",
+    "identifier": "chzklf#0",
+    "id": "856473427199131670",
+    "xp": 10,
+    "lastUpdate": 1709751694603,
+    "xpGainInWindow": 10
+  },
+  "821246940355362817": {
+    "nickname": "coinalpha",
+    "identifier": "coinalpha.#0",
+    "id": "821246940355362817",
+    "xp": 10,
+    "lastUpdate": 1709751895352,
+    "xpGainInWindow": 10
+  },
+  "1213054353070362665": {
+    "nickname": "Ederich",
+    "identifier": "ederich_76397#0",
+    "id": "1213054353070362665",
+    "xp": 10,
+    "lastUpdate": 1709751948482,
+    "xpGainInWindow": 10
+  },
+  "387391086328283149": {
+    "nickname": "DragonsVan",
+    "identifier": "dragonsvan#0",
+    "id": "387391086328283149",
+    "xp": 10,
+    "lastUpdate": 1709752309998,
+    "xpGainInWindow": 10
+  },
+  "813018370961834004": {
+    "nickname": "sonnydover",
+    "identifier": "sonnydover#0",
+    "id": "813018370961834004",
+    "xp": 10,
+    "lastUpdate": 1709752332525,
+    "xpGainInWindow": 10
+  },
+  "1055683259213824102": {
+    "nickname": "Charlie",
+    "identifier": "charlie577#0",
+    "id": "1055683259213824102",
+    "xp": 50,
+    "lastUpdate": 1710292768288,
+    "xpGainInWindow": 10
+  },
+  "1189943610658017341": {
+    "nickname": "MILATANOIA",
+    "identifier": "milad_nft87#0",
+    "id": "1189943610658017341",
+    "xp": 335,
+    "lastUpdate": 1710099665297,
+    "xpGainInWindow": 5
+  },
+  "1196736139940339853": {
+    "nickname": "Wajadkhan",
+    "identifier": "wajad99#0",
+    "id": "1196736139940339853",
+    "xp": 10,
+    "lastUpdate": 1709752698901,
+    "xpGainInWindow": 10
+  },
+  "940199851835154462": {
+    "nickname": "sorin9989",
+    "identifier": "sorin9989#0",
+    "id": "940199851835154462",
+    "xp": 10,
+    "lastUpdate": 1709752865688,
+    "xpGainInWindow": 10
+  },
+  "805885392544202752": {
+    "nickname": "Scuba19",
+    "identifier": "scuba19#0",
+    "id": "805885392544202752",
+    "xp": 10,
+    "lastUpdate": 1709752902950,
+    "xpGainInWindow": 10
+  },
+  "755082726415138868": {
+    "nickname": "stepandihich",
+    "identifier": "halaquinn#0",
+    "id": "755082726415138868",
+    "xp": 10,
+    "lastUpdate": 1709753227893,
+    "xpGainInWindow": 10
+  },
+  "842766976605487124": {
+    "nickname": "Thinh012",
+    "identifier": "thinh8899#0",
+    "id": "842766976605487124",
+    "xp": 10,
+    "lastUpdate": 1709753353141,
+    "xpGainInWindow": 10
+  },
+  "328969475611426826": {
+    "nickname": "mdd8533",
+    "identifier": "mdd8533#0",
+    "id": "328969475611426826",
+    "xp": 10,
+    "lastUpdate": 1709753440929,
+    "xpGainInWindow": 10
+  },
+  "956732381778292786": {
+    "nickname": "ky_scott",
+    "identifier": "gslamar#0",
+    "id": "956732381778292786",
+    "xp": 10,
+    "lastUpdate": 1709754076533,
+    "xpGainInWindow": 10
+  },
+  "958712902313975860": {
+    "nickname": "lucian271082",
+    "identifier": "lucian271082#0",
+    "id": "958712902313975860",
+    "xp": 10,
+    "lastUpdate": 1709754352634,
+    "xpGainInWindow": 10
+  },
+  "786570719399772170": {
+    "nickname": "Otti",
+    "identifier": "otti.sol#0",
+    "id": "786570719399772170",
+    "xp": 10,
+    "lastUpdate": 1709754639849,
+    "xpGainInWindow": 10
+  },
+  "860258248799551498": {
+    "nickname": "ppgillette",
+    "identifier": "ppgillette#0",
+    "id": "860258248799551498",
+    "xp": 10,
+    "lastUpdate": 1709755238306,
+    "xpGainInWindow": 10
+  },
+  "1198653961369030807": {
+    "nickname": "EKENE KENNETH",
+    "identifier": "ekenekenneth#0",
+    "id": "1198653961369030807",
+    "xp": 30,
+    "lastUpdate": 1709755986740,
+    "xpGainInWindow": 20
+  },
+  "846315457739882496": {
+    "nickname": "mottro89",
+    "identifier": "mottro89#0",
+    "id": "846315457739882496",
+    "xp": 10,
+    "lastUpdate": 1709755745560,
+    "xpGainInWindow": 10
+  },
+  "498194651329724427": {
+    "nickname": "🇺🇦 I_am_Ukrainian 🇺🇦",
+    "identifier": "i_am_ukrainian#0",
+    "id": "498194651329724427",
+    "xp": 10,
+    "lastUpdate": 1709755863505,
+    "xpGainInWindow": 10
+  },
+  "842833805245022269": {
+    "nickname": "ManGana",
+    "identifier": "mangana#0",
+    "id": "842833805245022269",
+    "xp": 30,
+    "lastUpdate": 1709756216170,
+    "xpGainInWindow": 30
+  },
+  "829038285090848835": {
+    "nickname": "Jacques",
+    "identifier": "jacques92#0",
+    "id": "829038285090848835",
+    "xp": 10,
+    "lastUpdate": 1709756350510,
+    "xpGainInWindow": 10
+  },
+  "1213198396429439031": {
+    "nickname": "Bruno Quadra",
+    "identifier": "brunoquadra_65358#0",
+    "id": "1213198396429439031",
+    "xp": 10,
+    "lastUpdate": 1709756932688,
+    "xpGainInWindow": 10
+  },
+  "413190952975597568": {
+    "nickname": "Dr Evil of Crypto",
+    "identifier": "drevilofcrypto#0",
+    "id": "413190952975597568",
+    "xp": 115,
+    "lastUpdate": 1710262547070,
+    "xpGainInWindow": 10
+  },
+  "409666919055228929": {
+    "nickname": "ARKH9",
+    "identifier": ".arkh9#0",
+    "id": "409666919055228929",
+    "xp": 15,
+    "lastUpdate": 1709843774873,
+    "xpGainInWindow": 5
+  },
+  "692343749673746492": {
+    "nickname": "sekiro",
+    "identifier": "mikiri_step#0",
+    "id": "692343749673746492",
+    "xp": 20,
+    "lastUpdate": 1709758715123,
+    "xpGainInWindow": 20
+  },
+  "753060155847082045": {
+    "nickname": "Deriko",
+    "identifier": "_deriko#0",
+    "id": "753060155847082045",
+    "xp": 30,
+    "lastUpdate": 1709759176097,
+    "xpGainInWindow": 30
+  },
+  "763381508399955988": {
+    "nickname": "Martijn",
+    "identifier": "martijn0420#0",
+    "id": "763381508399955988",
+    "xp": 10,
+    "lastUpdate": 1709759318867,
+    "xpGainInWindow": 10
+  },
+  "759141055810633738": {
+    "nickname": "killafrommanila_",
+    "identifier": "killafrommanila_#0",
+    "id": "759141055810633738",
+    "xp": 10,
+    "lastUpdate": 1709759363343,
+    "xpGainInWindow": 10
+  },
+  "816656104163377154": {
+    "nickname": "robbielamby79",
+    "identifier": "robbielamby79#0",
+    "id": "816656104163377154",
+    "xp": 10,
+    "lastUpdate": 1709759486995,
+    "xpGainInWindow": 10
+  },
+  "588439935653117954": {
+    "nickname": "bagelsssssss",
+    "identifier": "bagelsssssss#0",
+    "id": "588439935653117954",
+    "xp": 20,
+    "lastUpdate": 1709759499259,
+    "xpGainInWindow": 20
+  },
+  "324244396327305217": {
+    "nickname": "Rick",
+    "identifier": "rick8108#0",
+    "id": "324244396327305217",
+    "xp": 20,
+    "lastUpdate": 1709764182075,
+    "xpGainInWindow": 10
+  },
+  "882760794914312242": {
+    "nickname": "PK",
+    "identifier": "pk8858#0",
+    "id": "882760794914312242",
+    "xp": 10,
+    "lastUpdate": 1709759649673,
+    "xpGainInWindow": 10
+  },
+  "843310456432099328": {
+    "nickname": "Taylor Schnepp",
+    "identifier": "taylorschnepp#0",
+    "id": "843310456432099328",
+    "xp": 10,
+    "lastUpdate": 1709759775192,
+    "xpGainInWindow": 10
+  },
+  "399557008262692864": {
+    "nickname": "Crypto Roby",
+    "identifier": "cryptoroby#0",
+    "id": "399557008262692864",
+    "xp": 20,
+    "lastUpdate": 1709760162247,
+    "xpGainInWindow": 20
+  },
+  "779777068044910632": {
+    "nickname": "shjOoR",
+    "identifier": "shjoor#0",
+    "id": "779777068044910632",
+    "xp": 20,
+    "lastUpdate": 1709966419849,
+    "xpGainInWindow": 10
+  },
+  "1199849960494092319": {
+    "nickname": "Yacine 23",
+    "identifier": "yacine230885#0",
+    "id": "1199849960494092319",
+    "xp": 20,
+    "lastUpdate": 1709942268228,
+    "xpGainInWindow": 5
+  },
+  "901092856247226378": {
+    "nickname": "Saiv.s◎L",
+    "identifier": "saiv.#0",
+    "id": "901092856247226378",
+    "xp": 20,
+    "lastUpdate": 1709760635197,
+    "xpGainInWindow": 20
+  },
+  "875081426826059776": {
+    "nickname": "Joseph | IronKey",
+    "identifier": "thesauceman10#0",
+    "id": "875081426826059776",
+    "xp": 10,
+    "lastUpdate": 1709760910448,
+    "xpGainInWindow": 10
+  },
+  "433461203495288834": {
+    "nickname": "HOMER",
+    "identifier": "homer1384#0",
+    "id": "433461203495288834",
+    "xp": 10,
+    "lastUpdate": 1709761145358,
+    "xpGainInWindow": 10
+  },
+  "711652287705120821": {
+    "nickname": "M.A.K.",
+    "identifier": "m.a.k._#0",
+    "id": "711652287705120821",
+    "xp": 15,
+    "lastUpdate": 1709822789799,
+    "xpGainInWindow": 5
+  },
+  "860274135133454346": {
+    "nickname": "totesmowsh",
+    "identifier": "totesmowsh#0",
+    "id": "860274135133454346",
+    "xp": 15,
+    "lastUpdate": 1710080403501,
+    "xpGainInWindow": 5
+  },
+  "547845905651466250": {
+    "nickname": "Enissay",
+    "identifier": "enissay#0",
+    "id": "547845905651466250",
+    "xp": 10,
+    "lastUpdate": 1709761859367,
+    "xpGainInWindow": 10
+  },
+  "1214239531402793040": {
+    "nickname": "Kella87",
+    "identifier": "kella87#0",
+    "id": "1214239531402793040",
+    "xp": 10,
+    "lastUpdate": 1709762024022,
+    "xpGainInWindow": 10
+  },
+  "1204450044884029450": {
+    "nickname": "973835",
+    "identifier": "0813841#0",
+    "id": "1204450044884029450",
+    "xp": 10,
+    "lastUpdate": 1709762346542,
+    "xpGainInWindow": 10
+  },
+  "387328965683052555": {
+    "nickname": "fireFalcon",
+    "identifier": "firefalcon_eth#0",
+    "id": "387328965683052555",
+    "xp": 10,
+    "lastUpdate": 1709762377888,
+    "xpGainInWindow": 10
+  },
+  "802637691404681316": {
+    "nickname": "error404",
+    "identifier": "error2261#0",
+    "id": "802637691404681316",
+    "xp": 10,
+    "lastUpdate": 1709762633571,
+    "xpGainInWindow": 10
+  },
+  "566882541315948554": {
+    "nickname": "fults19",
+    "identifier": "fults19#0",
+    "id": "566882541315948554",
+    "xp": 10,
+    "lastUpdate": 1709762813263,
+    "xpGainInWindow": 10
+  },
+  "312249501241049088": {
+    "nickname": "JaspeR",
+    "identifier": "jasper001#0",
+    "id": "312249501241049088",
+    "xp": 10,
+    "lastUpdate": 1709763037605,
+    "xpGainInWindow": 10
+  },
+  "808549455551791177": {
+    "nickname": "Cryptoholic",
+    "identifier": "cryptoholic_#0",
+    "id": "808549455551791177",
+    "xp": 20,
+    "lastUpdate": 1709838554764,
+    "xpGainInWindow": 5
+  },
+  "836331971885793290": {
+    "nickname": "Walmor",
+    "identifier": ".walmor#0",
+    "id": "836331971885793290",
+    "xp": 10,
+    "lastUpdate": 1709763524224,
+    "xpGainInWindow": 10
+  },
+  "800913542177882112": {
+    "nickname": "doneylis",
+    "identifier": "doneylis#0",
+    "id": "800913542177882112",
+    "xp": 10,
+    "lastUpdate": 1709763560464,
+    "xpGainInWindow": 10
+  },
+  "807030720128221214": {
+    "nickname": "CARLOS Díaz",
+    "identifier": "carlosdiaz4372#0",
+    "id": "807030720128221214",
+    "xp": 10,
+    "lastUpdate": 1709763622143,
+    "xpGainInWindow": 10
+  },
+  "309235891849658371": {
+    "nickname": "Amunaminum",
+    "identifier": "amunaminum#0",
+    "id": "309235891849658371",
+    "xp": 10,
+    "lastUpdate": 1709763672539,
+    "xpGainInWindow": 10
+  },
+  "251921606551535616": {
+    "nickname": "Kyky|Bio:👾Ways2earn💸Airdrops🍻",
+    "identifier": "kykyinvest#0",
+    "id": "251921606551535616",
+    "xp": 25,
+    "lastUpdate": 1709807689413,
+    "xpGainInWindow": 10
+  },
+  "188316673625817088": {
+    "nickname": "Vypossa",
+    "identifier": "vypos#0",
+    "id": "188316673625817088",
+    "xp": 25,
+    "lastUpdate": 1709763742960,
+    "xpGainInWindow": 25
+  },
+  "541718714819543090": {
+    "nickname": "zhulu",
+    "identifier": "zhulu8089#0",
+    "id": "541718714819543090",
+    "xp": 10,
+    "lastUpdate": 1709764037316,
+    "xpGainInWindow": 10
+  },
+  "920386948550496266": {
+    "nickname": "Rossi",
+    "identifier": "rossitag#0",
+    "id": "920386948550496266",
+    "xp": 10,
+    "lastUpdate": 1709764092633,
+    "xpGainInWindow": 10
+  },
+  "798156165611651102": {
+    "nickname": "javier1804",
+    "identifier": "javier1804#0",
+    "id": "798156165611651102",
+    "xp": 10,
+    "lastUpdate": 1709764176608,
+    "xpGainInWindow": 10
+  },
+  "841363278097285151": {
+    "nickname": "ROCKYMAN..",
+    "identifier": "rockyman.#0",
+    "id": "841363278097285151",
+    "xp": 10,
+    "lastUpdate": 1709764268260,
+    "xpGainInWindow": 10
+  },
+  "543958831777054720": {
+    "nickname": "Marlene",
+    "identifier": "marlene4974#0",
+    "id": "543958831777054720",
+    "xp": 20,
+    "lastUpdate": 1709764312131,
+    "xpGainInWindow": 20
+  },
+  "797961196354797608": {
+    "nickname": "SUPERBAN",
+    "identifier": "_superban#0",
+    "id": "797961196354797608",
+    "xp": 10,
+    "lastUpdate": 1709764335854,
+    "xpGainInWindow": 10
+  },
+  "1006592338598039573": {
+    "nickname": "CRYPTON",
+    "identifier": "crypton8400#0",
+    "id": "1006592338598039573",
+    "xp": 10,
+    "lastUpdate": 1709764409602,
+    "xpGainInWindow": 10
+  },
+  "986726955200163960": {
+    "nickname": "Maria del mar",
+    "identifier": "mariadelmar3968#0",
+    "id": "986726955200163960",
+    "xp": 20,
+    "lastUpdate": 1709764772400,
+    "xpGainInWindow": 20
+  },
+  "510801115265105940": {
+    "nickname": "Panda!",
+    "identifier": "panda2205#0",
+    "id": "510801115265105940",
+    "xp": 10,
+    "lastUpdate": 1709764791494,
+    "xpGainInWindow": 10
+  },
+  "834229805972979763": {
+    "nickname": "Estebanjesua387",
+    "identifier": "estebanjesua387#0",
+    "id": "834229805972979763",
+    "xp": 10,
+    "lastUpdate": 1709765190018,
+    "xpGainInWindow": 10
+  },
+  "977905802029441075": {
+    "nickname": "Prince_p",
+    "identifier": "prince_p_#0",
+    "id": "977905802029441075",
+    "xp": 20,
+    "lastUpdate": 1709765198398,
+    "xpGainInWindow": 20
+  },
+  "1180906562152308839": {
+    "nickname": "ŞŘ°_°ROY 📛🔱",
+    "identifier": "pacipic#0",
+    "id": "1180906562152308839",
+    "xp": 10,
+    "lastUpdate": 1709765348513,
+    "xpGainInWindow": 10
+  },
+  "806063751022641222": {
+    "nickname": "bl@ck",
+    "identifier": "audry6119#0",
+    "id": "806063751022641222",
+    "xp": 10,
+    "lastUpdate": 1709765772821,
+    "xpGainInWindow": 10
+  },
+  "886258350445174845": {
+    "nickname": "Yolex",
+    "identifier": "yolex6059#0",
+    "id": "886258350445174845",
+    "xp": 10,
+    "lastUpdate": 1709765780749,
+    "xpGainInWindow": 10
+  },
+  "831905211027161099": {
+    "nickname": "CJE",
+    "identifier": "john_85#0",
+    "id": "831905211027161099",
+    "xp": 30,
+    "lastUpdate": 1709765886756,
+    "xpGainInWindow": 30
+  },
+  "742135754544644168": {
+    "nickname": "drcrcn",
+    "identifier": "dr.crcn#0",
+    "id": "742135754544644168",
+    "xp": 10,
+    "lastUpdate": 1709765937918,
+    "xpGainInWindow": 10
+  },
+  "600871745217363969": {
+    "nickname": "Shino",
+    "identifier": "shino0603#0",
+    "id": "600871745217363969",
+    "xp": 10,
+    "lastUpdate": 1709766009157,
+    "xpGainInWindow": 10
+  },
+  "399105413137825792": {
+    "nickname": "Silent Wolf",
+    "identifier": "silentwolf_nft#0",
+    "id": "399105413137825792",
+    "xp": 10,
+    "lastUpdate": 1709766026934,
+    "xpGainInWindow": 10
+  },
+  "471074973562306570": {
+    "nickname": "Nan3",
+    "identifier": ".nan3#0",
+    "id": "471074973562306570",
+    "xp": 10,
+    "lastUpdate": 1709766037023,
+    "xpGainInWindow": 10
+  },
+  "545301733295783948": {
+    "nickname": "Yan",
+    "identifier": "yan6030#0",
+    "id": "545301733295783948",
+    "xp": 20,
+    "lastUpdate": 1709766210559,
+    "xpGainInWindow": 20
+  },
+  "865349280460701726": {
+    "nickname": "josebcn90",
+    "identifier": "josebcn90#0",
+    "id": "865349280460701726",
+    "xp": 10,
+    "lastUpdate": 1709766230486,
+    "xpGainInWindow": 10
+  },
+  "939877403994497024": {
+    "nickname": "axel5481",
+    "identifier": "axel5481#0",
+    "id": "939877403994497024",
+    "xp": 70,
+    "lastUpdate": 1709837260654,
+    "xpGainInWindow": 5
+  },
+  "1008729122857553952": {
+    "nickname": "mhdjbr",
+    "identifier": "mhdjbr#0",
+    "id": "1008729122857553952",
+    "xp": 30,
+    "lastUpdate": 1710119738189,
+    "xpGainInWindow": 10
+  },
+  "451014706162040834": {
+    "nickname": "Vicky Boom",
+    "identifier": "invictusboom#0",
+    "id": "451014706162040834",
+    "xp": 10,
+    "lastUpdate": 1709766430762,
+    "xpGainInWindow": 10
+  },
+  "793327468286050326": {
+    "nickname": "rzk",
+    "identifier": "rzk3267#0",
+    "id": "793327468286050326",
+    "xp": 40,
+    "lastUpdate": 1709913500279,
+    "xpGainInWindow": 20
+  },
+  "391402384452091904": {
+    "nickname": "olo",
+    "identifier": "8ollo8#0",
+    "id": "391402384452091904",
+    "xp": 10,
+    "lastUpdate": 1709766684618,
+    "xpGainInWindow": 10
+  },
+  "1111495119170969703": {
+    "nickname": "rainbowunicorns.",
+    "identifier": "rainbowunicorns.#0",
+    "id": "1111495119170969703",
+    "xp": 10,
+    "lastUpdate": 1709766690343,
+    "xpGainInWindow": 10
+  },
+  "1207458550222430290": {
+    "nickname": "MOMO.FOF",
+    "identifier": "momo.fof#0",
+    "id": "1207458550222430290",
+    "xp": 10,
+    "lastUpdate": 1709766976828,
+    "xpGainInWindow": 10
+  },
+  "759092622639497216": {
+    "nickname": "Citrica4",
+    "identifier": "citrica4#0",
+    "id": "759092622639497216",
+    "xp": 10,
+    "lastUpdate": 1709766987466,
+    "xpGainInWindow": 10
+  },
+  "894965579616747520": {
+    "nickname": "Woody",
+    "identifier": "web3woody#0",
+    "id": "894965579616747520",
+    "xp": 10,
+    "lastUpdate": 1709767041321,
+    "xpGainInWindow": 10
+  },
+  "877542463961718845": {
+    "nickname": "💫✨🧚 Angelica🧚✨💫",
+    "identifier": "tazmali4842#0",
+    "id": "877542463961718845",
+    "xp": 35,
+    "lastUpdate": 1710369866072,
+    "xpGainInWindow": 5
+  },
+  "405408869486034945": {
+    "nickname": "martin5089",
+    "identifier": "martin5089#0",
+    "id": "405408869486034945",
+    "xp": 10,
+    "lastUpdate": 1709767213328,
+    "xpGainInWindow": 10
+  },
+  "940501956449947648": {
+    "nickname": "Prashant Singh Rana",
+    "identifier": "prashantsinghrana#0",
+    "id": "940501956449947648",
+    "xp": 10,
+    "lastUpdate": 1709767476972,
+    "xpGainInWindow": 10
+  },
+  "777109735278641154": {
+    "nickname": "nosyahj19🔙90",
+    "identifier": "nosyahj19#0",
+    "id": "777109735278641154",
+    "xp": 15,
+    "lastUpdate": 1709767607702,
+    "xpGainInWindow": 15
+  },
+  "446469689594609664": {
+    "nickname": "Universo_vago42",
+    "identifier": "universo_vago42#0",
+    "id": "446469689594609664",
+    "xp": 10,
+    "lastUpdate": 1709767813792,
+    "xpGainInWindow": 10
+  },
+  "590195320013717527": {
+    "nickname": "Rosemarys",
+    "identifier": "rosemarysg#0",
+    "id": "590195320013717527",
+    "xp": 10,
+    "lastUpdate": 1709768139707,
+    "xpGainInWindow": 10
+  },
+  "881726227424108585": {
+    "nickname": "Nova5012",
+    "identifier": "nova5012#0",
+    "id": "881726227424108585",
+    "xp": 10,
+    "lastUpdate": 1709768451542,
+    "xpGainInWindow": 10
+  },
+  "1194735328444035153": {
+    "nickname": "Les Goh",
+    "identifier": "les_goh_ho#0",
+    "id": "1194735328444035153",
+    "xp": 30,
+    "lastUpdate": 1709859926137,
+    "xpGainInWindow": 10
+  },
+  "1210586932703133760": {
+    "nickname": "NatCrypto🌼",
+    "identifier": "natcrypto62#0",
+    "id": "1210586932703133760",
+    "xp": 10,
+    "lastUpdate": 1709768550533,
+    "xpGainInWindow": 10
+  },
+  "904591066387333131": {
+    "nickname": "decentralife",
+    "identifier": "decentralife#0",
+    "id": "904591066387333131",
+    "xp": 20,
+    "lastUpdate": 1709769024398,
+    "xpGainInWindow": 20
+  },
+  "928048922834911302": {
+    "nickname": "Joseit0",
+    "identifier": "joseto8676#0",
+    "id": "928048922834911302",
+    "xp": 10,
+    "lastUpdate": 1709769495459,
+    "xpGainInWindow": 10
+  },
+  "931230649002643517": {
+    "nickname": "lele131419",
+    "identifier": "lele131419#0",
+    "id": "931230649002643517",
+    "xp": 10,
+    "lastUpdate": 1709769500260,
+    "xpGainInWindow": 10
+  },
+  "1112789394051584070": {
+    "nickname": "momin0472",
+    "identifier": "momin0472#0",
+    "id": "1112789394051584070",
+    "xp": 10,
+    "lastUpdate": 1709769727389,
+    "xpGainInWindow": 10
+  },
+  "693867239509852181": {
+    "nickname": "Pierre",
+    "identifier": "chisteliere2#0",
+    "id": "693867239509852181",
+    "xp": 10,
+    "lastUpdate": 1709769820412,
+    "xpGainInWindow": 10
+  },
+  "599044342002352138": {
+    "nickname": "hanam3114",
+    "identifier": "hanam3114#0",
+    "id": "599044342002352138",
+    "xp": 25,
+    "lastUpdate": 1709769879638,
+    "xpGainInWindow": 25
+  },
+  "767986000781639731": {
+    "nickname": "phantom Regrets",
+    "identifier": "mysfollow#0",
+    "id": "767986000781639731",
+    "xp": 10,
+    "lastUpdate": 1709770144568,
+    "xpGainInWindow": 10
+  },
+  "1130677670192087120": {
+    "nickname": "vendettabull",
+    "identifier": "vendettabull#0",
+    "id": "1130677670192087120",
+    "xp": 10,
+    "lastUpdate": 1709771041419,
+    "xpGainInWindow": 10
+  },
+  "882511505541713961": {
+    "nickname": "charming",
+    "identifier": "charming1200#0",
+    "id": "882511505541713961",
+    "xp": 10,
+    "lastUpdate": 1709771076145,
+    "xpGainInWindow": 10
+  },
+  "882277095298969632": {
+    "nickname": "wizard#6007",
+    "identifier": "wizard6007#0",
+    "id": "882277095298969632",
+    "xp": 10,
+    "lastUpdate": 1709771489235,
+    "xpGainInWindow": 10
+  },
+  "896413200705282149": {
+    "nickname": "It’s ME MicR0🕊",
+    "identifier": "itsmemicr0#0",
+    "id": "896413200705282149",
+    "xp": 10,
+    "lastUpdate": 1709771715486,
+    "xpGainInWindow": 10
+  },
+  "1179791553317838859": {
+    "nickname": "🥢🔹🔸  Hailey 🔸🔹🥢",
+    "identifier": "hailey1277#0",
+    "id": "1179791553317838859",
+    "xp": 20,
+    "lastUpdate": 1709771790338,
+    "xpGainInWindow": 20
+  },
+  "1169229842491912203": {
+    "nickname": "mr7",
+    "identifier": "mr1809#0",
+    "id": "1169229842491912203",
+    "xp": 10,
+    "lastUpdate": 1709772051134,
+    "xpGainInWindow": 10
+  },
+  "1166513339128615032": {
+    "nickname": "GC",
+    "identifier": "grindsetcapital#0",
+    "id": "1166513339128615032",
+    "xp": 20,
+    "lastUpdate": 1709812447934,
+    "xpGainInWindow": 10
+  },
+  "777266374547472394": {
+    "nickname": "Johnny G",
+    "identifier": "johnnyg888#0",
+    "id": "777266374547472394",
+    "xp": 10,
+    "lastUpdate": 1709772247960,
+    "xpGainInWindow": 10
+  },
+  "1194734617090076775": {
+    "nickname": "✨MamiNil💖",
+    "identifier": "maminil#0",
+    "id": "1194734617090076775",
+    "xp": 20,
+    "lastUpdate": 1710254544283,
+    "xpGainInWindow": 10
+  },
+  "329232776601665539": {
+    "nickname": "ｐｌｅａｓｅ ᴇɴᴅ ᴍᴇ",
+    "identifier": "fuckyouruniqueusername#0",
+    "id": "329232776601665539",
+    "xp": 10,
+    "lastUpdate": 1709772402067,
+    "xpGainInWindow": 10
+  },
+  "1141007746834120876": {
+    "nickname": "Ekpay🪂🛸",
+    "identifier": "ekpay#0",
+    "id": "1141007746834120876",
+    "xp": 10,
+    "lastUpdate": 1709772892842,
+    "xpGainInWindow": 10
+  },
+  "917410130855866368": {
+    "nickname": "Tanu🪭🪭",
+    "identifier": "tanu08456#0",
+    "id": "917410130855866368",
+    "xp": 10,
+    "lastUpdate": 1709773242383,
+    "xpGainInWindow": 10
+  },
+  "1082681127770271825": {
+    "nickname": "Crypto_Vel📴📴",
+    "identifier": "crypto_vel#0",
+    "id": "1082681127770271825",
+    "xp": 10,
+    "lastUpdate": 1709773289663,
+    "xpGainInWindow": 10
+  },
+  "1129687549988839444": {
+    "nickname": "Jazzi 〽🔞",
+    "identifier": "jazzi9344#0",
+    "id": "1129687549988839444",
+    "xp": 10,
+    "lastUpdate": 1709773800854,
+    "xpGainInWindow": 10
+  },
+  "1197881818096095314": {
+    "nickname": "Black Base🕹🕹",
+    "identifier": "blackbase32#0",
+    "id": "1197881818096095314",
+    "xp": 10,
+    "lastUpdate": 1709774321484,
+    "xpGainInWindow": 10
+  },
+  "1212960522605957221": {
+    "nickname": "Sakcc",
+    "identifier": "sakcc.#0",
+    "id": "1212960522605957221",
+    "xp": 10,
+    "lastUpdate": 1709774521358,
+    "xpGainInWindow": 10
+  },
+  "289942262077718528": {
+    "nickname": "srtg",
+    "identifier": "srtg#0",
+    "id": "289942262077718528",
+    "xp": 20,
+    "lastUpdate": 1709813575377,
+    "xpGainInWindow": 10
+  },
+  "1194243312140435457": {
+    "nickname": "Histalex® 🏝",
+    "identifier": "histalex23#0",
+    "id": "1194243312140435457",
+    "xp": 10,
+    "lastUpdate": 1709774682450,
+    "xpGainInWindow": 10
+  },
+  "959484271674949652": {
+    "nickname": "꧁Mitun꧂",
+    "identifier": "mitun4150#0",
+    "id": "959484271674949652",
+    "xp": 10,
+    "lastUpdate": 1709774766974,
+    "xpGainInWindow": 10
+  },
+  "537145690837614593": {
+    "nickname": "Jymz",
+    "identifier": "baba.34#0",
+    "id": "537145690837614593",
+    "xp": 10,
+    "lastUpdate": 1709775060056,
+    "xpGainInWindow": 10
+  },
+  "611996878485192760": {
+    "nickname": "domibobo.",
+    "identifier": "domibobo.#0",
+    "id": "611996878485192760",
+    "xp": 10,
+    "lastUpdate": 1709775755025,
+    "xpGainInWindow": 10
+  },
+  "1079529728291119195": {
+    "nickname": "BigShagBags",
+    "identifier": "bigshagbags#0",
+    "id": "1079529728291119195",
+    "xp": 10,
+    "lastUpdate": 1709775994047,
+    "xpGainInWindow": 10
+  },
+  "469916187459846151": {
+    "nickname": "Lord Ape Ursini",
+    "identifier": "ywankillerbee#0",
+    "id": "469916187459846151",
+    "xp": 10,
+    "lastUpdate": 1709776297293,
+    "xpGainInWindow": 10
+  },
+  "423799265060585482": {
+    "nickname": "bibiha",
+    "identifier": "bibiha#0",
+    "id": "423799265060585482",
+    "xp": 10,
+    "lastUpdate": 1709776531540,
+    "xpGainInWindow": 10
+  },
+  "999842708577333289": {
+    "nickname": "zhen",
+    "identifier": "chen.eth#0",
+    "id": "999842708577333289",
+    "xp": 20,
+    "lastUpdate": 1709776939057,
+    "xpGainInWindow": 20
+  },
+  "925365092189601792": {
+    "nickname": "Devchandra{6.66}UG",
+    "identifier": "devchandra.#0",
+    "id": "925365092189601792",
+    "xp": 10,
+    "lastUpdate": 1709777747314,
+    "xpGainInWindow": 10
+  },
+  "765083765776449578": {
+    "nickname": "andresmanzanilla",
+    "identifier": "andresmanzanilla#0",
+    "id": "765083765776449578",
+    "xp": 10,
+    "lastUpdate": 1709778577261,
+    "xpGainInWindow": 10
+  },
+  "805529938928468018": {
+    "nickname": "JR since 8⃣2⃣",
+    "identifier": "jrsince82#0",
+    "id": "805529938928468018",
+    "xp": 10,
+    "lastUpdate": 1709778942085,
+    "xpGainInWindow": 10
+  },
+  "905059233442185227": {
+    "nickname": "BreadpoolTR",
+    "identifier": "breadpool8276#0",
+    "id": "905059233442185227",
+    "xp": 10,
+    "lastUpdate": 1709778951974,
+    "xpGainInWindow": 10
+  },
+  "1073277711302267080": {
+    "nickname": "Bullet28",
+    "identifier": "bullet28.#0",
+    "id": "1073277711302267080",
+    "xp": 10,
+    "lastUpdate": 1709778999363,
+    "xpGainInWindow": 10
+  },
+  "568085190015057922": {
+    "nickname": "SleepingGamer",
+    "identifier": "sleepinggamer#0",
+    "id": "568085190015057922",
+    "xp": 15,
+    "lastUpdate": 1710012809691,
+    "xpGainInWindow": 5
+  },
+  "403734924567511040": {
+    "nickname": "tsheikh",
+    "identifier": "tsheikh#0",
+    "id": "403734924567511040",
+    "xp": 10,
+    "lastUpdate": 1709780144724,
+    "xpGainInWindow": 10
+  },
+  "987515630267797525": {
+    "nickname": "FJCRYPTO",
+    "identifier": "fjcrypto23#0",
+    "id": "987515630267797525",
+    "xp": 10,
+    "lastUpdate": 1709780864723,
+    "xpGainInWindow": 10
+  },
+  "421483757133103114": {
+    "nickname": "Cadis Etrama Di Raizel",
+    "identifier": "cadisraizel_#0",
+    "id": "421483757133103114",
+    "xp": 10,
+    "lastUpdate": 1709781241685,
+    "xpGainInWindow": 10
+  },
+  "399766630940278794": {
+    "nickname": "DefiFOMO",
+    "identifier": "defifomo#0",
+    "id": "399766630940278794",
+    "xp": 10,
+    "lastUpdate": 1709781312763,
+    "xpGainInWindow": 10
+  },
+  "424726528983695360": {
+    "nickname": "GutsBerserk",
+    "identifier": "gutsberserk#0",
+    "id": "424726528983695360",
+    "xp": 10,
+    "lastUpdate": 1709781457825,
+    "xpGainInWindow": 10
+  },
+  "796009676055642122": {
+    "nickname": "RobertKarol#1964",
+    "identifier": "robertkarol#0",
+    "id": "796009676055642122",
+    "xp": 20,
+    "lastUpdate": 1710005538238,
+    "xpGainInWindow": 10
+  },
+  "949249503725248533": {
+    "nickname": "jitoyasagi",
+    "identifier": "amin2251#0",
+    "id": "949249503725248533",
+    "xp": 10,
+    "lastUpdate": 1709783199663,
+    "xpGainInWindow": 10
+  },
+  "1214636544116138007": {
+    "nickname": "mh665364es",
+    "identifier": "mh665364es#0",
+    "id": "1214636544116138007",
+    "xp": 25,
+    "lastUpdate": 1709847006095,
+    "xpGainInWindow": 15
+  },
+  "874105958341681173": {
+    "nickname": "Invom",
+    "identifier": "invomoves#0",
+    "id": "874105958341681173",
+    "xp": 10,
+    "lastUpdate": 1709784767249,
+    "xpGainInWindow": 10
+  },
+  "1021074899198017536": {
+    "nickname": "Techhour Ing",
+    "identifier": "techhouring#0",
+    "id": "1021074899198017536",
+    "xp": 10,
+    "lastUpdate": 1709786113550,
+    "xpGainInWindow": 10
+  },
+  "946779495506010132": {
+    "nickname": "제니",
+    "identifier": "jenni5628#0",
+    "id": "946779495506010132",
+    "xp": 10,
+    "lastUpdate": 1709787791136,
+    "xpGainInWindow": 10
+  },
+  "431908546074902539": {
+    "nickname": "Sashi",
+    "identifier": "sashi7729#0",
+    "id": "431908546074902539",
+    "xp": 20,
+    "lastUpdate": 1709788223590,
+    "xpGainInWindow": 20
+  },
+  "1095429332756865045": {
+    "nickname": "Rooh Niazi",
+    "identifier": "roohniaz01#0",
+    "id": "1095429332756865045",
+    "xp": 10,
+    "lastUpdate": 1709788546505,
+    "xpGainInWindow": 10
+  },
+  "734738820729274389": {
+    "nickname": ".sarin",
+    "identifier": ".sarin.niras#0",
+    "id": "734738820729274389",
+    "xp": 10,
+    "lastUpdate": 1709789065564,
+    "xpGainInWindow": 10
+  },
+  "847253788179300353": {
+    "nickname": "jjn7130",
+    "identifier": "jjn7130#0",
+    "id": "847253788179300353",
+    "xp": 10,
+    "lastUpdate": 1709789104716,
+    "xpGainInWindow": 10
+  },
+  "916113744961081344": {
+    "nickname": "albertodenew",
+    "identifier": "albertodenew#0",
+    "id": "916113744961081344",
+    "xp": 10,
+    "lastUpdate": 1709791063368,
+    "xpGainInWindow": 10
+  },
+  "500195917467615242": {
+    "nickname": "II",
+    "identifier": "500195917467615242#0",
+    "id": "500195917467615242",
+    "xp": 20,
+    "lastUpdate": 1709793892038,
+    "xpGainInWindow": 20
+  },
+  "453697319305478161": {
+    "nickname": "Bullish Teddy",
+    "identifier": "jdawggg6790#0",
+    "id": "453697319305478161",
+    "xp": 75,
+    "lastUpdate": 1709990980693,
+    "xpGainInWindow": 20
+  },
+  "565213347193290752": {
+    "nickname": "01000101",
+    "identifier": "m_01000101#0",
+    "id": "565213347193290752",
+    "xp": 10,
+    "lastUpdate": 1709796942135,
+    "xpGainInWindow": 10
+  },
+  "702706722711535656": {
+    "nickname": "jera52",
+    "identifier": "jera52#0",
+    "id": "702706722711535656",
+    "xp": 10,
+    "lastUpdate": 1709797953136,
+    "xpGainInWindow": 10
+  },
+  "1190210983604527156": {
+    "nickname": "web3girlll",
+    "identifier": "milliondollsbaby#0",
+    "id": "1190210983604527156",
+    "xp": 10,
+    "lastUpdate": 1709799219611,
+    "xpGainInWindow": 10
+  },
+  "1024705400609710120": {
+    "nickname": "!Felix",
+    "identifier": "meedex42#0",
+    "id": "1024705400609710120",
+    "xp": 10,
+    "lastUpdate": 1709799250734,
+    "xpGainInWindow": 10
+  },
+  "1113946712923443320": {
+    "nickname": "audrey of web3",
+    "identifier": "audreywantswl#0",
+    "id": "1113946712923443320",
+    "xp": 20,
+    "lastUpdate": 1709804437681,
+    "xpGainInWindow": 10
+  },
+  "1201646415257030761": {
+    "nickname": "gviftgivhj",
+    "identifier": "gviftgivhj_22236#0",
+    "id": "1201646415257030761",
+    "xp": 10,
+    "lastUpdate": 1709800546363,
+    "xpGainInWindow": 10
+  },
+  "166264449072627712": {
+    "nickname": "All Seer",
+    "identifier": "allseer#0",
+    "id": "166264449072627712",
+    "xp": 10,
+    "lastUpdate": 1709802227534,
+    "xpGainInWindow": 10
+  },
+  "841658894152892426": {
+    "nickname": "FK",
+    "identifier": "faisalakram#0",
+    "id": "841658894152892426",
+    "xp": 20,
+    "lastUpdate": 1709912992987,
+    "xpGainInWindow": 10
+  },
+  "768654601259188234": {
+    "nickname": "penny",
+    "identifier": "penny1223#0",
+    "id": "768654601259188234",
+    "xp": 10,
+    "lastUpdate": 1709806033210,
+    "xpGainInWindow": 10
+  },
+  "754996344879448085": {
+    "nickname": "leggy1605",
+    "identifier": "leggy1605#0",
+    "id": "754996344879448085",
+    "xp": 20,
+    "lastUpdate": 1709806540475,
+    "xpGainInWindow": 20
+  },
+  "859310981061279764": {
+    "nickname": "sanjay saini 😎😎",
+    "identifier": ".sanjaysaini#0",
+    "id": "859310981061279764",
+    "xp": 20,
+    "lastUpdate": 1709807452933,
+    "xpGainInWindow": 20
+  },
+  "478974272942112788": {
+    "nickname": "f-i-r-eee",
+    "identifier": "fire1579#0",
+    "id": "478974272942112788",
+    "xp": 10,
+    "lastUpdate": 1709807530426,
+    "xpGainInWindow": 10
+  },
+  "897831135520899123": {
+    "nickname": "SijukaSiju🌈",
+    "identifier": "sijukasiju#0",
+    "id": "897831135520899123",
+    "xp": 10,
+    "lastUpdate": 1709807598650,
+    "xpGainInWindow": 10
+  },
+  "824399241497149503": {
+    "nickname": "Urmi🦄🍁🦄",
+    "identifier": "urmi7613#0",
+    "id": "824399241497149503",
+    "xp": 10,
+    "lastUpdate": 1709807652297,
+    "xpGainInWindow": 10
+  },
+  "867292608820543488": {
+    "nickname": "ULTRA™",
+    "identifier": "ultra8125#0",
+    "id": "867292608820543488",
+    "xp": 20,
+    "lastUpdate": 1709815683184,
+    "xpGainInWindow": 10
+  },
+  "773975025526898780": {
+    "nickname": "codebuddy",
+    "identifier": "codebuddy#0",
+    "id": "773975025526898780",
+    "xp": 50,
+    "lastUpdate": 1710343838635,
+    "xpGainInWindow": 10
+  },
+  "522905545858875392": {
+    "nickname": "qt_candy9697",
+    "identifier": "qt_candy9697#0",
+    "id": "522905545858875392",
+    "xp": 10,
+    "lastUpdate": 1709808367896,
+    "xpGainInWindow": 10
+  },
+  "1196856095940034612": {
+    "nickname": "nervous",
+    "identifier": "nervous.7#0",
+    "id": "1196856095940034612",
+    "xp": 10,
+    "lastUpdate": 1709808744506,
+    "xpGainInWindow": 10
+  },
+  "1068882716231217232": {
+    "nickname": "backantim👑",
+    "identifier": "backantim#0",
+    "id": "1068882716231217232",
+    "xp": 10,
+    "lastUpdate": 1709808932942,
+    "xpGainInWindow": 10
+  },
+  "715948322849816678": {
+    "nickname": "Grim ☠",
+    "identifier": "0xgrim#0",
+    "id": "715948322849816678",
+    "xp": 110,
+    "lastUpdate": 1710238750827,
+    "xpGainInWindow": 10
+  },
+  "377644449003732992": {
+    "nickname": "Flowate",
+    "identifier": "flowate#0",
+    "id": "377644449003732992",
+    "xp": 10,
+    "lastUpdate": 1709808987150,
+    "xpGainInWindow": 10
+  },
+  "1194230732021825616": {
+    "nickname": "YarN",
+    "identifier": "yarn0218#0",
+    "id": "1194230732021825616",
+    "xp": 10,
+    "lastUpdate": 1709809129435,
+    "xpGainInWindow": 10
+  },
+  "857559045816713216": {
+    "nickname": "Vin Diesel",
+    "identifier": "sofia9847#0",
+    "id": "857559045816713216",
+    "xp": 10,
+    "lastUpdate": 1709809385556,
+    "xpGainInWindow": 10
+  },
+  "420810200128421901": {
+    "nickname": "ZeHeL24",
+    "identifier": "zehel24#0",
+    "id": "420810200128421901",
+    "xp": 10,
+    "lastUpdate": 1709811064381,
+    "xpGainInWindow": 10
+  },
+  "1186596744759349339": {
+    "nickname": "thorthunderbolt",
+    "identifier": "thorthunderbolt#0",
+    "id": "1186596744759349339",
+    "xp": 10,
+    "lastUpdate": 1709811469441,
+    "xpGainInWindow": 10
+  },
+  "902489468081168396": {
+    "nickname": "GROOT",
+    "identifier": "groot7188#0",
+    "id": "902489468081168396",
+    "xp": 10,
+    "lastUpdate": 1709811583232,
+    "xpGainInWindow": 10
+  },
+  "930805691726327869": {
+    "nickname": "UNIQUE",
+    "identifier": "unique6926#0",
+    "id": "930805691726327869",
+    "xp": 10,
+    "lastUpdate": 1709811737879,
+    "xpGainInWindow": 10
+  },
+  "936551466758455296": {
+    "nickname": "S P A R T A N S",
+    "identifier": "spartans6651#0",
+    "id": "936551466758455296",
+    "xp": 10,
+    "lastUpdate": 1709811890991,
+    "xpGainInWindow": 10
+  },
+  "1000015581459791894": {
+    "nickname": "rajib133",
+    "identifier": "rajib133#0",
+    "id": "1000015581459791894",
+    "xp": 10,
+    "lastUpdate": 1709811961236,
+    "xpGainInWindow": 10
+  },
+  "935959183361187891": {
+    "nickname": "K A I P U L L A",
+    "identifier": "kaipulla2663#0",
+    "id": "935959183361187891",
+    "xp": 10,
+    "lastUpdate": 1709812007787,
+    "xpGainInWindow": 10
+  },
+  "842095330626633779": {
+    "nickname": "robbodebonno",
+    "identifier": "robbodebonno#0",
+    "id": "842095330626633779",
+    "xp": 10,
+    "lastUpdate": 1709812238717,
+    "xpGainInWindow": 10
+  },
+  "941326283785269298": {
+    "nickname": "C O M B A T",
+    "identifier": "combat9211#0",
+    "id": "941326283785269298",
+    "xp": 10,
+    "lastUpdate": 1709812263691,
+    "xpGainInWindow": 10
+  },
+  "864835943504150528": {
+    "nickname": "hajlife",
+    "identifier": "hajlife#0",
+    "id": "864835943504150528",
+    "xp": 10,
+    "lastUpdate": 1709812329217,
+    "xpGainInWindow": 10
+  },
+  "552924864785285170": {
+    "nickname": "!       Elpay!!!",
+    "identifier": ".elpay#0",
+    "id": "552924864785285170",
+    "xp": 10,
+    "lastUpdate": 1709812407343,
+    "xpGainInWindow": 10
+  },
+  "925035136175710249": {
+    "nickname": "S T R A N G E R",
+    "identifier": "stranger1631#0",
+    "id": "925035136175710249",
+    "xp": 10,
+    "lastUpdate": 1709812500796,
+    "xpGainInWindow": 10
+  },
+  "965193904171405334": {
+    "nickname": "ECHO__ECHO",
+    "identifier": "echo__echo.#0",
+    "id": "965193904171405334",
+    "xp": 10,
+    "lastUpdate": 1709812698970,
+    "xpGainInWindow": 10
+  },
+  "904249405786435586": {
+    "nickname": "GOOOOOOP",
+    "identifier": "goooooop4130#0",
+    "id": "904249405786435586",
+    "xp": 10,
+    "lastUpdate": 1709812856063,
+    "xpGainInWindow": 10
+  },
+  "916726954428862464": {
+    "nickname": "Noor butt",
+    "identifier": "noorbutt#0",
+    "id": "916726954428862464",
+    "xp": 10,
+    "lastUpdate": 1709812947429,
+    "xpGainInWindow": 10
+  },
+  "995237632491659354": {
+    "nickname": "waybig",
+    "identifier": "waybig8053#0",
+    "id": "995237632491659354",
+    "xp": 10,
+    "lastUpdate": 1709812999219,
+    "xpGainInWindow": 10
+  },
+  "915968302222831666": {
+    "nickname": "ROG😎",
+    "identifier": "rog9439#0",
+    "id": "915968302222831666",
+    "xp": 20,
+    "lastUpdate": 1710262954680,
+    "xpGainInWindow": 10
+  },
+  "614186652340060183": {
+    "nickname": "dali85",
+    "identifier": "dali85#0",
+    "id": "614186652340060183",
+    "xp": 10,
+    "lastUpdate": 1709813128718,
+    "xpGainInWindow": 10
+  },
+  "876084282957922335": {
+    "nickname": "Yonatan",
+    "identifier": "yonatan3944#0",
+    "id": "876084282957922335",
+    "xp": 10,
+    "lastUpdate": 1709814188411,
+    "xpGainInWindow": 10
+  },
+  "633829225274671104": {
+    "nickname": "🧿🌸TaylorRos🌸🧿",
+    "identifier": "taylorros#0",
+    "id": "633829225274671104",
+    "xp": 10,
+    "lastUpdate": 1709815287302,
+    "xpGainInWindow": 10
+  },
+  "988175465833435197": {
+    "nickname": "Cade",
+    "identifier": "._.cade._.#0",
+    "id": "988175465833435197",
+    "xp": 10,
+    "lastUpdate": 1709815561273,
+    "xpGainInWindow": 10
+  },
+  "740498921805316157": {
+    "nickname": "Skelo",
+    "identifier": "skeloment#0",
+    "id": "740498921805316157",
+    "xp": 105,
+    "lastUpdate": 1710338948392,
+    "xpGainInWindow": 30
+  },
+  "887680815562108928": {
+    "nickname": "MR.S_Roy",
+    "identifier": "mr.mr4264#0",
+    "id": "887680815562108928",
+    "xp": 25,
+    "lastUpdate": 1709818217654,
+    "xpGainInWindow": 15
+  },
+  "1213485447452434502": {
+    "nickname": "Nyanyaspring",
+    "identifier": "nyanyaspring#0",
+    "id": "1213485447452434502",
+    "xp": 10,
+    "lastUpdate": 1709816714878,
+    "xpGainInWindow": 10
+  },
+  "786588049920229406": {
+    "nickname": "Sol💖",
+    "identifier": "soledad1956#0",
+    "id": "786588049920229406",
+    "xp": 10,
+    "lastUpdate": 1709817284753,
+    "xpGainInWindow": 10
+  },
+  "1074394210150654043": {
+    "nickname": "Ranbir",
+    "identifier": "ranbir6476#0",
+    "id": "1074394210150654043",
+    "xp": 10,
+    "lastUpdate": 1709818223026,
+    "xpGainInWindow": 10
+  },
+  "1098152291363721318": {
+    "nickname": "duhhluhhh",
+    "identifier": "duhhluhhh#0",
+    "id": "1098152291363721318",
+    "xp": 10,
+    "lastUpdate": 1709818522166,
+    "xpGainInWindow": 10
+  },
+  "1215292924493832208": {
+    "nickname": "SR1870",
+    "identifier": "sr1870#0",
+    "id": "1215292924493832208",
+    "xp": 10,
+    "lastUpdate": 1709818956392,
+    "xpGainInWindow": 10
+  },
+  "1164197385438773358": {
+    "nickname": "Mjankurd",
+    "identifier": "mjankurd_92172#0",
+    "id": "1164197385438773358",
+    "xp": 10,
+    "lastUpdate": 1709818959621,
+    "xpGainInWindow": 10
+  },
+  "981962893249617942": {
+    "nickname": "ismail123__",
+    "identifier": "ismail123__#0",
+    "id": "981962893249617942",
+    "xp": 10,
+    "lastUpdate": 1709819106788,
+    "xpGainInWindow": 10
+  },
+  "912808583559778405": {
+    "nickname": "mugiwara8853",
+    "identifier": "mugiwara8853#0",
+    "id": "912808583559778405",
+    "xp": 10,
+    "lastUpdate": 1709819773562,
+    "xpGainInWindow": 10
+  },
+  "1198923981558915114": {
+    "nickname": "✴   Pride🌾💵🌱",
+    "identifier": "pride0373#0",
+    "id": "1198923981558915114",
+    "xp": 10,
+    "lastUpdate": 1709819862778,
+    "xpGainInWindow": 10
+  },
+  "1199336952365858933": {
+    "nickname": "Toyota🖊🌀",
+    "identifier": "toyota0418#0",
+    "id": "1199336952365858933",
+    "xp": 10,
+    "lastUpdate": 1709820158012,
+    "xpGainInWindow": 10
+  },
+  "886184612378853406": {
+    "nickname": "♥🌹AROSI♥🌹",
+    "identifier": "arosi01997#0",
+    "id": "886184612378853406",
+    "xp": 10,
+    "lastUpdate": 1709820215558,
+    "xpGainInWindow": 10
+  },
+  "777876722774310943": {
+    "nickname": "Gaspar",
+    "identifier": "gaspar120#0",
+    "id": "777876722774310943",
+    "xp": 10,
+    "lastUpdate": 1709820251656,
+    "xpGainInWindow": 10
+  },
+  "1210835927342252125": {
+    "nickname": "Ꮯꭺꮮꮮ Ꮇꭼ DᏦ 🐕🦮",
+    "identifier": "madicpulse#0",
+    "id": "1210835927342252125",
+    "xp": 10,
+    "lastUpdate": 1709820320498,
+    "xpGainInWindow": 10
+  },
+  "533824126742167554": {
+    "nickname": "ekip_musto",
+    "identifier": "ekip_musto#0",
+    "id": "533824126742167554",
+    "xp": 10,
+    "lastUpdate": 1709820449209,
+    "xpGainInWindow": 10
+  },
+  "612949269925724160": {
+    "nickname": "mrwise168",
+    "identifier": "mrwise168#0",
+    "id": "612949269925724160",
+    "xp": 10,
+    "lastUpdate": 1709820467576,
+    "xpGainInWindow": 10
+  },
+  "1211298580246298754": {
+    "nickname": "HotLine ♋🔰🔰",
+    "identifier": "hotline0031#0",
+    "id": "1211298580246298754",
+    "xp": 10,
+    "lastUpdate": 1709820556164,
+    "xpGainInWindow": 10
+  },
+  "832531611626766376": {
+    "nickname": "AB - ○ △ ↻",
+    "identifier": "abforces#0",
+    "id": "832531611626766376",
+    "xp": 10,
+    "lastUpdate": 1709821675926,
+    "xpGainInWindow": 10
+  },
+  "1103385140677316648": {
+    "nickname": "Play boy😎🥀",
+    "identifier": "dipvp#0",
+    "id": "1103385140677316648",
+    "xp": 20,
+    "lastUpdate": 1709860966973,
+    "xpGainInWindow": 10
+  },
+  "1181658475567259668": {
+    "nickname": "LENGLENG",
+    "identifier": "lengleng_29787#0",
+    "id": "1181658475567259668",
+    "xp": 10,
+    "lastUpdate": 1709824926774,
+    "xpGainInWindow": 10
+  },
+  "1202128046816251907": {
+    "nickname": "Diya",
+    "identifier": "diya153#0",
+    "id": "1202128046816251907",
+    "xp": 10,
+    "lastUpdate": 1709825108259,
+    "xpGainInWindow": 10
+  },
+  "870190471182438420": {
+    "nickname": "ABIGAILisME💋💋💋",
+    "identifier": "abigailisme0408#0",
+    "id": "870190471182438420",
+    "xp": 10,
+    "lastUpdate": 1709826161443,
+    "xpGainInWindow": 10
+  },
+  "799689614117568553": {
+    "nickname": "yung",
+    "identifier": "alfredosuarez7#0",
+    "id": "799689614117568553",
+    "xp": 10,
+    "lastUpdate": 1709826178695,
+    "xpGainInWindow": 10
+  },
+  "838452008498757673": {
+    "nickname": "YHANG💗💗💗",
+    "identifier": "yhangkiss#0",
+    "id": "838452008498757673",
+    "xp": 10,
+    "lastUpdate": 1709827301541,
+    "xpGainInWindow": 10
+  },
+  "1075195333623169034": {
+    "nickname": "bionicguy",
+    "identifier": "bionicguy.#0",
+    "id": "1075195333623169034",
+    "xp": 10,
+    "lastUpdate": 1709828396564,
+    "xpGainInWindow": 10
+  },
+  "653368545878605864": {
+    "nickname": "DJEdge",
+    "identifier": "djedge1#0",
+    "id": "653368545878605864",
+    "xp": 10,
+    "lastUpdate": 1709828929145,
+    "xpGainInWindow": 10
+  },
+  "120305217131642881": {
+    "nickname": "RORO20002",
+    "identifier": "roro20002#0",
+    "id": "120305217131642881",
+    "xp": 10,
+    "lastUpdate": 1709830023316,
+    "xpGainInWindow": 10
+  },
+  "929731971154870294": {
+    "nickname": "redrose2688",
+    "identifier": "redrose2688#0",
+    "id": "929731971154870294",
+    "xp": 10,
+    "lastUpdate": 1709830657681,
+    "xpGainInWindow": 10
+  },
+  "805552780894011402": {
+    "nickname": "gleb_ut",
+    "identifier": "gleb_ut#0",
+    "id": "805552780894011402",
+    "xp": 20,
+    "lastUpdate": 1709831257023,
+    "xpGainInWindow": 20
+  },
+  "497056513374945291": {
+    "nickname": "Annerys ☘🌹",
+    "identifier": "shary24#0",
+    "id": "497056513374945291",
+    "xp": 10,
+    "lastUpdate": 1709832256261,
+    "xpGainInWindow": 10
+  },
+  "742392878067613758": {
+    "nickname": "liz79814143",
+    "identifier": "liz79814#0",
+    "id": "742392878067613758",
+    "xp": 10,
+    "lastUpdate": 1709832394149,
+    "xpGainInWindow": 10
+  },
+  "587375483004387351": {
+    "nickname": "somadETH",
+    "identifier": "bitcoineth1#0",
+    "id": "587375483004387351",
+    "xp": 10,
+    "lastUpdate": 1709832622220,
+    "xpGainInWindow": 10
+  },
+  "847829412275159040": {
+    "nickname": "LUO",
+    "identifier": "luo_man#0",
+    "id": "847829412275159040",
+    "xp": 10,
+    "lastUpdate": 1709833676172,
+    "xpGainInWindow": 10
+  },
+  "1127889075962134679": {
+    "nickname": "La_Fraise_Fromage_Mascarponé",
+    "identifier": "strawberry_cheesecake_mascarpone#0",
+    "id": "1127889075962134679",
+    "xp": 25,
+    "lastUpdate": 1709836149027,
+    "xpGainInWindow": 25
+  },
+  "408440190135173141": {
+    "nickname": "johns",
+    "identifier": "johnsimit#0",
+    "id": "408440190135173141",
+    "xp": 10,
+    "lastUpdate": 1709837424967,
+    "xpGainInWindow": 10
+  },
+  "646959473524473857": {
+    "nickname": "schmagoogal",
+    "identifier": "schmagoogal#0",
+    "id": "646959473524473857",
+    "xp": 10,
+    "lastUpdate": 1709840112486,
+    "xpGainInWindow": 10
+  },
+  "963192574187806791": {
+    "nickname": "dannynewber",
+    "identifier": "dannynewber#0",
+    "id": "963192574187806791",
+    "xp": 10,
+    "lastUpdate": 1709842742742,
+    "xpGainInWindow": 10
+  },
+  "417716709420564480": {
+    "nickname": "slickapproach",
+    "identifier": "slickapproach#0",
+    "id": "417716709420564480",
+    "xp": 10,
+    "lastUpdate": 1709845982971,
+    "xpGainInWindow": 10
+  },
+  "395945065975119872": {
+    "nickname": "Yzyjames",
+    "identifier": "yzyjames#0",
+    "id": "395945065975119872",
+    "xp": 10,
+    "lastUpdate": 1709846158702,
+    "xpGainInWindow": 10
+  },
+  "806410423448109057": {
+    "nickname": "eedris001",
+    "identifier": "eedris001#0",
+    "id": "806410423448109057",
+    "xp": 10,
+    "lastUpdate": 1709848631850,
+    "xpGainInWindow": 10
+  },
+  "441315087899426828": {
+    "nickname": "jaylawhead",
+    "identifier": "jaylawhead#0",
+    "id": "441315087899426828",
+    "xp": 20,
+    "lastUpdate": 1709861112389,
+    "xpGainInWindow": 20
+  },
+  "1215573371929104434": {
+    "nickname": "Zak0X",
+    "identifier": "zak0x_56583#0",
+    "id": "1215573371929104434",
+    "xp": 10,
+    "lastUpdate": 1709885744736,
+    "xpGainInWindow": 10
+  },
+  "1214682482113519782": {
+    "nickname": "Zak0X",
+    "identifier": "zakm0x#0",
+    "id": "1214682482113519782",
+    "xp": 10,
+    "lastUpdate": 1709886192184,
+    "xpGainInWindow": 10
+  },
+  "366275856576020502": {
+    "nickname": "mgc001fpc",
+    "identifier": "mgc001fpc#0",
+    "id": "366275856576020502",
+    "xp": 10,
+    "lastUpdate": 1709886553127,
+    "xpGainInWindow": 10
+  },
+  "882911753153957921": {
+    "nickname": "Hop On",
+    "identifier": "hop.on#0",
+    "id": "882911753153957921",
+    "xp": 20,
+    "lastUpdate": 1709892122979,
+    "xpGainInWindow": 20
+  },
+  "1153784234985660426": {
+    "nickname": "Doragon_7",
+    "identifier": "doragon_7#0",
+    "id": "1153784234985660426",
+    "xp": 10,
+    "lastUpdate": 1709896461443,
+    "xpGainInWindow": 10
+  },
+  "420215595636752384": {
+    "nickname": "trickyricky9",
+    "identifier": "trickyricky9#0",
+    "id": "420215595636752384",
+    "xp": 10,
+    "lastUpdate": 1709909876497,
+    "xpGainInWindow": 10
+  },
+  "1180509560197349448": {
+    "nickname": "awkladzinski",
+    "identifier": "awkladzinski#0",
+    "id": "1180509560197349448",
+    "xp": 10,
+    "lastUpdate": 1709912133215,
+    "xpGainInWindow": 10
+  },
+  "817426594108407809": {
+    "nickname": "mostaphaazakaf",
+    "identifier": "mostaphaazakaf#0",
+    "id": "817426594108407809",
+    "xp": 10,
+    "lastUpdate": 1709915707738,
+    "xpGainInWindow": 10
+  },
+  "694418204965077023": {
+    "nickname": "maorca",
+    "identifier": "maorca#0",
+    "id": "694418204965077023",
+    "xp": 10,
+    "lastUpdate": 1709915993782,
+    "xpGainInWindow": 10
+  },
+  "595414062071021585": {
+    "nickname": "imartic",
+    "identifier": "imartic#0",
+    "id": "595414062071021585",
+    "xp": 10,
+    "lastUpdate": 1709921637167,
+    "xpGainInWindow": 10
+  },
+  "967698561942843402": {
+    "nickname": "Sir Leoniouss",
+    "identifier": "sirleoniouss_#0",
+    "id": "967698561942843402",
+    "xp": 10,
+    "lastUpdate": 1709922125811,
+    "xpGainInWindow": 10
+  },
+  "995396922913325117": {
+    "nickname": "dumbdude9",
+    "identifier": "dumbdude9#0",
+    "id": "995396922913325117",
+    "xp": 10,
+    "lastUpdate": 1709923178205,
+    "xpGainInWindow": 10
+  },
+  "1181920310807765013": {
+    "nickname": "JIJI13",
+    "identifier": "jiji13_51620#0",
+    "id": "1181920310807765013",
+    "xp": 10,
+    "lastUpdate": 1709925466314,
+    "xpGainInWindow": 10
+  },
+  "759175243481743442": {
+    "nickname": "Sebbot",
+    "identifier": "smatysiak#0",
+    "id": "759175243481743442",
+    "xp": 10,
+    "lastUpdate": 1709927454102,
+    "xpGainInWindow": 10
+  },
+  "359833417392717824": {
+    "nickname": "popko",
+    "identifier": "iampopko#0",
+    "id": "359833417392717824",
+    "xp": 60,
+    "lastUpdate": 1709932087266,
+    "xpGainInWindow": 10
+  },
+  "964647779580391426": {
+    "nickname": "Ezura",
+    "identifier": "ezura29#0",
+    "id": "964647779580391426",
+    "xp": 20,
+    "lastUpdate": 1709929131540,
+    "xpGainInWindow": 20
+  },
+  "938402384802119771": {
+    "nickname": "simo159",
+    "identifier": "simo159.#0",
+    "id": "938402384802119771",
+    "xp": 10,
+    "lastUpdate": 1709929530873,
+    "xpGainInWindow": 10
+  },
+  "1091491227276423248": {
+    "nickname": "ikkilouco",
+    "identifier": "ikkidfenix.#0",
+    "id": "1091491227276423248",
+    "xp": 20,
+    "lastUpdate": 1709930091513,
+    "xpGainInWindow": 20
+  },
+  "1159120541492449320": {
+    "nickname": "Covix",
+    "identifier": "covixs#0",
+    "id": "1159120541492449320",
+    "xp": 10,
+    "lastUpdate": 1709942598367,
+    "xpGainInWindow": 10
+  },
+  "1143613202907799554": {
+    "nickname": "Tony",
+    "identifier": "tonynfts1_44839#0",
+    "id": "1143613202907799554",
+    "xp": 10,
+    "lastUpdate": 1709943138057,
+    "xpGainInWindow": 10
+  },
+  "928469240015622245": {
+    "nickname": "cheekynoodlez",
+    "identifier": "cheekynoodlez#1615",
+    "id": "928469240015622245",
+    "xp": 10,
+    "lastUpdate": 1709944987315,
+    "xpGainInWindow": 10
+  },
+  "198512346195427328": {
+    "nickname": "0xteagan",
+    "identifier": "0xteagan#0",
+    "id": "198512346195427328",
+    "xp": 10,
+    "lastUpdate": 1709951818649,
+    "xpGainInWindow": 10
+  },
+  "1034477574178492477": {
+    "nickname": "Kris9116",
+    "identifier": "kris9116#0",
+    "id": "1034477574178492477",
+    "xp": 20,
+    "lastUpdate": 1709952263285,
+    "xpGainInWindow": 20
+  },
+  "616601726295998474": {
+    "nickname": "Yassine Geek",
+    "identifier": "yassinegeek#0",
+    "id": "616601726295998474",
+    "xp": 50,
+    "lastUpdate": 1710175484886,
+    "xpGainInWindow": 20
+  },
+  "890267059865387048": {
+    "nickname": "cjay",
+    "identifier": "cjay8411#0",
+    "id": "890267059865387048",
+    "xp": 10,
+    "lastUpdate": 1709952463247,
+    "xpGainInWindow": 10
+  },
+  "609401126940442624": {
+    "nickname": "moxlav",
+    "identifier": "moxlav#0",
+    "id": "609401126940442624",
+    "xp": 10,
+    "lastUpdate": 1709964072281,
+    "xpGainInWindow": 10
+  },
+  "482967702462398464": {
+    "nickname": "boss9387",
+    "identifier": "boss9387#0",
+    "id": "482967702462398464",
+    "xp": 10,
+    "lastUpdate": 1709974724743,
+    "xpGainInWindow": 10
+  },
+  "960939735155609671": {
+    "nickname": "pulsar",
+    "identifier": "pulsar5598#0",
+    "id": "960939735155609671",
+    "xp": 10,
+    "lastUpdate": 1709974925438,
+    "xpGainInWindow": 10
+  },
+  "611387679191597066": {
+    "nickname": "CrooKed",
+    "identifier": "crooked21#0",
+    "id": "611387679191597066",
+    "xp": 20,
+    "lastUpdate": 1709976217476,
+    "xpGainInWindow": 20
+  },
+  "963177315003691038": {
+    "nickname": "vitaminado23",
+    "identifier": "vitaminado23#0",
+    "id": "963177315003691038",
+    "xp": 10,
+    "lastUpdate": 1709976417723,
+    "xpGainInWindow": 10
+  },
+  "1152103128980795443": {
+    "nickname": "TFP",
+    "identifier": "tyfpeel#0",
+    "id": "1152103128980795443",
+    "xp": 10,
+    "lastUpdate": 1709976660555,
+    "xpGainInWindow": 10
+  },
+  "905443021506625617": {
+    "nickname": "D Russ",
+    "identifier": "drussssurd#0",
+    "id": "905443021506625617",
+    "xp": 10,
+    "lastUpdate": 1709981596464,
+    "xpGainInWindow": 10
+  },
+  "975245616374493194": {
+    "nickname": "Broke",
+    "identifier": "broke89626#0",
+    "id": "975245616374493194",
+    "xp": 10,
+    "lastUpdate": 1709984163868,
+    "xpGainInWindow": 10
+  },
+  "1189673375182884956": {
+    "nickname": "TPRaven",
+    "identifier": "tpraven#0",
+    "id": "1189673375182884956",
+    "xp": 10,
+    "lastUpdate": 1709985911016,
+    "xpGainInWindow": 10
+  },
+  "958454144593694771": {
+    "nickname": "jhonny",
+    "identifier": "jhonny26#0",
+    "id": "958454144593694771",
+    "xp": 10,
+    "lastUpdate": 1709985987116,
+    "xpGainInWindow": 10
+  },
+  "982006929486389368": {
+    "nickname": "Victor Caproverse",
+    "identifier": "victorcaproverse#0",
+    "id": "982006929486389368",
+    "xp": 10,
+    "lastUpdate": 1709990041218,
+    "xpGainInWindow": 10
+  },
+  "139716189386571776": {
+    "nickname": "styge",
+    "identifier": "kofeiiniton#0",
+    "id": "139716189386571776",
+    "xp": 10,
+    "lastUpdate": 1709993213080,
+    "xpGainInWindow": 10
+  },
+  "809788318899896320": {
+    "nickname": "yin2185",
+    "identifier": "yin2185#0",
+    "id": "809788318899896320",
+    "xp": 10,
+    "lastUpdate": 1709993496846,
+    "xpGainInWindow": 10
+  },
+  "830392027920465962": {
+    "nickname": "K ¥€_Q!",
+    "identifier": "ki_qi.#0",
+    "id": "830392027920465962",
+    "xp": 10,
+    "lastUpdate": 1709993582005,
+    "xpGainInWindow": 10
+  },
+  "1088959501077598208": {
+    "nickname": "marvy",
+    "identifier": "marvy1#0",
+    "id": "1088959501077598208",
+    "xp": 35,
+    "lastUpdate": 1709997759313,
+    "xpGainInWindow": 25
+  },
+  "836296936297463868": {
+    "nickname": "mcnoot.burger",
+    "identifier": "mcnoot.burger#0",
+    "id": "836296936297463868",
+    "xp": 30,
+    "lastUpdate": 1710002958999,
+    "xpGainInWindow": 20
+  },
+  "396873166519009281": {
+    "nickname": "Muaddib",
+    "identifier": "horae.ai#0",
+    "id": "396873166519009281",
+    "xp": 15,
+    "lastUpdate": 1710004412653,
+    "xpGainInWindow": 15
+  },
+  "718262509928186006": {
+    "nickname": "NovaiumVapor",
+    "identifier": "novaiumvapor#0",
+    "id": "718262509928186006",
+    "xp": 45,
+    "lastUpdate": 1710011780729,
+    "xpGainInWindow": 20
+  },
+  "845593064453177356": {
+    "nickname": "coinstantin",
+    "identifier": "iamcoinstantin#0",
+    "id": "845593064453177356",
+    "xp": 10,
+    "lastUpdate": 1710009837565,
+    "xpGainInWindow": 10
+  },
+  "923380584045224036": {
+    "nickname": "Pancake",
+    "identifier": "Pancake#5500",
+    "id": "923380584045224036",
+    "xp": 10,
+    "lastUpdate": 1710018539753,
+    "xpGainInWindow": 10
+  },
+  "401154943681167362": {
+    "nickname": "oxblood1",
+    "identifier": "oxblood1#0",
+    "id": "401154943681167362",
+    "xp": 25,
+    "lastUpdate": 1710197986366,
+    "xpGainInWindow": 5
+  },
+  "1124215490189983754": {
+    "nickname": "Zenos",
+    "identifier": "zenos_t#0",
+    "id": "1124215490189983754",
+    "xp": 10,
+    "lastUpdate": 1710023642162,
+    "xpGainInWindow": 10
+  },
+  "901223686428819506": {
+    "nickname": "Seablue",
+    "identifier": ".seablue#0",
+    "id": "901223686428819506",
+    "xp": 20,
+    "lastUpdate": 1710023687356,
+    "xpGainInWindow": 20
+  },
+  "932725957679255553": {
+    "nickname": "liloden",
+    "identifier": "liloden.#0",
+    "id": "932725957679255553",
+    "xp": 10,
+    "lastUpdate": 1710025027774,
+    "xpGainInWindow": 10
+  },
+  "687205024518111237": {
+    "nickname": "luke10p",
+    "identifier": "luke10p#0",
+    "id": "687205024518111237",
+    "xp": 10,
+    "lastUpdate": 1710037576995,
+    "xpGainInWindow": 10
+  },
+  "865994826125541376": {
+    "nickname": "Justinski",
+    "identifier": "justinski#0",
+    "id": "865994826125541376",
+    "xp": 10,
+    "lastUpdate": 1710050143632,
+    "xpGainInWindow": 10
+  },
+  "1207679018816638986": {
+    "nickname": "chrissgrayza",
+    "identifier": "chrissgrayza#0",
+    "id": "1207679018816638986",
+    "xp": 10,
+    "lastUpdate": 1710062660438,
+    "xpGainInWindow": 10
+  },
+  "627625402164051979": {
+    "nickname": "HK",
+    "identifier": "hari.k#0",
+    "id": "627625402164051979",
+    "xp": 10,
+    "lastUpdate": 1710064332827,
+    "xpGainInWindow": 10
+  },
+  "696518887663206450": {
+    "nickname": "artchurrooo",
+    "identifier": "artchurrooo#0",
+    "id": "696518887663206450",
+    "xp": 10,
+    "lastUpdate": 1710066803783,
+    "xpGainInWindow": 10
+  },
+  "805379325599678484": {
+    "nickname": "XN85",
+    "identifier": "darius_no1#0",
+    "id": "805379325599678484",
+    "xp": 10,
+    "lastUpdate": 1710069365783,
+    "xpGainInWindow": 10
+  },
+  "388560326267764736": {
+    "nickname": "Kamins28",
+    "identifier": "digitalceramics#0",
+    "id": "388560326267764736",
+    "xp": 25,
+    "lastUpdate": 1710072111804,
+    "xpGainInWindow": 5
+  },
+  "473256707854827520": {
+    "nickname": "Dac",
+    "identifier": "celine_papa#0",
+    "id": "473256707854827520",
+    "xp": 50,
+    "lastUpdate": 1710092981249,
+    "xpGainInWindow": 10
+  },
+  "1121003574810394635": {
+    "nickname": "netscide",
+    "identifier": "netscide#0",
+    "id": "1121003574810394635",
+    "xp": 10,
+    "lastUpdate": 1710085333449,
+    "xpGainInWindow": 10
+  },
+  "1091352489065975860": {
+    "nickname": "欣欣",
+    "identifier": "ann6381#0",
+    "id": "1091352489065975860",
+    "xp": 10,
+    "lastUpdate": 1710086914689,
+    "xpGainInWindow": 10
+  },
+  "1185275883720810558": {
+    "nickname": "Jimmy Slade",
+    "identifier": "jimmy_slade#0",
+    "id": "1185275883720810558",
+    "xp": 10,
+    "lastUpdate": 1710099033394,
+    "xpGainInWindow": 10
+  },
+  "1016202997782560848": {
+    "nickname": "DanyalBlok",
+    "identifier": "danyalblok#0",
+    "id": "1016202997782560848",
+    "xp": 10,
+    "lastUpdate": 1710109229676,
+    "xpGainInWindow": 10
+  },
+  "945350178179780678": {
+    "nickname": "Will4US",
+    "identifier": "will4us#0",
+    "id": "945350178179780678",
+    "xp": 10,
+    "lastUpdate": 1710122636931,
+    "xpGainInWindow": 10
+  },
+  "224343275639668737": {
+    "nickname": "Valance /Vale",
+    "identifier": "vale7840#0",
+    "id": "224343275639668737",
+    "xp": 10,
+    "lastUpdate": 1710127116389,
+    "xpGainInWindow": 10
+  },
+  "420819053016252416": {
+    "nickname": "Petr Kranov",
+    "identifier": "petrkranov#0",
+    "id": "420819053016252416",
+    "xp": 10,
+    "lastUpdate": 1710130676746,
+    "xpGainInWindow": 10
+  },
+  "907680683227484203": {
+    "nickname": "nenita13",
+    "identifier": "nenita13#0",
+    "id": "907680683227484203",
+    "xp": 15,
+    "lastUpdate": 1710160447863,
+    "xpGainInWindow": 15
+  },
+  "204752287556567040": {
+    "nickname": "jskrilla712",
+    "identifier": "jskrilla712#0",
+    "id": "204752287556567040",
+    "xp": 10,
+    "lastUpdate": 1710170875645,
+    "xpGainInWindow": 10
+  },
+  "904353914290327584": {
+    "nickname": "Deep",
+    "identifier": "deep06972#0",
+    "id": "904353914290327584",
+    "xp": 10,
+    "lastUpdate": 1710171270471,
+    "xpGainInWindow": 10
+  },
+  "805047419364311070": {
+    "nickname": "Mark Melnykowycz",
+    "identifier": "markmelnykowycz#0",
+    "id": "805047419364311070",
+    "xp": 10,
+    "lastUpdate": 1710171711698,
+    "xpGainInWindow": 10
+  },
+  "864271894864461865": {
+    "nickname": "ArsTexO",
+    "identifier": "arstexo#0",
+    "id": "864271894864461865",
+    "xp": 10,
+    "lastUpdate": 1710172437594,
+    "xpGainInWindow": 10
+  },
+  "389261705147973633": {
+    "nickname": "ML Photographie",
+    "identifier": "mlphotographie#0",
+    "id": "389261705147973633",
+    "xp": 50,
+    "lastUpdate": 1710201269415,
+    "xpGainInWindow": 40
+  },
+  "897473616973811742": {
+    "nickname": "tsunami",
+    "identifier": "tsunami9509#0",
+    "id": "897473616973811742",
+    "xp": 10,
+    "lastUpdate": 1710173982608,
+    "xpGainInWindow": 10
+  },
+  "991418295444050050": {
+    "nickname": "sean_5253",
+    "identifier": "sean_5253#0",
+    "id": "991418295444050050",
+    "xp": 10,
+    "lastUpdate": 1710178778360,
+    "xpGainInWindow": 10
+  },
+  "1216805732218048602": {
+    "nickname": "Matthy",
+    "identifier": "matthy0098#0",
+    "id": "1216805732218048602",
+    "xp": 45,
+    "lastUpdate": 1710226530466,
+    "xpGainInWindow": 5
+  },
+  "316638417037426688": {
+    "nickname": "cryptomx",
+    "identifier": "cryptomx.#0",
+    "id": "316638417037426688",
+    "xp": 10,
+    "lastUpdate": 1710187172001,
+    "xpGainInWindow": 10
+  },
+  "715914798742765579": {
+    "nickname": "Srano999",
+    "identifier": "srano_#0",
+    "id": "715914798742765579",
+    "xp": 10,
+    "lastUpdate": 1710187187405,
+    "xpGainInWindow": 10
+  },
+  "755217145075597453": {
+    "nickname": "facio2720",
+    "identifier": "facio2720#0",
+    "id": "755217145075597453",
+    "xp": 15,
+    "lastUpdate": 1710187953449,
+    "xpGainInWindow": 5
+  },
+  "760247355327905853": {
+    "nickname": "Oldtheoneux",
+    "identifier": "oldtheoneux#0",
+    "id": "760247355327905853",
+    "xp": 10,
+    "lastUpdate": 1710187326762,
+    "xpGainInWindow": 10
+  },
+  "655419173760925758": {
+    "nickname": "robertuuus",
+    "identifier": ".robertuuus#0",
+    "id": "655419173760925758",
+    "xp": 10,
+    "lastUpdate": 1710187334725,
+    "xpGainInWindow": 10
+  },
+  "768132774652674108": {
+    "nickname": "Miguel",
+    "identifier": "mrmiguel14#0",
+    "id": "768132774652674108",
+    "xp": 10,
+    "lastUpdate": 1710187424889,
+    "xpGainInWindow": 10
+  },
+  "1202072792355569716": {
+    "nickname": "Eduardo",
+    "identifier": "elmejor123_#0",
+    "id": "1202072792355569716",
+    "xp": 10,
+    "lastUpdate": 1710187607081,
+    "xpGainInWindow": 10
+  },
+  "827187466771234816": {
+    "nickname": "Azazie SS",
+    "identifier": "azaziess#0",
+    "id": "827187466771234816",
+    "xp": 20,
+    "lastUpdate": 1710187607682,
+    "xpGainInWindow": 20
+  },
+  "1067171043107688552": {
+    "nickname": "Viejo",
+    "identifier": "viejoqls80#0",
+    "id": "1067171043107688552",
+    "xp": 40,
+    "lastUpdate": 1710260083139,
+    "xpGainInWindow": 5
+  },
+  "397408665495273473": {
+    "nickname": "ReyBruko",
+    "identifier": "reybruko#0",
+    "id": "397408665495273473",
+    "xp": 10,
+    "lastUpdate": 1710188347105,
+    "xpGainInWindow": 10
+  },
+  "971760715369156628": {
+    "nickname": "Sly| CreampanFi",
+    "identifier": "slycregz#0",
+    "id": "971760715369156628",
+    "xp": 50,
+    "lastUpdate": 1710233931494,
+    "xpGainInWindow": 10
+  },
+  "302165639395672067": {
+    "nickname": "PrimeFTW",
+    "identifier": "dusketeeerrr#0",
+    "id": "302165639395672067",
+    "xp": 10,
+    "lastUpdate": 1710188859883,
+    "xpGainInWindow": 10
+  },
+  "821789132397215774": {
+    "nickname": "Adw",
+    "identifier": "a_dewy#0",
+    "id": "821789132397215774",
+    "xp": 10,
+    "lastUpdate": 1710189536859,
+    "xpGainInWindow": 10
+  },
+  "1161138099481493576": {
+    "nickname": "Hugo",
+    "identifier": "hugo_78961#0",
+    "id": "1161138099481493576",
+    "xp": 20,
+    "lastUpdate": 1710266591770,
+    "xpGainInWindow": 10
+  },
+  "822534469873303592": {
+    "nickname": "Osiel",
+    "identifier": "osiel.1#0",
+    "id": "822534469873303592",
+    "xp": 20,
+    "lastUpdate": 1710261402544,
+    "xpGainInWindow": 10
+  },
+  "404443684617191434": {
+    "nickname": "nicandrolo",
+    "identifier": "nicandrolo#0",
+    "id": "404443684617191434",
+    "xp": 15,
+    "lastUpdate": 1710192388991,
+    "xpGainInWindow": 15
+  },
+  "212735360935919617": {
+    "nickname": "Daniel Dktc",
+    "identifier": "danielctecla#0",
+    "id": "212735360935919617",
+    "xp": 50,
+    "lastUpdate": 1710284316300,
+    "xpGainInWindow": 20
+  },
+  "846448197827428432": {
+    "nickname": "Helio",
+    "identifier": "helio7698#0",
+    "id": "846448197827428432",
+    "xp": 15,
+    "lastUpdate": 1710275226143,
+    "xpGainInWindow": 5
+  },
+  "488258244964384784": {
+    "nickname": "aux",
+    "identifier": "rockpunks#0",
+    "id": "488258244964384784",
+    "xp": 30,
+    "lastUpdate": 1710196174416,
+    "xpGainInWindow": 30
+  },
+  "835630731938103367": {
+    "nickname": "ariel2k2 I Team",
+    "identifier": "ariel2k2#0",
+    "id": "835630731938103367",
+    "xp": 40,
+    "lastUpdate": 1710199998221,
+    "xpGainInWindow": 40
+  },
+  "935131529162678322": {
+    "nickname": "Coltrane.eth",
+    "identifier": "coltrane.eth#0",
+    "id": "935131529162678322",
+    "xp": 10,
+    "lastUpdate": 1710201182857,
+    "xpGainInWindow": 10
+  },
+  "906710610975289386": {
+    "nickname": "MOONSTONESBIGBAGS",
+    "identifier": "moonstonesbigbags#0",
+    "id": "906710610975289386",
+    "xp": 10,
+    "lastUpdate": 1710201919556,
+    "xpGainInWindow": 10
+  },
+  "404822442314563586": {
+    "nickname": "Shifu",
+    "identifier": "prysmaa#0",
+    "id": "404822442314563586",
+    "xp": 10,
+    "lastUpdate": 1710202752149,
+    "xpGainInWindow": 10
+  },
+  "967432324474097674": {
+    "nickname": "scott",
+    "identifier": "rabbitcoin23#0",
+    "id": "967432324474097674",
+    "xp": 30,
+    "lastUpdate": 1710203272287,
+    "xpGainInWindow": 30
+  },
+  "491186722005057537": {
+    "nickname": "AndrewB",
+    "identifier": "aaandrewb#0",
+    "id": "491186722005057537",
+    "xp": 30,
+    "lastUpdate": 1710204899363,
+    "xpGainInWindow": 20
+  },
+  "696355242887086126": {
+    "nickname": "Antonio36",
+    "identifier": ".antonio36#0",
+    "id": "696355242887086126",
+    "xp": 20,
+    "lastUpdate": 1710207150246,
+    "xpGainInWindow": 20
+  },
+  "595435963040137232": {
+    "nickname": "TonkaTuff",
+    "identifier": "tonkatuff.eth#0",
+    "id": "595435963040137232",
+    "xp": 20,
+    "lastUpdate": 1710207516152,
+    "xpGainInWindow": 20
+  },
+  "759244533308588082": {
+    "nickname": "0xfer",
+    "identifier": "0xfer#0",
+    "id": "759244533308588082",
+    "xp": 20,
+    "lastUpdate": 1710207577389,
+    "xpGainInWindow": 20
+  },
+  "1065183637152219227": {
+    "nickname": "Criepyrite",
+    "identifier": "criepyrite#0",
+    "id": "1065183637152219227",
+    "xp": 10,
+    "lastUpdate": 1710209553930,
+    "xpGainInWindow": 10
+  },
+  "851287430346309642": {
+    "nickname": "lucio7308",
+    "identifier": "lucio7308#0",
+    "id": "851287430346309642",
+    "xp": 35,
+    "lastUpdate": 1710209934364,
+    "xpGainInWindow": 15
+  },
+  "653277399139614780": {
+    "nickname": "Davide",
+    "identifier": "davide6390#0",
+    "id": "653277399139614780",
+    "xp": 10,
+    "lastUpdate": 1710209761346,
+    "xpGainInWindow": 10
+  },
+  "402944997026037782": {
+    "nickname": "CaptainCohiba",
+    "identifier": "captaincohiba#0",
+    "id": "402944997026037782",
+    "xp": 10,
+    "lastUpdate": 1710210187117,
+    "xpGainInWindow": 10
+  },
+  "784241784930172958": {
+    "nickname": "tatan04.",
+    "identifier": "tatan04.#0",
+    "id": "784241784930172958",
+    "xp": 20,
+    "lastUpdate": 1710210685445,
+    "xpGainInWindow": 20
+  },
+  "1127896779585748992": {
+    "nickname": "hanhdo.eth",
+    "identifier": "hanhdo.eth#0",
+    "id": "1127896779585748992",
+    "xp": 10,
+    "lastUpdate": 1710218350163,
+    "xpGainInWindow": 10
+  },
+  "641828420267016233": {
+    "nickname": "JorgeG |Wolf",
+    "identifier": "jorgeg7619#0",
+    "id": "641828420267016233",
+    "xp": 80,
+    "lastUpdate": 1710275730880,
+    "xpGainInWindow": 15
+  },
+  "771541955255599114": {
+    "nickname": "Joshua SM",
+    "identifier": "joshua1121#0",
+    "id": "771541955255599114",
+    "xp": 55,
+    "lastUpdate": 1710221688171,
+    "xpGainInWindow": 15
+  },
+  "949469483892883498": {
+    "nickname": "Wod",
+    "identifier": "wod9635#0",
+    "id": "949469483892883498",
+    "xp": 55,
+    "lastUpdate": 1710220157353,
+    "xpGainInWindow": 55
+  },
+  "454401113559662603": {
+    "nickname": "Luisma",
+    "identifier": "luisma1#0",
+    "id": "454401113559662603",
+    "xp": 10,
+    "lastUpdate": 1710220315665,
+    "xpGainInWindow": 10
+  },
+  "932822747048980500": {
+    "nickname": "VegaCripto",
+    "identifier": "vegacripto#0",
+    "id": "932822747048980500",
+    "xp": 35,
+    "lastUpdate": 1710220381158,
+    "xpGainInWindow": 35
+  },
+  "904757564321976370": {
+    "nickname": "XavicatNFT",
+    "identifier": "xavicatnft#0",
+    "id": "904757564321976370",
+    "xp": 20,
+    "lastUpdate": 1710220423890,
+    "xpGainInWindow": 20
+  },
+  "756173786998505664": {
+    "nickname": "Storymaker",
+    "identifier": "storymaker1#0",
+    "id": "756173786998505664",
+    "xp": 10,
+    "lastUpdate": 1710220521092,
+    "xpGainInWindow": 10
+  },
+  "1099876094414434394": {
+    "nickname": "kwalalala",
+    "identifier": "kwalalala#0",
+    "id": "1099876094414434394",
+    "xp": 40,
+    "lastUpdate": 1710249466272,
+    "xpGainInWindow": 20
+  },
+  "1030125429828354138": {
+    "nickname": "Jason",
+    "identifier": "robertexcel#0",
+    "id": "1030125429828354138",
+    "xp": 30,
+    "lastUpdate": 1710355076575,
+    "xpGainInWindow": 10
+  },
+  "394285168250191873": {
+    "nickname": "chowza",
+    "identifier": "ch0wza#0",
+    "id": "394285168250191873",
+    "xp": 10,
+    "lastUpdate": 1710230092739,
+    "xpGainInWindow": 10
+  },
+  "1079660901294161992": {
+    "nickname": "patolucas.eth",
+    "identifier": "patolucas.eth#0",
+    "id": "1079660901294161992",
+    "xp": 10,
+    "lastUpdate": 1710230123171,
+    "xpGainInWindow": 10
+  },
+  "549773922137276416": {
+    "nickname": "piraox",
+    "identifier": "piraox#0",
+    "id": "549773922137276416",
+    "xp": 20,
+    "lastUpdate": 1710235395232,
+    "xpGainInWindow": 20
+  },
+  "1217037373754314756": {
+    "nickname": "Toni",
+    "identifier": "touny.ax#0",
+    "id": "1217037373754314756",
+    "xp": 10,
+    "lastUpdate": 1710235623637,
+    "xpGainInWindow": 10
+  },
+  "902304364075573258": {
+    "nickname": "rahit",
+    "identifier": "rahit7537#0",
+    "id": "902304364075573258",
+    "xp": 10,
+    "lastUpdate": 1710237183543,
+    "xpGainInWindow": 10
+  },
+  "942390391309742121": {
+    "nickname": "WhiteMike",
+    "identifier": "damnwhitemike#0",
+    "id": "942390391309742121",
+    "xp": 10,
+    "lastUpdate": 1710238235825,
+    "xpGainInWindow": 10
+  },
+  "765547565340688395": {
+    "nickname": "AlanTardigrade",
+    "identifier": "tatrader_alan#0",
+    "id": "765547565340688395",
+    "xp": 20,
+    "lastUpdate": 1710245040341,
+    "xpGainInWindow": 10
+  },
+  "1206895336786890772": {
+    "nickname": "Yurrr",
+    "identifier": "yurrr0483#0",
+    "id": "1206895336786890772",
+    "xp": 20,
+    "lastUpdate": 1710244170433,
+    "xpGainInWindow": 20
+  },
+  "197229538948677633": {
+    "nickname": "Mawhass",
+    "identifier": "mawhass#0",
+    "id": "197229538948677633",
+    "xp": 10,
+    "lastUpdate": 1710249259158,
+    "xpGainInWindow": 10
+  },
+  "714828599253008456": {
+    "nickname": "GROOT",
+    "identifier": "groot.10#0",
+    "id": "714828599253008456",
+    "xp": 10,
+    "lastUpdate": 1710254082283,
+    "xpGainInWindow": 10
+  },
+  "1150832050857848923": {
+    "nickname": "Nasrin akter",
+    "identifier": "nasrinakter0388#0",
+    "id": "1150832050857848923",
+    "xp": 10,
+    "lastUpdate": 1710254088127,
+    "xpGainInWindow": 10
+  },
+  "1032992554922295376": {
+    "nickname": "Call_me_David",
+    "identifier": "call_me_david.#0",
+    "id": "1032992554922295376",
+    "xp": 10,
+    "lastUpdate": 1710254131530,
+    "xpGainInWindow": 10
+  },
+  "1185060295245299742": {
+    "nickname": "SajibPM",
+    "identifier": "sajibpm_54123#0",
+    "id": "1185060295245299742",
+    "xp": 10,
+    "lastUpdate": 1710254150955,
+    "xpGainInWindow": 10
+  },
+  "1102201135613362257": {
+    "nickname": "HINATA",
+    "identifier": "nabila4640#0",
+    "id": "1102201135613362257",
+    "xp": 10,
+    "lastUpdate": 1710254187395,
+    "xpGainInWindow": 10
+  },
+  "1217052775326683207": {
+    "nickname": "Tonmoy Datta",
+    "identifier": "803836#0",
+    "id": "1217052775326683207",
+    "xp": 10,
+    "lastUpdate": 1710254192336,
+    "xpGainInWindow": 10
+  },
+  "1209725232810819616": {
+    "nickname": "Golabu543",
+    "identifier": "golabu543#0",
+    "id": "1209725232810819616",
+    "xp": 10,
+    "lastUpdate": 1710254285893,
+    "xpGainInWindow": 10
+  },
+  "1209119934270144562": {
+    "nickname": "BAPPY Hossen",
+    "identifier": "bappy65#0",
+    "id": "1209119934270144562",
+    "xp": 10,
+    "lastUpdate": 1710254305746,
+    "xpGainInWindow": 10
+  },
+  "1110703397105057852": {
+    "nickname": "💠 BeARdO🌗⭐🌓",
+    "identifier": "beardo.s#0",
+    "id": "1110703397105057852",
+    "xp": 10,
+    "lastUpdate": 1710254486675,
+    "xpGainInWindow": 10
+  },
+  "1213824734681235466": {
+    "nickname": "miliakter",
+    "identifier": "miliakter#0",
+    "id": "1213824734681235466",
+    "xp": 10,
+    "lastUpdate": 1710254573947,
+    "xpGainInWindow": 10
+  },
+  "1107378966001631314": {
+    "nickname": "OscaR⚽🥎⚽",
+    "identifier": "oscarider#0",
+    "id": "1107378966001631314",
+    "xp": 10,
+    "lastUpdate": 1710254643735,
+    "xpGainInWindow": 10
+  },
+  "1182228142375567360": {
+    "nickname": "🍁animals🤘",
+    "identifier": "animals_123#0",
+    "id": "1182228142375567360",
+    "xp": 10,
+    "lastUpdate": 1710254759194,
+    "xpGainInWindow": 10
+  },
+  "1202140477692846090": {
+    "nickname": "⚡$ ʀɪʏᴀᴅ  ʙʜᴀɪ®⚡..",
+    "identifier": "riyadbhai.#0",
+    "id": "1202140477692846090",
+    "xp": 10,
+    "lastUpdate": 1710254916099,
+    "xpGainInWindow": 10
+  },
+  "1186261058436993047": {
+    "nickname": "Kobir",
+    "identifier": "kobir0#0",
+    "id": "1186261058436993047",
+    "xp": 10,
+    "lastUpdate": 1710255140584,
+    "xpGainInWindow": 10
+  },
+  "1203343467850244137": {
+    "nickname": "akash_0001",
+    "identifier": "akash_0001#0",
+    "id": "1203343467850244137",
+    "xp": 10,
+    "lastUpdate": 1710255250797,
+    "xpGainInWindow": 10
+  },
+  "1204619617948147716": {
+    "nickname": "🥶🐦anik_ bhai®🐦🥶",
+    "identifier": "riyad.anik#0",
+    "id": "1204619617948147716",
+    "xp": 10,
+    "lastUpdate": 1710255329562,
+    "xpGainInWindow": 10
+  },
+  "992600664704299148": {
+    "nickname": "Crazy ‼",
+    "identifier": "crazycrypto999#0",
+    "id": "992600664704299148",
+    "xp": 10,
+    "lastUpdate": 1710255362792,
+    "xpGainInWindow": 10
+  },
+  "1086543520749322290": {
+    "nickname": "GOD ×͜× NAMIKAZE ᴍɪɴᴀᴛᴏ⸙",
+    "identifier": "mr.egal.#0",
+    "id": "1086543520749322290",
+    "xp": 10,
+    "lastUpdate": 1710255556190,
+    "xpGainInWindow": 10
+  },
+  "1190671245537202308": {
+    "nickname": "Cosmic Crypto",
+    "identifier": "cosmiccrypto3440#0",
+    "id": "1190671245537202308",
+    "xp": 10,
+    "lastUpdate": 1710255672212,
+    "xpGainInWindow": 10
+  },
+  "945428447759597630": {
+    "nickname": "jillar2025",
+    "identifier": "jillar2025#0",
+    "id": "945428447759597630",
+    "xp": 10,
+    "lastUpdate": 1710255720894,
+    "xpGainInWindow": 10
+  },
+  "876187315515555891": {
+    "nickname": "JamesBrown1111",
+    "identifier": "jamesbrown4759#0",
+    "id": "876187315515555891",
+    "xp": 10,
+    "lastUpdate": 1710255756464,
+    "xpGainInWindow": 10
+  },
+  "1199338641349152788": {
+    "nickname": "Sajol_Sarkar",
+    "identifier": "sajol_sarkar#0",
+    "id": "1199338641349152788",
+    "xp": 10,
+    "lastUpdate": 1710255819961,
+    "xpGainInWindow": 10
+  },
+  "1211671629218979877": {
+    "nickname": "Jim_NFT",
+    "identifier": "jim_nft.#0",
+    "id": "1211671629218979877",
+    "xp": 10,
+    "lastUpdate": 1710255947785,
+    "xpGainInWindow": 10
+  },
+  "1115654006585434202": {
+    "nickname": "Spartan",
+    "identifier": "spartan5593#0",
+    "id": "1115654006585434202",
+    "xp": 10,
+    "lastUpdate": 1710256003537,
+    "xpGainInWindow": 10
+  },
+  "1130900721768865843": {
+    "nickname": "Rakib Rana",
+    "identifier": "rana97488#0",
+    "id": "1130900721768865843",
+    "xp": 10,
+    "lastUpdate": 1710256014138,
+    "xpGainInWindow": 10
+  },
+  "948176262860533771": {
+    "nickname": "Elisa Healy🏳🍀🤑🍀🍀🍀🇧",
+    "identifier": "elisahealy#0",
+    "id": "948176262860533771",
+    "xp": 10,
+    "lastUpdate": 1710256068875,
+    "xpGainInWindow": 10
+  },
+  "1206275055059730442": {
+    "nickname": "Jiniya123",
+    "identifier": "jiniya133#0",
+    "id": "1206275055059730442",
+    "xp": 10,
+    "lastUpdate": 1710256137393,
+    "xpGainInWindow": 10
+  },
+  "1206675240265064498": {
+    "nickname": "Mageste",
+    "identifier": "mageste0942#0",
+    "id": "1206675240265064498",
+    "xp": 10,
+    "lastUpdate": 1710256350460,
+    "xpGainInWindow": 10
+  },
+  "1151529697214222419": {
+    "nickname": "MR.sami👻🏴☠NFT💥",
+    "identifier": "sami106#0",
+    "id": "1151529697214222419",
+    "xp": 10,
+    "lastUpdate": 1710256505783,
+    "xpGainInWindow": 10
+  },
+  "1187728343211200543": {
+    "nickname": "✔✪$M4N🇧🇩",
+    "identifier": "osman03330#0",
+    "id": "1187728343211200543",
+    "xp": 10,
+    "lastUpdate": 1710256600554,
+    "xpGainInWindow": 10
+  },
+  "1177260278212218981": {
+    "nickname": "Mr💷Akash.",
+    "identifier": "003060#0",
+    "id": "1177260278212218981",
+    "xp": 10,
+    "lastUpdate": 1710256613668,
+    "xpGainInWindow": 10
+  },
+  "1185878841797914645": {
+    "nickname": "Fahad",
+    "identifier": "fahad0339#0",
+    "id": "1185878841797914645",
+    "xp": 10,
+    "lastUpdate": 1710256648678,
+    "xpGainInWindow": 10
+  },
+  "1203402898780725293": {
+    "nickname": "SKS_SUMI⛔⛔⛔⛔",
+    "identifier": "sixer_nft#0",
+    "id": "1203402898780725293",
+    "xp": 10,
+    "lastUpdate": 1710256670186,
+    "xpGainInWindow": 10
+  },
+  "386857324410830851": {
+    "nickname": "Kurt.C.Cobain",
+    "identifier": "kurt.c.cobain#0",
+    "id": "386857324410830851",
+    "xp": 10,
+    "lastUpdate": 1710256747452,
+    "xpGainInWindow": 10
+  },
+  "1203392903754416218": {
+    "nickname": "Snigdha♥🌹🥀🥀💐",
+    "identifier": "sixxer_sixt#0",
+    "id": "1203392903754416218",
+    "xp": 10,
+    "lastUpdate": 1710256794613,
+    "xpGainInWindow": 10
+  },
+  "1212979613333069856": {
+    "nickname": "Tuli🖌🖌🖌🖌🖌",
+    "identifier": "tulipaintpaintpaintpaintpaint#0",
+    "id": "1212979613333069856",
+    "xp": 10,
+    "lastUpdate": 1710257028588,
+    "xpGainInWindow": 10
+  },
+  "828610929704435733": {
+    "nickname": "santiagofalcon",
+    "identifier": "santiagofalcon.#0",
+    "id": "828610929704435733",
+    "xp": 10,
+    "lastUpdate": 1710257190763,
+    "xpGainInWindow": 10
+  },
+  "1124086665665843303": {
+    "nickname": "GOKU _NFT🔗",
+    "identifier": "18_tihan#0",
+    "id": "1124086665665843303",
+    "xp": 10,
+    "lastUpdate": 1710257261230,
+    "xpGainInWindow": 10
+  },
+  "1000704965834194944": {
+    "nickname": "Mehedi___🦂",
+    "identifier": "mehedi___#0",
+    "id": "1000704965834194944",
+    "xp": 10,
+    "lastUpdate": 1710257825284,
+    "xpGainInWindow": 10
+  },
+  "1187401684113174658": {
+    "nickname": "Mr Utsho",
+    "identifier": "davitluice#0",
+    "id": "1187401684113174658",
+    "xp": 10,
+    "lastUpdate": 1710257957995,
+    "xpGainInWindow": 10
+  },
+  "1094316005188182026": {
+    "nickname": "Roberto",
+    "identifier": "roberto_20242#0",
+    "id": "1094316005188182026",
+    "xp": 10,
+    "lastUpdate": 1710258650440,
+    "xpGainInWindow": 10
+  },
+  "675470377962438675": {
+    "nickname": "Roberto Quiñonez",
+    "identifier": "robertoquinonez#0",
+    "id": "675470377962438675",
+    "xp": 10,
+    "lastUpdate": 1710258680281,
+    "xpGainInWindow": 10
+  },
+  "1063154902634860687": {
+    "nickname": "hoohacks",
+    "identifier": "hoohacks#0",
+    "id": "1063154902634860687",
+    "xp": 10,
+    "lastUpdate": 1710258691155,
+    "xpGainInWindow": 10
+  },
+  "796109536423182396": {
+    "nickname": "Isap",
+    "identifier": "isaprrro#0",
+    "id": "796109536423182396",
+    "xp": 35,
+    "lastUpdate": 1710258698150,
+    "xpGainInWindow": 35
+  },
+  "993508473801298030": {
+    "nickname": "kmcKmc",
+    "identifier": "kmckmc#0",
+    "id": "993508473801298030",
+    "xp": 20,
+    "lastUpdate": 1710258709676,
+    "xpGainInWindow": 20
+  },
+  "1205967404266553394": {
+    "nickname": "Renjar🌶71",
+    "identifier": "pata.hd007#0",
+    "id": "1205967404266553394",
+    "xp": 20,
+    "lastUpdate": 1710265489310,
+    "xpGainInWindow": 10
+  },
+  "1032375818376204298": {
+    "nickname": "alejo0601",
+    "identifier": "delacuadra10#0",
+    "id": "1032375818376204298",
+    "xp": 20,
+    "lastUpdate": 1710258754973,
+    "xpGainInWindow": 20
+  },
+  "948768402678358056": {
+    "nickname": "gissok",
+    "identifier": "gissok#0",
+    "id": "948768402678358056",
+    "xp": 10,
+    "lastUpdate": 1710258808963,
+    "xpGainInWindow": 10
+  },
+  "229636199260749834": {
+    "nickname": "u4rdo",
+    "identifier": "u4rdo#0",
+    "id": "229636199260749834",
+    "xp": 10,
+    "lastUpdate": 1710258840546,
+    "xpGainInWindow": 10
+  },
+  "1033079167438303343": {
+    "nickname": "espablon 🟣 $LOL",
+    "identifier": "espablon#0",
+    "id": "1033079167438303343",
+    "xp": 20,
+    "lastUpdate": 1710258895247,
+    "xpGainInWindow": 20
+  },
+  "1118225323511783504": {
+    "nickname": "RAAT MRS LOVE",
+    "identifier": "raatmrslove#0",
+    "id": "1118225323511783504",
+    "xp": 10,
+    "lastUpdate": 1710258933691,
+    "xpGainInWindow": 10
+  },
+  "1198715843211698236": {
+    "nickname": "Atom",
+    "identifier": "atom0293#0",
+    "id": "1198715843211698236",
+    "xp": 10,
+    "lastUpdate": 1710259139326,
+    "xpGainInWindow": 10
+  },
+  "1032678423681830932": {
+    "nickname": "Andrescrypto",
+    "identifier": "andrescrypto_#0",
+    "id": "1032678423681830932",
+    "xp": 10,
+    "lastUpdate": 1710264144876,
+    "xpGainInWindow": 10
+  },
+  "1212424702627422328": {
+    "nickname": "Stella",
+    "identifier": "stella__59#0",
+    "id": "1212424702627422328",
+    "xp": 10,
+    "lastUpdate": 1710265348875,
+    "xpGainInWindow": 10
+  },
+  "1194042793887289465": {
+    "nickname": "NFT_akhi🔵",
+    "identifier": "nft_nobab#0",
+    "id": "1194042793887289465",
+    "xp": 10,
+    "lastUpdate": 1710265350684,
+    "xpGainInWindow": 10
+  },
+  "677492934438027265": {
+    "nickname": "BelimDegodss",
+    "identifier": "xawadahmed#0",
+    "id": "677492934438027265",
+    "xp": 10,
+    "lastUpdate": 1710265351928,
+    "xpGainInWindow": 10
+  },
+  "1186204157267423305": {
+    "nickname": "Tanvir",
+    "identifier": "tanvir0823#0",
+    "id": "1186204157267423305",
+    "xp": 10,
+    "lastUpdate": 1710265354534,
+    "xpGainInWindow": 10
+  },
+  "1199727856092188762": {
+    "nickname": "Alamin",
+    "identifier": "alamin0962#0",
+    "id": "1199727856092188762",
+    "xp": 10,
+    "lastUpdate": 1710265365096,
+    "xpGainInWindow": 10
+  },
+  "1211247399847333901": {
+    "nickname": "Mermaid🦭",
+    "identifier": "mermaid0663#0",
+    "id": "1211247399847333901",
+    "xp": 10,
+    "lastUpdate": 1710265398567,
+    "xpGainInWindow": 10
+  },
+  "1203433253478866955": {
+    "nickname": "Arda guler",
+    "identifier": "ardiuogo#0",
+    "id": "1203433253478866955",
+    "xp": 10,
+    "lastUpdate": 1710265842071,
+    "xpGainInWindow": 10
+  },
+  "1196010596827664486": {
+    "nickname": "Tapos das",
+    "identifier": "tapos0575#0",
+    "id": "1196010596827664486",
+    "xp": 10,
+    "lastUpdate": 1710265842489,
+    "xpGainInWindow": 10
+  },
+  "1143992109477679117": {
+    "nickname": "Ebrahim Mondol",
+    "identifier": "ebrahimmondol#0",
+    "id": "1143992109477679117",
+    "xp": 20,
+    "lastUpdate": 1710265849846,
+    "xpGainInWindow": 20
+  },
+  "1215999538184065024": {
+    "nickname": "VENOM",
+    "identifier": "parvej012#0",
+    "id": "1215999538184065024",
+    "xp": 10,
+    "lastUpdate": 1710265855394,
+    "xpGainInWindow": 10
+  },
+  "1203559626696556608": {
+    "nickname": "Masud",
+    "identifier": "masud0884#0",
+    "id": "1203559626696556608",
+    "xp": 10,
+    "lastUpdate": 1710265890061,
+    "xpGainInWindow": 10
+  },
+  "1200857933555175438": {
+    "nickname": "Osama_bin_laden",
+    "identifier": "osaba_bin_laden#0",
+    "id": "1200857933555175438",
+    "xp": 10,
+    "lastUpdate": 1710265952394,
+    "xpGainInWindow": 10
+  },
+  "726523956164558909": {
+    "nickname": "venom_75",
+    "identifier": "super_shakib75#0",
+    "id": "726523956164558909",
+    "xp": 10,
+    "lastUpdate": 1710266162177,
+    "xpGainInWindow": 10
+  },
+  "1193518278606331958": {
+    "nickname": "kapildev1357",
+    "identifier": "kapildev1357#0",
+    "id": "1193518278606331958",
+    "xp": 10,
+    "lastUpdate": 1710266188692,
+    "xpGainInWindow": 10
+  },
+  "776845987448225833": {
+    "nickname": "Concrete🤩",
+    "identifier": "concrete56#0",
+    "id": "776845987448225833",
+    "xp": 10,
+    "lastUpdate": 1710266369351,
+    "xpGainInWindow": 10
+  },
+  "942610262123511848": {
+    "nickname": "Sapien",
+    "identifier": "___sapien___#0",
+    "id": "942610262123511848",
+    "xp": 10,
+    "lastUpdate": 1710266631180,
+    "xpGainInWindow": 10
+  },
+  "1182393768893231137": {
+    "nickname": "SALMAN_NFT 🇧🇩",
+    "identifier": "jahidone#0",
+    "id": "1182393768893231137",
+    "xp": 10,
+    "lastUpdate": 1710266760749,
+    "xpGainInWindow": 10
+  },
+  "1213102910649667614": {
+    "nickname": "Fardin💵💲",
+    "identifier": "fardin018714#0",
+    "id": "1213102910649667614",
+    "xp": 10,
+    "lastUpdate": 1710267126150,
+    "xpGainInWindow": 10
+  },
+  "1064458637961072701": {
+    "nickname": "Moinul 1⃣2⃣☢☢",
+    "identifier": "moinul12#0",
+    "id": "1064458637961072701",
+    "xp": 10,
+    "lastUpdate": 1710267257501,
+    "xpGainInWindow": 10
+  },
+  "1197921461692813464": {
+    "nickname": "Nft_creator",
+    "identifier": "nft_creator2#0",
+    "id": "1197921461692813464",
+    "xp": 10,
+    "lastUpdate": 1710267771084,
+    "xpGainInWindow": 10
+  },
+  "1211253992001372212": {
+    "nickname": "Nft_buttercup",
+    "identifier": "nft_buttercup#0",
+    "id": "1211253992001372212",
+    "xp": 10,
+    "lastUpdate": 1710267808292,
+    "xpGainInWindow": 10
+  },
+  "1106879174968365066": {
+    "nickname": "FieryFox",
+    "identifier": "joymondal.#0",
+    "id": "1106879174968365066",
+    "xp": 10,
+    "lastUpdate": 1710267916845,
+    "xpGainInWindow": 10
+  },
+  "1212294060681728011": {
+    "nickname": "Mr.Emon",
+    "identifier": "misteremon#0",
+    "id": "1212294060681728011",
+    "xp": 40,
+    "lastUpdate": 1710354164014,
+    "xpGainInWindow": 20
+  },
+  "1163886558777188476": {
+    "nickname": "Crypto 🌹 Raptors",
+    "identifier": "crypto_raptors#0",
+    "id": "1163886558777188476",
+    "xp": 10,
+    "lastUpdate": 1710271144108,
+    "xpGainInWindow": 10
+  },
+  "707506230045966349": {
+    "nickname": "Wiz khalifa🍁 (original)",
+    "identifier": "wizkhalifa_49#0",
+    "id": "707506230045966349",
+    "xp": 10,
+    "lastUpdate": 1710271744879,
+    "xpGainInWindow": 10
+  },
+  "1198930619028209754": {
+    "nickname": "💫JUBAeR🔥",
+    "identifier": "jubaer0603#0",
+    "id": "1198930619028209754",
+    "xp": 10,
+    "lastUpdate": 1710273677235,
+    "xpGainInWindow": 10
+  },
+  "1212654781055631421": {
+    "nickname": "Smith Sourav",
+    "identifier": "smith_sourav#0",
+    "id": "1212654781055631421",
+    "xp": 10,
+    "lastUpdate": 1710275160521,
+    "xpGainInWindow": 10
+  },
+  "1206839436122529795": {
+    "nickname": "Benstokes",
+    "identifier": "benstokes0402#0",
+    "id": "1206839436122529795",
+    "xp": 10,
+    "lastUpdate": 1710277086559,
+    "xpGainInWindow": 10
+  },
+  "411561235289473025": {
+    "nickname": "rcourech",
+    "identifier": "rcourech#0",
+    "id": "411561235289473025",
+    "xp": 10,
+    "lastUpdate": 1710277518127,
+    "xpGainInWindow": 10
+  },
+  "1206954992955560049": {
+    "nickname": "nooralam933",
+    "identifier": "nooralam933#0",
+    "id": "1206954992955560049",
+    "xp": 10,
+    "lastUpdate": 1710279852714,
+    "xpGainInWindow": 10
+  },
+  "1208441430763245631": {
+    "nickname": "💲🦕ridoy_bhai🦕💱",
+    "identifier": "ridoy_bhai#0",
+    "id": "1208441430763245631",
+    "xp": 10,
+    "lastUpdate": 1710280177776,
+    "xpGainInWindow": 10
+  },
+  "1208722213323407447": {
+    "nickname": "adorable_raccoon_3373",
+    "identifier": "adorable_raccoon_3373#0",
+    "id": "1208722213323407447",
+    "xp": 10,
+    "lastUpdate": 1710280304128,
+    "xpGainInWindow": 10
+  },
+  "1209889079248945172": {
+    "nickname": "jannatul133",
+    "identifier": "jannatul133#0",
+    "id": "1209889079248945172",
+    "xp": 10,
+    "lastUpdate": 1710280994726,
+    "xpGainInWindow": 10
+  },
+  "1209936489484656670": {
+    "nickname": "ruku133",
+    "identifier": "ruku133#0",
+    "id": "1209936489484656670",
+    "xp": 10,
+    "lastUpdate": 1710281415121,
+    "xpGainInWindow": 10
+  },
+  "1125828044859388015": {
+    "nickname": "nft priya",
+    "identifier": "priya21#0",
+    "id": "1125828044859388015",
+    "xp": 10,
+    "lastUpdate": 1710281741679,
+    "xpGainInWindow": 10
+  },
+  "842030797715144725": {
+    "nickname": "arellano20.",
+    "identifier": "arellano20.#0",
+    "id": "842030797715144725",
+    "xp": 10,
+    "lastUpdate": 1710282112860,
+    "xpGainInWindow": 10
+  },
+  "1216602890735587330": {
+    "nickname": "Naiem",
+    "identifier": "naiem555#0",
+    "id": "1216602890735587330",
+    "xp": 10,
+    "lastUpdate": 1710283290008,
+    "xpGainInWindow": 10
+  },
+  "723822902952198185": {
+    "nickname": "mrstock",
+    "identifier": "mrstockz#0",
+    "id": "723822902952198185",
+    "xp": 10,
+    "lastUpdate": 1710285891380,
+    "xpGainInWindow": 10
+  },
+  "1174359709038415936": {
+    "nickname": "Sumon094",
+    "identifier": "sumon094#0",
+    "id": "1174359709038415936",
+    "xp": 10,
+    "lastUpdate": 1710286216894,
+    "xpGainInWindow": 10
+  },
+  "1205790049233403915": {
+    "nickname": "Crypto_Carlos ⚡",
+    "identifier": "crypto_carlos.#0",
+    "id": "1205790049233403915",
+    "xp": 20,
+    "lastUpdate": 1710286506655,
+    "xpGainInWindow": 20
+  },
+  "1089955525845844048": {
+    "nickname": "AriyaN💟💟",
+    "identifier": "ariyan0997#0",
+    "id": "1089955525845844048",
+    "xp": 10,
+    "lastUpdate": 1710287314372,
+    "xpGainInWindow": 10
+  },
+  "1187354946375536715": {
+    "nickname": "Alexander025",
+    "identifier": "alexander025.#0",
+    "id": "1187354946375536715",
+    "xp": 10,
+    "lastUpdate": 1710288014108,
+    "xpGainInWindow": 10
+  },
+  "1212028631350640661": {
+    "nickname": "📢announcement",
+    "identifier": "announcement0070_84168#0",
+    "id": "1212028631350640661",
+    "xp": 20,
+    "lastUpdate": 1710289037511,
+    "xpGainInWindow": 20
+  },
+  "399628910377173004": {
+    "nickname": "Jughead8837",
+    "identifier": "jughead8837#0",
+    "id": "399628910377173004",
+    "xp": 10,
+    "lastUpdate": 1710290469628,
+    "xpGainInWindow": 10
+  },
+  "932086118902530168": {
+    "nickname": "Zenus",
+    "identifier": "Zenus#9367",
+    "id": "932086118902530168",
+    "xp": 10,
+    "lastUpdate": 1710292774157,
+    "xpGainInWindow": 10
+  },
+  "753743989768716449": {
+    "nickname": "Cantina Royale josemanuel",
+    "identifier": "cantinaroyalejosemanuel#0",
+    "id": "753743989768716449",
+    "xp": 10,
+    "lastUpdate": 1710294990810,
+    "xpGainInWindow": 10
+  },
+  "1076168954512412722": {
+    "nickname": "ox.vansh",
+    "identifier": "vansez#0",
+    "id": "1076168954512412722",
+    "xp": 10,
+    "lastUpdate": 1710299488841,
+    "xpGainInWindow": 10
+  },
+  "1206616299958960188": {
+    "nickname": "Itz Ashik,,, 😒😇🥺🥀✅✅",
+    "identifier": "ashik0080#0",
+    "id": "1206616299958960188",
+    "xp": 10,
+    "lastUpdate": 1710300231925,
+    "xpGainInWindow": 10
+  },
+  "1194891117347471471": {
+    "nickname": "Nft_Boy",
+    "identifier": "nft_boy.#0",
+    "id": "1194891117347471471",
+    "xp": 10,
+    "lastUpdate": 1710301399381,
+    "xpGainInWindow": 10
+  },
+  "1050866916203434045": {
+    "nickname": "Inticator",
+    "identifier": "nft_inticator#0",
+    "id": "1050866916203434045",
+    "xp": 10,
+    "lastUpdate": 1710305794758,
+    "xpGainInWindow": 10
+  },
+  "1209688968602452071": {
+    "nickname": "Jahid",
+    "identifier": "896069.#0",
+    "id": "1209688968602452071",
+    "xp": 10,
+    "lastUpdate": 1710306618394,
+    "xpGainInWindow": 10
+  },
+  "811661681645846589": {
+    "nickname": "crypto_twin",
+    "identifier": "crypto_twin#0",
+    "id": "811661681645846589",
+    "xp": 35,
+    "lastUpdate": 1710359443029,
+    "xpGainInWindow": 5
+  },
+  "1190266925335466024": {
+    "nickname": "diganto23",
+    "identifier": "diganto23#0",
+    "id": "1190266925335466024",
+    "xp": 10,
+    "lastUpdate": 1710309811120,
+    "xpGainInWindow": 10
+  },
+  "1217102625791541388": {
+    "nickname": "any_9988",
+    "identifier": "any_9988#0",
+    "id": "1217102625791541388",
+    "xp": 10,
+    "lastUpdate": 1710311716988,
+    "xpGainInWindow": 10
+  },
+  "1217135691771936839": {
+    "nickname": "Sheikh Imran",
+    "identifier": "sheikhimran0555#0",
+    "id": "1217135691771936839",
+    "xp": 10,
+    "lastUpdate": 1710312174723,
+    "xpGainInWindow": 10
+  },
+  "1103522774565277726": {
+    "nickname": "Mr. $awpno 💸",
+    "identifier": "robertdowneyjr.19#0",
+    "id": "1103522774565277726",
+    "xp": 10,
+    "lastUpdate": 1710314732122,
+    "xpGainInWindow": 10
+  },
+  "1209434300903067720": {
+    "nickname": "JeriN💟💟",
+    "identifier": "jerin57#0",
+    "id": "1209434300903067720",
+    "xp": 10,
+    "lastUpdate": 1710315079061,
+    "xpGainInWindow": 10
+  },
+  "1121708052068974652": {
+    "nickname": "Timothy 🌠🥎🌠",
+    "identifier": "timothy.m#0",
+    "id": "1121708052068974652",
+    "xp": 10,
+    "lastUpdate": 1710316988385,
+    "xpGainInWindow": 10
+  },
+  "1121838893948469428": {
+    "nickname": "Banger 🔱🟢🔱",
+    "identifier": "j_bangerz#0",
+    "id": "1121838893948469428",
+    "xp": 10,
+    "lastUpdate": 1710317203410,
+    "xpGainInWindow": 10
+  },
+  "1121754202838937624": {
+    "nickname": "🚿🚿🚿 SHAWN 💊🧽💊",
+    "identifier": "shawnmen#0",
+    "id": "1121754202838937624",
+    "xp": 10,
+    "lastUpdate": 1710317519070,
+    "xpGainInWindow": 10
+  },
+  "1096832567245811742": {
+    "nickname": "Sakib",
+    "identifier": "beaconglobalnasir#0",
+    "id": "1096832567245811742",
+    "xp": 10,
+    "lastUpdate": 1710317648849,
+    "xpGainInWindow": 10
+  },
+  "1143105204456271902": {
+    "nickname": "🟩🛟 Artist 🛟🟩",
+    "identifier": "thesssartist#0",
+    "id": "1143105204456271902",
+    "xp": 10,
+    "lastUpdate": 1710319698096,
+    "xpGainInWindow": 10
+  },
+  "1140624289549262918": {
+    "nickname": "C. Jackie 🌺🥎🌺",
+    "identifier": "c.jackie#0",
+    "id": "1140624289549262918",
+    "xp": 10,
+    "lastUpdate": 1710319733255,
+    "xpGainInWindow": 10
+  },
+  "1186664618244976690": {
+    "nickname": "Lesleychangindustries1990",
+    "identifier": "lesleychangindustries1990_79553#0",
+    "id": "1186664618244976690",
+    "xp": 10,
+    "lastUpdate": 1710320139528,
+    "xpGainInWindow": 10
+  },
+  "1135458933255974952": {
+    "nickname": "M. Maverick",
+    "identifier": "m.maverick#0",
+    "id": "1135458933255974952",
+    "xp": 10,
+    "lastUpdate": 1710320237105,
+    "xpGainInWindow": 10
+  },
+  "1138048945004752989": {
+    "nickname": "J. Statham",
+    "identifier": "j.statham.#0",
+    "id": "1138048945004752989",
+    "xp": 10,
+    "lastUpdate": 1710320400929,
+    "xpGainInWindow": 10
+  },
+  "1217393614716407829": {
+    "nickname": "reyaone",
+    "identifier": "reyaone#0",
+    "id": "1217393614716407829",
+    "xp": 10,
+    "lastUpdate": 1710320661809,
+    "xpGainInWindow": 10
+  },
+  "1140545729308409937": {
+    "nickname": "👸 Mona Lisa ⚜🟢⚪🟡⚜",
+    "identifier": "m.lisa#0",
+    "id": "1140545729308409937",
+    "xp": 10,
+    "lastUpdate": 1710320759243,
+    "xpGainInWindow": 10
+  },
+  "1140628495018491944": {
+    "nickname": "🫓 S. Stallone 🔱🟢🔱",
+    "identifier": "s.stallone#0",
+    "id": "1140628495018491944",
+    "xp": 10,
+    "lastUpdate": 1710320804156,
+    "xpGainInWindow": 10
+  },
+  "1169477230188040195": {
+    "nickname": "Absurd",
+    "identifier": "absurd0051#0",
+    "id": "1169477230188040195",
+    "xp": 10,
+    "lastUpdate": 1710320844649,
+    "xpGainInWindow": 10
+  },
+  "1143111127547514941": {
+    "nickname": "🤡 Jim C. 🟢🔱🟢",
+    "identifier": "jimcarreytc#0",
+    "id": "1143111127547514941",
+    "xp": 10,
+    "lastUpdate": 1710320987142,
+    "xpGainInWindow": 10
+  },
+  "1209163793154838530": {
+    "nickname": "Pio",
+    "identifier": "pio131131#0",
+    "id": "1209163793154838530",
+    "xp": 10,
+    "lastUpdate": 1710321733287,
+    "xpGainInWindow": 10
+  },
+  "1143122189982384228": {
+    "nickname": "Donnie Yen ⚔🟨🟢🟨⚔",
+    "identifier": "donnieyen_#0",
+    "id": "1143122189982384228",
+    "xp": 10,
+    "lastUpdate": 1710321907877,
+    "xpGainInWindow": 10
+  },
+  "1207218351688912948": {
+    "nickname": "☘Crypto mate☘",
+    "identifier": "cryptomate6262#0",
+    "id": "1207218351688912948",
+    "xp": 10,
+    "lastUpdate": 1710321996203,
+    "xpGainInWindow": 10
+  },
+  "1143117819878326282": {
+    "nickname": "Phoenix 🪶🟩🟩",
+    "identifier": "phoenixthemyth#0",
+    "id": "1143117819878326282",
+    "xp": 10,
+    "lastUpdate": 1710322020864,
+    "xpGainInWindow": 10
+  },
+  "1203907259764056087": {
+    "nickname": "go Pagla",
+    "identifier": "gopagla#0",
+    "id": "1203907259764056087",
+    "xp": 10,
+    "lastUpdate": 1710322761519,
+    "xpGainInWindow": 10
+  },
+  "1172848610161983621": {
+    "nickname": "何晴冰",
+    "identifier": "hoqingbing#0",
+    "id": "1172848610161983621",
+    "xp": 10,
+    "lastUpdate": 1710324618679,
+    "xpGainInWindow": 10
+  },
+  "1199431514228801546": {
+    "nickname": "ROCKY:)",
+    "identifier": "rockynft1#0",
+    "id": "1199431514228801546",
+    "xp": 10,
+    "lastUpdate": 1710325743700,
+    "xpGainInWindow": 10
+  },
+  "1143126844225372243": {
+    "nickname": "Shogun 🗡🟩🔴🟩🗡",
+    "identifier": "shogun_r_0_r#0",
+    "id": "1143126844225372243",
+    "xp": 10,
+    "lastUpdate": 1710325823771,
+    "xpGainInWindow": 10
+  },
+  "1135452077074686043": {
+    "nickname": "Huntress 🪟🪟🪟",
+    "identifier": "huntressbtnl#0",
+    "id": "1135452077074686043",
+    "xp": 10,
+    "lastUpdate": 1710325968238,
+    "xpGainInWindow": 10
+  },
+  "1121728160950657054": {
+    "nickname": "John Dale 🚢🍺🥎",
+    "identifier": "john.dale#0",
+    "id": "1121728160950657054",
+    "xp": 10,
+    "lastUpdate": 1710326265498,
+    "xpGainInWindow": 10
+  },
+  "1121720535760523295": {
+    "nickname": "H. Holland 🎃🥎",
+    "identifier": "h.holland#0",
+    "id": "1121720535760523295",
+    "xp": 10,
+    "lastUpdate": 1710326318682,
+    "xpGainInWindow": 10
+  },
+  "1121724375796830251": {
+    "nickname": "💸 V. VeroN 🟨🟥🟨",
+    "identifier": "v.veron#0",
+    "id": "1121724375796830251",
+    "xp": 10,
+    "lastUpdate": 1710326538421,
+    "xpGainInWindow": 10
+  },
+  "1121750712121040926": {
+    "nickname": "#⃣ King Pin 📛⚜📛",
+    "identifier": "kingpin_00#0",
+    "id": "1121750712121040926",
+    "xp": 10,
+    "lastUpdate": 1710326585140,
+    "xpGainInWindow": 10
+  },
+  "1121733208556449902": {
+    "nickname": "Mercury 🌞⭐🌊🥎",
+    "identifier": "b.mercury#0",
+    "id": "1121733208556449902",
+    "xp": 10,
+    "lastUpdate": 1710326645361,
+    "xpGainInWindow": 10
+  },
+  "1172671090577916024": {
+    "nickname": "🍄Frï Sçö😇😊😎",
+    "identifier": "frisco04_60373#0",
+    "id": "1172671090577916024",
+    "xp": 30,
+    "lastUpdate": 1710327261562,
+    "xpGainInWindow": 20
+  },
+  "1135454316795277323": {
+    "nickname": "Gamora",
+    "identifier": "goggamora#0",
+    "id": "1135454316795277323",
+    "xp": 10,
+    "lastUpdate": 1710327100725,
+    "xpGainInWindow": 10
+  },
+  "1135456192429293588": {
+    "nickname": "A. Namora",
+    "identifier": "a.namora#0",
+    "id": "1135456192429293588",
+    "xp": 10,
+    "lastUpdate": 1710327190632,
+    "xpGainInWindow": 10
+  },
+  "1140558692660559942": {
+    "nickname": "M. Robbie",
+    "identifier": "m.robbie#0",
+    "id": "1140558692660559942",
+    "xp": 10,
+    "lastUpdate": 1710327383689,
+    "xpGainInWindow": 10
+  },
+  "1140574361909207040": {
+    "nickname": "S. Zerin",
+    "identifier": "s.zerin#0",
+    "id": "1140574361909207040",
+    "xp": 10,
+    "lastUpdate": 1710327442595,
+    "xpGainInWindow": 10
+  },
+  "546290321244553230": {
+    "nickname": "Arty Generation",
+    "identifier": "artygeneration#0",
+    "id": "546290321244553230",
+    "xp": 10,
+    "lastUpdate": 1710327869330,
+    "xpGainInWindow": 10
+  },
+  "872496220222947339": {
+    "nickname": "5thgod",
+    "identifier": "5thgod#0",
+    "id": "872496220222947339",
+    "xp": 30,
+    "lastUpdate": 1710352705630,
+    "xpGainInWindow": 10
+  },
+  "847947393394671717": {
+    "nickname": "miguel_apaza",
+    "identifier": "miguel_apaza#0",
+    "id": "847947393394671717",
+    "xp": 10,
+    "lastUpdate": 1710339994822,
+    "xpGainInWindow": 10
+  },
+  "943609230513029230": {
+    "nickname": "sakegari🌓",
+    "identifier": "tosuka777#0",
+    "id": "943609230513029230",
+    "xp": 10,
+    "lastUpdate": 1710341296103,
+    "xpGainInWindow": 10
+  },
+  "557642867284377601": {
+    "nickname": "Chesterkoperpot",
+    "identifier": "chesterkoperpot#0",
+    "id": "557642867284377601",
+    "xp": 10,
+    "lastUpdate": 1710341378961,
+    "xpGainInWindow": 10
+  },
+  "969947031781122160": {
+    "nickname": "garba#2409",
+    "identifier": "garba4411#0",
+    "id": "969947031781122160",
+    "xp": 10,
+    "lastUpdate": 1710341384021,
+    "xpGainInWindow": 10
+  },
+  "901133638874333194": {
+    "nickname": "smpljo32",
+    "identifier": "smpljo32#0",
+    "id": "901133638874333194",
+    "xp": 10,
+    "lastUpdate": 1710341673250,
+    "xpGainInWindow": 10
+  },
+  "1205801343395303445": {
+    "nickname": "TonyB",
+    "identifier": "tony8690#0",
+    "id": "1205801343395303445",
+    "xp": 10,
+    "lastUpdate": 1710341756249,
+    "xpGainInWindow": 10
+  },
+  "1199384747076485241": {
+    "nickname": "djoc92",
+    "identifier": "djoc92#0",
+    "id": "1199384747076485241",
+    "xp": 10,
+    "lastUpdate": 1710341797793,
+    "xpGainInWindow": 10
+  },
+  "1050742221827223623": {
+    "nickname": "Kev.B",
+    "identifier": "kevv845#0",
+    "id": "1050742221827223623",
+    "xp": 10,
+    "lastUpdate": 1710341879004,
+    "xpGainInWindow": 10
+  },
+  "492790849705476117": {
+    "nickname": "Andrew",
+    "identifier": "thethird5526#0",
+    "id": "492790849705476117",
+    "xp": 10,
+    "lastUpdate": 1710341913950,
+    "xpGainInWindow": 10
+  },
+  "366998004923891713": {
+    "nickname": "AlexS",
+    "identifier": "alexsid37000#0",
+    "id": "366998004923891713",
+    "xp": 10,
+    "lastUpdate": 1710342097716,
+    "xpGainInWindow": 10
+  },
+  "835854311090028585": {
+    "nickname": "hugo massarelli",
+    "identifier": "zeusoski.#0",
+    "id": "835854311090028585",
+    "xp": 10,
+    "lastUpdate": 1710342133379,
+    "xpGainInWindow": 10
+  },
+  "1159854929758920795": {
+    "nickname": "formimike",
+    "identifier": "formimike#0",
+    "id": "1159854929758920795",
+    "xp": 10,
+    "lastUpdate": 1710342229056,
+    "xpGainInWindow": 10
+  },
+  "1128334925825855619": {
+    "nickname": "Niko Niko",
+    "identifier": "niko34000#0",
+    "id": "1128334925825855619",
+    "xp": 10,
+    "lastUpdate": 1710342292521,
+    "xpGainInWindow": 10
+  },
+  "778159401826779136": {
+    "nickname": "quentin_moureau",
+    "identifier": "cg_luzzy#0",
+    "id": "778159401826779136",
+    "xp": 10,
+    "lastUpdate": 1710342387835,
+    "xpGainInWindow": 10
+  },
+  "1060916943005171732": {
+    "nickname": "NicoCrypto 3.0 🧱",
+    "identifier": "nicopascoutch01#0",
+    "id": "1060916943005171732",
+    "xp": 10,
+    "lastUpdate": 1710342404995,
+    "xpGainInWindow": 10
+  },
+  "408047686445694977": {
+    "nickname": "Martin C_G",
+    "identifier": "badou9373#0",
+    "id": "408047686445694977",
+    "xp": 10,
+    "lastUpdate": 1710342406641,
+    "xpGainInWindow": 10
+  },
+  "1083315701785297017": {
+    "nickname": "Sampaio_29",
+    "identifier": "sampaio_29#0",
+    "id": "1083315701785297017",
+    "xp": 10,
+    "lastUpdate": 1710342631599,
+    "xpGainInWindow": 10
+  },
+  "712399699222462606": {
+    "nickname": "Lozza",
+    "identifier": "laurie7418#0",
+    "id": "712399699222462606",
+    "xp": 10,
+    "lastUpdate": 1710343041844,
+    "xpGainInWindow": 10
+  },
+  "798424984774246421": {
+    "nickname": "jopitt",
+    "identifier": "jopitt#0",
+    "id": "798424984774246421",
+    "xp": 10,
+    "lastUpdate": 1710343415212,
+    "xpGainInWindow": 10
+  },
+  "1103616811179716640": {
+    "nickname": "Brice-M-Austin",
+    "identifier": "brice1979#0",
+    "id": "1103616811179716640",
+    "xp": 10,
+    "lastUpdate": 1710343486873,
+    "xpGainInWindow": 10
+  },
+  "883437399252824116": {
+    "nickname": "cryptorookie7979",
+    "identifier": "cryptorookie7979#0",
+    "id": "883437399252824116",
+    "xp": 40,
+    "lastUpdate": 1710344176206,
+    "xpGainInWindow": 40
+  },
+  "689499136558497999": {
+    "nickname": "mathieu0404",
+    "identifier": "mathieu0404#0",
+    "id": "689499136558497999",
+    "xp": 10,
+    "lastUpdate": 1710344567083,
+    "xpGainInWindow": 10
+  },
+  "736271592115404801": {
+    "nickname": "Jimwenda",
+    "identifier": "jimwenda#0",
+    "id": "736271592115404801",
+    "xp": 10,
+    "lastUpdate": 1710344964677,
+    "xpGainInWindow": 10
+  },
+  "1135291803239714966": {
+    "nickname": "Lucas01",
+    "identifier": "luludu01#0",
+    "id": "1135291803239714966",
+    "xp": 10,
+    "lastUpdate": 1710345152831,
+    "xpGainInWindow": 10
+  },
+  "774010231163977759": {
+    "nickname": "Sir Dragon 🇬🇷",
+    "identifier": "sirdragon_93#0",
+    "id": "774010231163977759",
+    "xp": 10,
+    "lastUpdate": 1710346520612,
+    "xpGainInWindow": 10
+  },
+  "794184590826274817": {
+    "nickname": "suggestionfortheusername0909",
+    "identifier": "suggestionfortheusername0909#0",
+    "id": "794184590826274817",
+    "xp": 10,
+    "lastUpdate": 1710347298490,
+    "xpGainInWindow": 10
+  },
+  "1208804476295848056": {
+    "nickname": "Mathieu",
+    "identifier": "mathieu_ca#0",
+    "id": "1208804476295848056",
+    "xp": 10,
+    "lastUpdate": 1710349469273,
+    "xpGainInWindow": 10
+  },
+  "891324689811648592": {
+    "nickname": "Wonkafella",
+    "identifier": "wonkafella#0",
+    "id": "891324689811648592",
+    "xp": 10,
+    "lastUpdate": 1710357225028,
+    "xpGainInWindow": 10
+  },
+  "1095677382981058682": {
+    "nickname": "Rachou69",
+    "identifier": "rachou69#0",
+    "id": "1095677382981058682",
+    "xp": 10,
+    "lastUpdate": 1710357251609,
+    "xpGainInWindow": 10
+  },
+  "1098706155016032256": {
+    "nickname": "Spaceman",
+    "identifier": "dylanh3857#0",
+    "id": "1098706155016032256",
+    "xp": 10,
+    "lastUpdate": 1710360847672,
+    "xpGainInWindow": 10
+  },
+  "793619237800640564": {
+    "nickname": "UnknownCryptoMan",
+    "identifier": "unknowncryptoman#0",
+    "id": "793619237800640564",
+    "xp": 10,
+    "lastUpdate": 1710362981458,
+    "xpGainInWindow": 10
+  }
+}

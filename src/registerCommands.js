@@ -1,39 +1,51 @@
-const { REST } = require('@discordjs/rest');
-const { Routes } = require('discord-api-types/v9');
-const { commands } = require('./handlers/commandHandler');
-require('dotenv').config();
+require('dotenv').config(); // This line is added to load the environment variables from your .env file
+const { REST, Routes } = require('discord.js');
+const fs = require('node:fs');
+const path = require('node:path');
 
+// Use process.env to access environment variables
 const clientId = process.env.CLIENT_ID;
 const guildId = process.env.BIONIC_GUILD_ID;
-const botToken = process.env.DISCORD_BOT_TOKEN; // Ensure this is your bot token
-const adminRole = process.env.ADMIN_ROLE_ID; // The role ID for admins
+const token = process.env.DISCORD_BOT_TOKEN; // Assuming you have these names in your .env
 
-async function registerCommands() {
-    const rest = new REST({ version: '9' }).setToken(`Bot ${botToken}`);
+const commands = [];
+// Grab all the command folders from the commands directory you created earlier
+const foldersPath = path.join(__dirname, 'commands');
+const commandFolders = fs.readdirSync(foldersPath);
 
+for (const folder of commandFolders) {
+    // Grab all the command files from the commands directory you created earlier
+    const commandsPath = path.join(foldersPath, folder);
+    const commandFiles = fs.readdirSync(commandsPath).filter(file => file.endsWith('.js'));
+    // Grab the SlashCommandBuilder#toJSON() output of each command's data for deployment
+    for (const file of commandFiles) {
+        const filePath = path.join(commandsPath, file);
+        const command = require(filePath);
+        if ('data' in command && 'execute' in command) {
+            commands.push(command.data.toJSON());
+        } else {
+            console.log(`[WARNING] The command at ${filePath} is missing a required "data" or "execute" property.`);
+        }
+    }
+}
+
+// Construct and prepare an instance of the REST module
+const rest = new REST({ version: '9' }).setToken(token); // Ensure you specify the API version
+
+// and deploy your commands!
+(async () => {
     try {
-        console.log('Started refreshing application (/) commands.');
+        console.log(`Started refreshing ${commands.length} application (/) commands.`);
 
-        const commandsData = Array.from(commands.values()).map(cmd => cmd.data.toJSON());
-
-        // Register commands
-        await rest.put(
+        // The put method is used to fully refresh all commands in the guild with the current set
+        const data = await rest.put(
             Routes.applicationGuildCommands(clientId, guildId),
-            { body: commandsData },
+            { body: commands },
         );
 
-        console.log('Successfully reloaded application (/) commands.');
-
-        // Optionally, fetch the full list of commands registered in the guild to get their IDs
-        // This step is necessary if you need command IDs for setting permissions
-        const registeredCommands = await rest.get(
-            Routes.applicationGuildCommands(clientId, guildId),
-        );
-        
-        } catch (error) {
-                console.error('Failed to register commands or set permissions:', error);
-         }
-            
-}   
-
-module.exports = { registerCommands };
+        console.log(`Successfully reloaded ${data.length} application (/) commands.`);
+    } catch (error) {
+        // And of course, make sure you catch and log any errors!
+        console.error(error);
+    }
+})();
