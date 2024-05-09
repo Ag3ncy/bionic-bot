@@ -211,12 +211,12 @@ async function handleLearnAboutBionic(interaction) {
                 .setPlaceholder('Select a section to learn more')
                 .addOptions([
                     { label: '📜 About Bionic', description: 'Start your Bionic journey and learn what we\'re all about', value: 'about_bionic' },
-					{ label: 'test1', description: 'Start your Bionic journey and learn what we\'re all about', value: 'test1' },
-					{ label: 'test2', description: 'Start your Bionic journey and learn what we\'re all about', value: 'test2' },
-					{ label: 'test3', description: 'Start your Bionic journey and learn what we\'re all about', value: 'test3' },
-					{ label: 'test4', description: 'Start your Bionic journey and learn what we\'re all about', value: 'test4' },
-					{ label: 'test5', description: 'Start your Bionic journey and learn what we\'re all about', value: 'test5' },
-					{ label: 'test6', description: 'Start your Bionic journey and learn what we\'re all about', value: 'test6' },
+					{ label: '👁️ Our Vision', description: 'Why we exist and what we\'re here to change', value: 'test1' },
+					{ label: '📈 The Bionic Platform', description: 'The gamechanging data-rich investment hub', value: 'test2' },
+					{ label: '👩‍🚀 ZERØ', description: 'Our AI concierge, here to guide you through your investment journey', value: 'test3' },
+					{ label: '👽 Another Category', description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. ', value: 'test4' },
+					{ label: '⭐ A great USP', description: 'Donec vitae sem at dolor bibendum sagittis.', value: 'test5' },
+					{ label: '🌍 A final category', description: 'Integer enim lectus, sollicitudin ut convallis et, tristique non justo.', value: 'test6' },
                 ])
         );
 
@@ -270,9 +270,9 @@ async function handleMeetTheTeam(interaction) {
     console.log("Handling 'Meet The Team' interaction.");
     const teamCategoryRow = new ActionRowBuilder()
         .addComponents(
-            new ButtonBuilder().setCustomId('bionic_team_0').setLabel('Bionic Team').setStyle(ButtonStyle.Primary),
-            new ButtonBuilder().setCustomId('advisors_deal_flow_0').setLabel('Advisors (Deal-Flow)').setStyle(ButtonStyle.Primary),
-            new ButtonBuilder().setCustomId('advisors_strategic_0').setLabel('Advisors (Strategic)').setStyle(ButtonStyle.Primary)
+            new ButtonBuilder().setCustomId('bionic_team_0').setLabel('💊 Bionic Team').setStyle(ButtonStyle.Primary),
+            new ButtonBuilder().setCustomId('advisors_deal_flow_0').setLabel('🤝 Advisors (Deal-Flow)').setStyle(ButtonStyle.Primary),
+            new ButtonBuilder().setCustomId('advisors_strategic_0').setLabel('💭 Advisors (Strategic)').setStyle(ButtonStyle.Primary)
         );
 
     console.log("Sending team category buttons to the user.");
@@ -433,7 +433,7 @@ async function handleSelectMenu(interaction) {
             embed = aboutBionicEmbed();
             break;
 		case 'test1':
-			embed = new EmbedBuilder().setTitle('Test 1').setDescription('Test 1 Description');
+			embed = new EmbedBuilder().setTitle('👁️ Our Vision').setDescription('Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae sem at dolor bibendum sagittis. Integer enim lectus, sollicitudin ut convallis et, tristique non justo. Donec nec leo id justo rhoncus accumsan. Pellentesque aliquet eleifend dapibus. Ut luctus nulla ac libero blandit tempus. Proin eu elit ipsum. In ornare et nisl et volutpat. Phasellus laoreet lacus magna, a tempus tellus semper eu. Vestibulum iaculis, quam vitae tristique volutpat, augue orci tincidunt odio, sit amet feugiat tortor lorem sed quam. Integer semper mauris et orci pretium ornare. \n \n Praesent id augue et dui facilisis venenatis. Sed velit dui, suscipit id tellus sit amet, volutpat fermentum nulla. Pellentesque iaculis lorem at blandit maximus. Curabitur luctus fringilla turpis, ut pulvinar nisi fermentum dignissim. Donec sodales nisl ac sapien vestibulum, ut imperdiet ipsum pulvinar. Nunc metus felis, tristique at sodales vitae, aliquam porttitor enim. Vestibulum molestie, diam a mollis sodales, purus nibh luctus odio, vitae efficitur sapien sem in magna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.').setColor('#af72ff');
     }
     await interaction.update({
         embeds: [embed]

@@ -131,3 +131,6 @@ dist
 package-lock.json
 package.json
 package.json
+src/services/xp/xpData.json
+package-lock.json
+package-lock.json
