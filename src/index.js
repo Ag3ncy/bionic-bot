@@ -516,7 +516,7 @@ client.on('messageCreate', async message => {
 					}
 					break;
 
-				case '!topusers':
+				/*case '!topusers':
 					const topUsers = xpService.getTopUsers();
 					const itemsPerPage = 10; // Number of users to show per page
 					const pages = Math.ceil(topUsers.length / itemsPerPage);
@@ -595,7 +595,7 @@ client.on('messageCreate', async message => {
 							components: []
 						}); // Disable buttons after the collector ends
 					});
-					break;
+					break;*/
 
 				case '!admincommands':
 					try {
@@ -613,7 +613,7 @@ client.on('messageCreate', async message => {
 								value: 'Check XP of a user.'
 							}, {
 								name: '!topusers',
-								value: 'Get the top users by XP.'
+								value: 'Get the top users by XP (not working).'
 							}, )
 							.setColor('#af72ff');
 						message.channel.send({
