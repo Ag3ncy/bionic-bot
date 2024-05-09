@@ -10,9 +10,7 @@ const {
 	StringSelectMenuBuilder,
 	AttachmentBuilder
 } = require('discord.js');
-const {
-	executeCommand
-} = require('./handlers/commandHandler');
+// const {	executeCommand } = require('./handlers/commandHandler');
 const analyticsService = require('./services/analyticsService');
 const xpService = require('./services/xp/xpService');
 const roleSelectionEmbed = require('./embeds/roleDescriptions');
@@ -93,7 +91,8 @@ client.on('interactionCreate', async interaction => {
 
     try {
         if (interaction.isChatInputCommand()) {
-            await executeCommand(interaction);
+            console.log('fix this');
+            //await executeCommand(interaction);
         } else if (interaction.isButton()) {
             switch (interaction.customId) {
                 case 'get-roles':
