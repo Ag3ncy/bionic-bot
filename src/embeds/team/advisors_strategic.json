@@ -9,16 +9,23 @@
     {
         "name": "Morgan Richards",
         "role": "Founder of ValleyDAO",
-        "image": "https://cdn-longterm.mee6.xyz/plugins/embeds/images/1151885478472208576/f132ac922e1efd934113d932b476d85be94b779b9ca3041d02d376293e2b3c29.png",
+        "image": "https://cdn.prod.website-files.com/66ba2344d6d1059b97ac25c2/66ba32b783a435c383034e46_MorganRichards.png",
         "bio": "He leads in advancing Synthetic Biology through DeSci initiatives, focusing on tokenomics and product innovation within an online ecosystem for research translation. With a rich blend of expertise from AI to Decentralised Science, he is dedicated to leveraging web3 and DeFi technologies to enhance global biotechnology research and impact.",
         "linkedin": "https://www.linkedin.com/in/morgan-w-richards/"
     },
     {
         "name": "Lili Eva Bartha",
         "role": "CEO & Founder of G3NRA",
-        "image": "https://cdn-longterm.mee6.xyz/plugins/embeds/images/1151885478472208576/1fac93d4b7a488251cc01fb1f3c913ad99935b6fdff7454081ffbd91c1c39185.png",
+        "image": "https://cdn.prod.website-files.com/66ba2344d6d1059b97ac25c2/66ba254b588a049bb9636c8a_Lily.png",
         "bio": "She is the founder of GN3RA and an award-winning Digital Fashion and XR expert, innovating in the creation of digital outfits for virtual realms. With a rich background in fashion design and applied mathematics, she advocates for easier access to digital content creation, drawing from extensive experience in fashion, gaming, and academia to empower digital self-expression.",
         "linkedin": "https://www.linkedin.com/in/enterthefashionverse/"
+    },
+    {
+        "name": "Rupert Breheny",
+        "role": "Founder of cobalt.",
+        "image": "https://cdn.prod.website-files.com/66ba2344d6d1059b97ac25c2/66ba33bc07da7c22d8314771_Rupert.png",
+        "bio": "Coming out of 16 years at Google, Rupert is an AI and XR maestro with a proven track record as a Speaker, Technical specialist, and XR/AI advisor for startups. Specializing in subjects including Generative AI, The Metaverse, Virtual Reality, Wearable Tech, and Virtual Beings.",
+        "linkedin": "https://www.linkedin.com/in/rupertbreheny/"
     }
   ]
   

@@ -16,9 +16,14 @@ const xpService = require('./services/xp/xpService');
 const roleSelectionEmbed = require('./embeds/roleDescriptions');
 const officialLinksEmbed = require('./embeds/officialLinks');
 const aboutBionicEmbed = require('./embeds/aboutBionic');
+const investmentThesisEmbed = require('./embeds/investmentThesis');
 const faqEmbed = require('./embeds/faq');
 const fs = require('fs');
 const path = require('path');
+const bionicPlatformEmbed = require('./embeds/bionicPlatform');
+const daoOverviewEmbed = require('./embeds/daoOverview');
+const howBionicWorksEmbed = require('./embeds/howBionicWorks');
+const whyADaoEmbed = require('./embeds/whyADao');
 
 // Initialize Discord client
 const client = new Client({
@@ -40,7 +45,7 @@ client.once('ready', async () => {
     } catch (error) {
         console.error("Error loading profiles:", error);
     }
-    const channel = client.channels.cache.get('1232649437155954789'); 
+    const channel = client.channels.cache.get('1209143673162440704'); 
     if (!channel) {
         console.log('Channel not found');
         return;
@@ -70,7 +75,7 @@ client.once('ready', async () => {
                 .setStyle(ButtonStyle.Secondary)
         );
 
-    const imagePath = 'src/assets/welcome.png'; 
+    const imagePath = './assets/welcome.png'; 
     const imageAttachment = new AttachmentBuilder(imagePath);
 
     try {
@@ -209,13 +214,36 @@ async function handleLearnAboutBionic(interaction) {
                 .setCustomId('faq-select')
                 .setPlaceholder('Select a section to learn more')
                 .addOptions([
-                    { label: '📜 About Bionic', description: 'Start your Bionic journey and learn what we\'re all about', value: 'about_bionic' },
-					{ label: '👁️ Our Vision', description: 'Why we exist and what we\'re here to change', value: 'test1' },
-					{ label: '📈 The Bionic Platform', description: 'The gamechanging data-rich investment hub', value: 'test2' },
-					{ label: '👩‍🚀 ZERØ', description: 'Our AI concierge, here to guide you through your investment journey', value: 'test3' },
-					{ label: '👽 Another Category', description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. ', value: 'test4' },
-					{ label: '⭐ A great USP', description: 'Donec vitae sem at dolor bibendum sagittis.', value: 'test5' },
-					{ label: '🌍 A final category', description: 'Integer enim lectus, sollicitudin ut convallis et, tristique non justo.', value: 'test6' },
+                    {
+                        label: '🏗️ Overview',
+                        description: 'An introduction to Bionic and its mission.',
+                        value: 'about_bionic'
+                    },
+                    {
+                        label: '⚙️ How Bionic Works',
+                        description: 'Discover how the Bionic DAO platform operates.',
+                        value: 'how_bionic_works'
+                    },
+                    {
+                        label: '💻 The Bionic Platform',
+                        description: 'Explore the features of the Bionic platform, designed for investors.',
+                        value: 'bionic_platform'
+                    },
+                    {
+                        label: '💡 Investment Thesis',
+                        description: 'Understand Bionic’s approach to innovation and technology.',
+                        value: 'investment_thesis'
+                    },
+                    {
+                        label: '🏛️ Why an Investment DAO?',
+                        description: 'Learn why Bionic is structured as a DAO and its benefits.',
+                        value: 'why_a_dao'
+                    },
+                    {
+                        label: '🌐 DAO Overview',
+                        description: 'A detailed look at how the Bionic DAO is structured and governed.',
+                        value: 'dao_overview'
+                    }                    
                 ])
         );
 
@@ -229,6 +257,34 @@ async function handleLearnAboutBionic(interaction) {
 		embeds: [embed],
         components: [row],
         ephemeral: true
+    });
+}
+
+async function handleSelectMenu(interaction) {
+    const selectedValue = interaction.values[0];
+    let embed;
+    switch (selectedValue) {
+        case 'about_bionic':
+            embed = aboutBionicEmbed();
+            break;
+		case 'investment_thesis':
+            embed = investmentThesisEmbed();
+            break;
+        case 'how_bionic_works':
+            embed = howBionicWorksEmbed();
+            break;
+        case 'bionic_platform':
+            embed = bionicPlatformEmbed();
+            break;
+        case 'why_a_dao':
+            embed = whyADaoEmbed();
+            break;
+        case 'dao_overview':
+            embed = daoOverviewEmbed();
+            break;
+    }
+    await interaction.update({
+        embeds: [embed]
     });
 }
 
@@ -423,21 +479,6 @@ async function handleReturnToCategories(interaction) {
     });
 }
 
-
-async function handleSelectMenu(interaction) {
-    const selectedValue = interaction.values[0];
-    let embed;
-    switch (selectedValue) {
-        case 'about_bionic':
-            embed = aboutBionicEmbed();
-            break;
-		case 'test1':
-			embed = new EmbedBuilder().setTitle('👁️ Our Vision').setDescription('Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae sem at dolor bibendum sagittis. Integer enim lectus, sollicitudin ut convallis et, tristique non justo. Donec nec leo id justo rhoncus accumsan. Pellentesque aliquet eleifend dapibus. Ut luctus nulla ac libero blandit tempus. Proin eu elit ipsum. In ornare et nisl et volutpat. Phasellus laoreet lacus magna, a tempus tellus semper eu. Vestibulum iaculis, quam vitae tristique volutpat, augue orci tincidunt odio, sit amet feugiat tortor lorem sed quam. Integer semper mauris et orci pretium ornare. \n \n Praesent id augue et dui facilisis venenatis. Sed velit dui, suscipit id tellus sit amet, volutpat fermentum nulla. Pellentesque iaculis lorem at blandit maximus. Curabitur luctus fringilla turpis, ut pulvinar nisi fermentum dignissim. Donec sodales nisl ac sapien vestibulum, ut imperdiet ipsum pulvinar. Nunc metus felis, tristique at sodales vitae, aliquam porttitor enim. Vestibulum molestie, diam a mollis sodales, purus nibh luctus odio, vitae efficitur sapien sem in magna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.').setColor('#af72ff');
-    }
-    await interaction.update({
-        embeds: [embed]
-    });
-}
 
 
 

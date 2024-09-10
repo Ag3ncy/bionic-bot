@@ -2,7 +2,23 @@ const { EmbedBuilder } = require('discord.js');
 
 module.exports = () => {
     return new EmbedBuilder()
-        .setTitle('About Bionic')
-        .setDescription('Welcome to Bionic!\n\nBionic is a new Investment DAO that is set to connect the best Web3 founders with the savviest investors and supercharge the best and brightest ideas on the planet.\n\nBionic is not like any other investment platform. It is the place where new ideas are sparked into life, driven by collaboration and knowledge-sharing.\n\nFounded by established Web3 leaders and shaped by a world-class advisory board, Bionic is set to change the way that innovative ideas are fostered and delivered.')
+        .setTitle('Bionic DAO')
+        .setDescription(`**Our Belief**
+We believe in a decentralized future and a better way to drive innovation.
+
+**Mission**
+Bionic is building an open protocol that provides projects of all sizes with a permissionless framework for starting, funding, and launching technologies that push humanity forward.
+
+**Starting the Journey**
+We begin with a members-only community that offers exclusive access to top-tier investment opportunities and a DAO dedicated to optimizing systems for startup growth. This community of forward-thinkers will be the catalysts of change.
+
+**DAO Incentives**
+Members are incentivized to support, promote, and advise projects on Bionic, laying the crypto-economic foundation for future technology launches.
+
+**Focus Areas**
+Bionic is focused on Synthetic Reality, AI, DeSci, and smart infrastructure. These technologies demand new models for funding, incubation, and acceleration.
+
+**Vision for the Future**
+Over the next three years, Bionic will fully decentralize, operating almost entirely on smart contract rails. These rails will connect people and ideas to resources and ensure that the best ideas have a chance to reshape the world.`)
         .setColor('#af72ff');
 };

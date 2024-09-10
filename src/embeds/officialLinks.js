@@ -30,15 +30,15 @@ module.exports = () => {
             inline: true
         }, {
             name: '📜 Whitepaper',
-            value: '[Explore](https://docs.bionicdao.com/)',
+            value: '[Explore](https://bionic-dao.gitbook.io/bionic-dao-docs)',
             inline: true
         }, {
             name: '📺 TikTok',
             value: '[Watch](https://www.tiktok.com/@bionicdao_)',
             inline: true
         }, {
-            name: '💬 Discord',
-            value: '[Share](https://discord.gg/bionicdao)',
+            name: '💬 Telegram',
+            value: '[Join](https://t.me/officialbionicdao)',
             inline: true
         })
         .setColor('#af72ff');
